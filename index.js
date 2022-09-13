@@ -11,6 +11,10 @@ const {generateNormalityTexturesPage, generateLinks, generateFlags, generateOver
 const TEXT_DIR = ['textures']
 const TEXT_BASE = path.resolve(__dirname, 'docs', ...TEXT_DIR)
 
+/** Prefix to use for linking to image files. */
+const IMG_PREFIX_LOCAL = './'
+const IMG_PREFIX_GHPAGES = `https://media.githubusercontent.com/media/msikma/normtextures/develop/docs/`
+
 /** Descriptions of each file. */
 const descriptions = {
   'abovetv.das': ['The loft above the TV station.'],
@@ -78,7 +82,7 @@ const main = async () => {
   const flagData = getFlagStats(allMapsData, flagDescriptions)
 
   const flags = generateFlags(flagData)
-  const overview = generateOverview(allMapsData, descriptions, TEXT_DIR)
+  const overview = generateOverview(allMapsData, descriptions, TEXT_DIR, IMG_PREFIX_GHPAGES)
   const links = generateLinks(allMapsData, descriptions)
   const prob = generateProblematic(problematic)
   const html = generateNormalityTexturesPage(overview, links, prob, flags, problematic)
