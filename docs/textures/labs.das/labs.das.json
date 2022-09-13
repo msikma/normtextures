@@ -1,0 +1,4434 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "LIFT",
+      "description": "Lift door to labs",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 115300,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006303",
+      "filename": "LIFT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "SKY",
+      "description": "Skyline thunder",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 815241,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x102157d",
+      "filename": "SKY.gif",
+      "flags": [
+        "0x100",
+        "0x200"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "CEILING1",
+      "description": "Ceiling in entrance",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "CEILING1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "AIRDOOR2",
+      "description": "Back of the airdoor",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 27910,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001773",
+      "filename": "AIRDOOR2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "LABWAL1",
+      "description": "Laboratory wall 1",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 23077,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001345",
+      "filename": "LABWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "LABWAL2",
+      "description": "Laboratory wall 2",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10102,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000080d",
+      "filename": "LABWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "LABWAL3",
+      "description": "Laboratory wall 3",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 23077,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001345",
+      "filename": "LABWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "WINDOW1",
+      "description": "Office windows",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 22048,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001262",
+      "filename": "WINDOW1.gif",
+      "flags": [
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "LABWAL4",
+      "description": "Laboratory wall4",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 25381,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001543",
+      "filename": "LABWAL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "LABWAL5",
+      "description": "Laboratory wall5 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 9352,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000767",
+      "filename": "LABWAL5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "LABWAL6",
+      "description": "Laboratory wall6 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 13093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000aa3",
+      "filename": "LABWAL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "LABWAL7",
+      "description": "Laboratory wall7 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10032,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007fe",
+      "filename": "LABWAL7.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "LABWAL8",
+      "description": "Laboratory wall8 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7456,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005c4",
+      "filename": "LABWAL8.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "LABWAL9",
+      "description": "Laboratory wall9 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 13093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000aa3",
+      "filename": "LABWAL9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "LABWALA",
+      "description": "Laboratory walla ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10032,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007fe",
+      "filename": "LABWALA.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "LABWALB",
+      "description": "Laboratory wallb ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6949,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000553",
+      "filename": "LABWALB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "DOREDGE",
+      "description": "Door edge",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3407,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000243",
+      "filename": "DOREDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "OOWALL1",
+      "description": "Outside outpost wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "OOWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "FLOOR",
+      "description": "Floor",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "FLOOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "DOOR",
+      "description": "Doors in lab offices",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 28272,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100017c3",
+      "filename": "DOOR.gif",
+      "flags": [
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "LABWAL3A",
+      "description": "Corner curve bit",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3877,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ab",
+      "filename": "LABWAL3A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "LABSEC1",
+      "description": "Main lab sect 1",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 90254,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004d5b",
+      "filename": "LABSEC1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "LABSEC2",
+      "description": "Main lab sect 2",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 90254,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004d5b",
+      "filename": "LABSEC2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "CORNSEC",
+      "description": "Corner sections bit",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003eb",
+      "filename": "CORNSEC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "LABSEC3",
+      "description": "Main lab sect 3 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 22941,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001327",
+      "filename": "LABSEC3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "LABSEC4",
+      "description": "Main lab sect 4 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 15916,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000d14",
+      "filename": "LABSEC4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "LABSEC5",
+      "description": "Main lab sect 5 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 91609,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004e87",
+      "filename": "LABSEC5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "LABSEC6",
+      "description": "Main lab sect 6",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 129106,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006ef3",
+      "filename": "LABSEC6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "DANGRSEC",
+      "description": "Main lab sect 7",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 452791,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000691",
+      "filename": "DANGRSEC.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "LABWIN1",
+      "description": "Lab window section 1",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 11398,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000092c",
+      "filename": "LABWIN1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "LABWIN2",
+      "description": "Lab window section 2",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 15333,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c93",
+      "filename": "LABWIN2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "LABWIN3",
+      "description": "Lab window section 3",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10743,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000089b",
+      "filename": "LABWIN3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "WINDOW",
+      "description": "Lab Window panel",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 36218,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ea2",
+      "filename": "WINDOW.gif",
+      "flags": [
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "X-RAY",
+      "description": "X-ray panel",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 44979,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000247",
+      "filename": "X-RAY.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "LABSEC3A",
+      "description": "Main lab sect 3 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 23393,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000138b",
+      "filename": "LABSEC3A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "LABSEC3B",
+      "description": "Main lab sect 3 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 18875,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000fa3",
+      "filename": "LABSEC3B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "MONIT1",
+      "description": "Monitor 1 ",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 197593,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100041a",
+      "filename": "MONIT1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "MONISIDE",
+      "description": "Monitor side",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 30440,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100019a3",
+      "filename": "MONISIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "MONIBACK",
+      "description": "Monitor back",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 15622,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000cd3",
+      "filename": "MONIBACK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "MONIT2",
+      "description": "Monitor 2",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 197593,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110006f0",
+      "filename": "MONIT2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "MONIT3",
+      "description": "Monitor 3",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 172994,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110004d1",
+      "filename": "MONIT3.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "SCANNEND",
+      "description": "Scanner end seciton",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 44174,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002583",
+      "filename": "SCANNEND.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "SCANTOP",
+      "description": "Scanner bench top",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "SCANTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "BNCHSIDE",
+      "description": "Bench side texture",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000033",
+      "filename": "BNCHSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "SCANNER",
+      "description": "Scanning light",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 288326,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110005a0",
+      "filename": "SCANNER.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "PIPEPANL",
+      "description": "Air pipe panel",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 8936,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000070b",
+      "filename": "PIPEPANL.gif",
+      "flags": [
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "PIPANL2",
+      "description": "Air pipe panel 2",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 8976,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000714",
+      "filename": "PIPANL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "AIRDOOR",
+      "description": "Air pipe door",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 27910,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001773",
+      "filename": "AIRDOOR.gif",
+      "flags": [
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "PIPECONT",
+      "description": "Air pipe controls",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 8936,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000070b",
+      "filename": "PIPECONT.gif",
+      "flags": [
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "CONTPANL",
+      "description": "Desk control panel ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "CONTPANL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "WINDOW2",
+      "description": "Window with shutter",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 36218,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ea2",
+      "filename": "WINDOW2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "LCDSCRN",
+      "description": "Lcd Screen Display",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 313241,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000bc7",
+      "filename": "LCDSCRN.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "WINDWHOL",
+      "description": "Smashed window to ev.lab",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 22048,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001262",
+      "filename": "WINDWHOL.gif",
+      "flags": [
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "DESKED1",
+      "description": "Desk front",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3877,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ab",
+      "filename": "DESKED1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "DESKED2",
+      "description": "Desk side",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1997,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000010b",
+      "filename": "DESKED2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "FILDOR2",
+      "description": "Filing cabinet door",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 23031,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000133b",
+      "filename": "FILDOR2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "DESKTOP",
+      "description": "Desk top texture",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "DESKTOP.gif",
+      "flags": [
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "OFWAL1",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 95269,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100051b1",
+      "filename": "OFWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "OFWAL2",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5028,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003aa",
+      "filename": "OFWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "OFWAL3",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3877,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ab",
+      "filename": "OFWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "OFWAL4",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3492,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000256",
+      "filename": "OFWAL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "OFWAL5",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 9817,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007ce",
+      "filename": "OFWAL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "OFWAL7",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 13093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000aa3",
+      "filename": "OFWAL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "OFWAL8",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 9817,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007ce",
+      "filename": "OFWAL8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "OFWAL9",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7242,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000594",
+      "filename": "OFWAL9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "OFWALA",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 13093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000aa3",
+      "filename": "OFWALA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "OFWALB",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 9157,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000073c",
+      "filename": "OFWALB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "OFWALC",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 25381,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001543",
+      "filename": "OFWALC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 86,
+      "name": "OFWALD",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3492,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000256",
+      "filename": "OFWALD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "OFWALE",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3109,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000201",
+      "filename": "OFWALE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "OFWALF",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4260,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000300",
+      "filename": "OFWALF.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "OFWALG",
+      "description": "Office wall",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 756697,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000cbb",
+      "filename": "OFWALG.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "OFWALH",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5413,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003ff",
+      "filename": "OFWALH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "OFWALI",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3877,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ab",
+      "filename": "OFWALI.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "OFWALJ",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4645,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000355",
+      "filename": "OFWALJ.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "OFWALK",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 36516,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ee4",
+      "filename": "OFWALK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "OFWALL",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10942,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008c7",
+      "filename": "OFWALL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "OFWALM",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 86436,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004a0e",
+      "filename": "OFWALM.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "OFWALN",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4260,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000300",
+      "filename": "OFWALN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "OFWALO",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3877,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ab",
+      "filename": "OFWALO.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "OFWALP",
+      "description": "Office wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5028,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003aa",
+      "filename": "OFWALP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "EVWALLA",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 76452,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000416c",
+      "filename": "EVWALLA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "EVWALLA1",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4645,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000355",
+      "filename": "EVWALLA1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "EVWALLB",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 12325,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100009f9",
+      "filename": "EVWALLB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "EVWALLC",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 91722,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004ea0",
+      "filename": "EVWALLC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "EVWALLD",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3325,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000231",
+      "filename": "EVWALLD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "EVWALLE",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 13689,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000b27",
+      "filename": "EVWALLE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "EVWALLF",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 66085,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003875",
+      "filename": "EVWALLF.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "EVWALLF1",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 22161,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000127b",
+      "filename": "EVWALLF1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "EVWALLF2",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 18071,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ef1",
+      "filename": "EVWALLF2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "EVWALLG1",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3877,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ab",
+      "filename": "EVWALLG1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "EVWALLG2",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3877,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ab",
+      "filename": "EVWALLG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "EVWALLG3",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4260,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000300",
+      "filename": "EVWALLG3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "EVWALLH",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 9157,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000073c",
+      "filename": "EVWALLH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "EVWALLI",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 13093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000aa3",
+      "filename": "EVWALLI.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "EVWALLJ",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10032,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007fe",
+      "filename": "EVWALLJ.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "EVWALLK",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7242,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000594",
+      "filename": "EVWALLK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 115,
+      "name": "EVWALLL",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 13093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000aa3",
+      "filename": "EVWALLL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 116,
+      "name": "EVWALLM",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10032,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007fe",
+      "filename": "EVWALLM.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "EVWALLO",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3877,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ab",
+      "filename": "EVWALLO.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 119,
+      "name": "EVWALLP",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3109,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000201",
+      "filename": "EVWALLP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 120,
+      "name": "EVWALLQ",
+      "description": "Evidence lab wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4260,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000300",
+      "filename": "EVWALLQ.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 121,
+      "name": "EVWALLG",
+      "description": "Evidence lab wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5413,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003ff",
+      "filename": "EVWALLG.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 122,
+      "name": "BOARD",
+      "description": "Blackboard l.side",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 122731,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006970",
+      "filename": "BOARD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 123,
+      "name": "BOARD2",
+      "description": "Blackboard r.side ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 129539,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006f53",
+      "filename": "BOARD2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 124,
+      "name": "BAKBOARD",
+      "description": "Back of b.board",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 81674,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100045f0",
+      "filename": "BAKBOARD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 125,
+      "name": "SINKLONG",
+      "description": "Sink",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6045,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000048b",
+      "filename": "SINKLONG.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 126,
+      "name": "SINKBOTT",
+      "description": "Sink botty ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "SINKBOTT.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 127,
+      "name": "SNKSHORT",
+      "description": "Sink ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "SNKSHORT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 128,
+      "name": "SHLFBAK",
+      "description": "Shelf",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 22932,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001325",
+      "filename": "SHLFBAK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 129,
+      "name": "SHLFSIDE",
+      "description": "Shelf ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6406,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004db",
+      "filename": "SHLFSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 130,
+      "name": "SHLFSID2",
+      "description": "Shelf ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 2485,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000177",
+      "filename": "SHLFSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 131,
+      "name": "SINK1",
+      "description": "Sink side1",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7039,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000567",
+      "filename": "SINK1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 132,
+      "name": "SINK2",
+      "description": "Sink side2 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 35509,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001e05",
+      "filename": "SINK2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 133,
+      "name": "GLASSCAB",
+      "description": "Glass cabinet",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 19453,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001023",
+      "filename": "GLASSCAB.gif",
+      "flags": [
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 134,
+      "name": "BORDSIDE",
+      "description": "Edge of board",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5326,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003ec",
+      "filename": "BORDSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 135,
+      "name": "FILDOOR",
+      "description": "Filing cabinet door",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 23031,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000133b",
+      "filename": "FILDOOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 136,
+      "name": "TABLETOP",
+      "description": "Table top",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "TABLETOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 137,
+      "name": "FLATS1",
+      "description": "Flat front",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 77272,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004222",
+      "filename": "FLATS1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 138,
+      "name": "FLATS2",
+      "description": "Flat front ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 78402,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000431c",
+      "filename": "FLATS2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 139,
+      "name": "FLATS3",
+      "description": "Flat front ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 78282,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004301",
+      "filename": "FLATS3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 140,
+      "name": "SCAFED1",
+      "description": "Scaffold side",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 8963,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000711",
+      "filename": "SCAFED1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 141,
+      "name": "SCAFED2",
+      "description": "Scaffold side",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 21107,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001191",
+      "filename": "SCAFED2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 142,
+      "name": "SCAFTOP",
+      "description": "Scaffold top",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "SCAFTOP.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 143,
+      "name": "LADDER",
+      "description": "Telescopic ladder",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 33332,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c23",
+      "filename": "LADDER.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 144,
+      "name": "SHELF",
+      "description": "Shelf ffrnt",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3761,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000292",
+      "filename": "SHELF.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 145,
+      "name": "WINDOW3",
+      "description": "Window smash",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 36218,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ea2",
+      "filename": "WINDOW3.gif",
+      "flags": [
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 146,
+      "name": "FILBACK",
+      "description": "Filing back",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 23031,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000133b",
+      "filename": "FILBACK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 147,
+      "name": "FILSIDE",
+      "description": "Filing side ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 27910,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001773",
+      "filename": "FILSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 149,
+      "name": "G_SIDE",
+      "description": "grinder sidetex ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 54872,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002ec3",
+      "filename": "G_SIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 150,
+      "name": "G_TEETH",
+      "description": "grinder tegtex ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 8394,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000693",
+      "filename": "G_TEETH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 151,
+      "name": "G_FRONT",
+      "description": "sans cog ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 9659,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007ab",
+      "filename": "G_FRONT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 152,
+      "name": "G_FRONT2",
+      "description": "avec cog",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 9659,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007ab",
+      "filename": "G_FRONT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 153,
+      "name": "FILSID2",
+      "description": "File side 2",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 2973,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001e3",
+      "filename": "FILSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 154,
+      "name": "SHLFKEY1",
+      "description": "Shelf key ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6406,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004db",
+      "filename": "SHLFKEY1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 155,
+      "name": "SHLFKEY2",
+      "description": "Shelf key ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 23212,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001363",
+      "filename": "SHLFKEY2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 156,
+      "name": "INSTRM1",
+      "description": "noobrainscantex ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7129,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000057b",
+      "filename": "INSTRM1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 157,
+      "name": "INSTRM2",
+      "description": "noobrainscantex ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6226,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004b3",
+      "filename": "INSTRM2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 158,
+      "name": "INSTRM3",
+      "description": "noobrainscantex ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6226,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004b3",
+      "filename": "INSTRM3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 159,
+      "name": "INSTRM4",
+      "description": "noobrainscantex ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 18875,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000fa3",
+      "filename": "INSTRM4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 160,
+      "name": "INSTRM5",
+      "description": "noobrainscantex ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005a3",
+      "filename": "INSTRM5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 161,
+      "name": "INSTRM6",
+      "description": "noobrainscantex ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4836,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000380",
+      "filename": "INSTRM6.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 162,
+      "name": "INSTRM5A",
+      "description": "noobrainscantex ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005a3",
+      "filename": "INSTRM5A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 163,
+      "name": "BACKPAD",
+      "description": "flashinredtex",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 138229,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000814",
+      "filename": "BACKPAD.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 164,
+      "name": "RIGHT1",
+      "description": "lowersidetex",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 2024,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000111",
+      "filename": "RIGHT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 165,
+      "name": "RIGHT2",
+      "description": "lowersidetex",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 2160,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000012f",
+      "filename": "RIGHT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 166,
+      "name": "RIGHT3",
+      "description": "lowersidetex",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 2160,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000012f",
+      "filename": "RIGHT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 167,
+      "name": "RIGHT4",
+      "description": "lowersidetex",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 2160,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000012f",
+      "filename": "RIGHT4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 168,
+      "name": "LEFT1",
+      "description": "bscanbaksidetex",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 2024,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000111",
+      "filename": "LEFT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 169,
+      "name": "LEFT2",
+      "description": "bscanbaksidetex",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 2024,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000111",
+      "filename": "LEFT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 170,
+      "name": "LEFTLONG",
+      "description": "bscanbaksidetex",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 40645,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110003e6",
+      "filename": "LEFTLONG.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 171,
+      "name": "RGHTLONG",
+      "description": "bscanbaksidetex",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 44261,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000439",
+      "filename": "RGHTLONG.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 172,
+      "name": "BRAINBOX",
+      "description": "more flashinstuff",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 569121,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000c36",
+      "filename": "BRAINBOX.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 173,
+      "name": "SIDEBIT",
+      "description": "flashnstufsidebit ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4870,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000387",
+      "filename": "SIDEBIT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 174,
+      "name": "FRONTPAD",
+      "description": "flashinfrontred",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 35673,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000485",
+      "filename": "FRONTPAD.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 175,
+      "name": "LEFTPAD",
+      "description": "upperflashinred",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 9021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100010e",
+      "filename": "LEFTPAD.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 176,
+      "name": "RIGHTPAD",
+      "description": "upperflashinred ",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 9473,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000123",
+      "filename": "RIGHTPAD.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 177,
+      "name": "BIGBACK",
+      "description": "flashing redtex",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 221353,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000d3a",
+      "filename": "BIGBACK.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 178,
+      "name": "REDLITE",
+      "description": "flashing red",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10145,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000095",
+      "filename": "REDLITE.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 179,
+      "name": "TEXTURE",
+      "description": "metalmesh",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "TEXTURE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 180,
+      "name": "G_SIDE2",
+      "description": "grinder small cog",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 54872,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002ec3",
+      "filename": "G_SIDE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 181,
+      "name": "G_SIDE3",
+      "description": "grinder large cog",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 54872,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002ec3",
+      "filename": "G_SIDE3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 182,
+      "name": "G_SIDEB",
+      "description": "grinder both cog",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 327183,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000d6a",
+      "filename": "G_SIDEB.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 183,
+      "name": "PULLEYSN",
+      "description": "Pulley warn sign",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 29163,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001889",
+      "filename": "PULLEYSN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 184,
+      "name": "OOWALL2",
+      "description": "Bitta wall up window",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7454,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005c3",
+      "filename": "OOWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 185,
+      "name": "OOSTRP",
+      "description": "Bitta wall strip",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3696,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000283",
+      "filename": "OOSTRP.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 186,
+      "name": "LIFTEDGE",
+      "description": "Lift edging",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7744,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000603",
+      "filename": "LIFTEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 187,
+      "name": "LIFTCEIL",
+      "description": "Lift ceiling ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "LIFTCEIL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 188,
+      "name": "LIFTCARP",
+      "description": "Lift carpet ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "LIFTCARP.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 189,
+      "name": "LIFTBLNK",
+      "description": "Lift blank wall ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 66726,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003903",
+      "filename": "LIFTBLNK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 190,
+      "name": "LIFTLEFT",
+      "description": "Lift left ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 16417,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000d83",
+      "filename": "LIFTLEFT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 191,
+      "name": "LIFTRGHT",
+      "description": "Lift right ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 18152,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000f03",
+      "filename": "LIFTRGHT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 192,
+      "name": "LIFTTOP",
+      "description": "Lift top ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10590,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000879",
+      "filename": "LIFTTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 193,
+      "name": "LIFTBOT",
+      "description": "Lift bottom ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 18830,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000f99",
+      "filename": "LIFTBOT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 194,
+      "name": "LIFTEVEN",
+      "description": "Lift even wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 63256,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003603",
+      "filename": "LIFTEVEN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 195,
+      "name": "LIFTFONE",
+      "description": "Lift fone wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 63256,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003603",
+      "filename": "LIFTFONE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 196,
+      "name": "LIFTSIGN",
+      "description": "Sign in lift",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6497,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004ef",
+      "filename": "LIFTSIGN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 197,
+      "name": "DOOR1",
+      "description": "Door to geekboy",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 51854,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c27",
+      "filename": "DOOR1.gif",
+      "flags": [
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 198,
+      "name": "DOOR2",
+      "description": "Door to geekboy",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 51854,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c27",
+      "filename": "DOOR2.gif",
+      "flags": [
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 199,
+      "name": "GRINDLID",
+      "description": "Grindlid",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10156,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000819",
+      "filename": "GRINDLID.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "PIPE",
+      "description": "Pipe in corridor",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10912,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100008c1",
+      "filename": "PIPE.gif",
+      "flags": [
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "MONICABL",
+      "description": "Roof monitor cables",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4599,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1090034b",
+      "filename": "MONICABL.gif",
+      "flags": [
+        "0x10",
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "LABLITE",
+      "description": "Big light thing",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 51276,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10902ba7",
+      "filename": "LABLITE.gif",
+      "flags": [
+        "0x10",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "SKELETON",
+      "description": "Skeleton",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 36324,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801eba",
+      "filename": "SKELETON.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "POT-HEAD",
+      "description": "Pot brain head",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 13246,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800ac5",
+      "filename": "POT-HEAD.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "CDPILE1",
+      "description": "Pile of CDs",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3953,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108002bc",
+      "filename": "CDPILE1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "CDPILE2",
+      "description": "Single cd",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1545,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000a7",
+      "filename": "CDPILE2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "FIREEX",
+      "description": "Dirty Extinguisger",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 15098,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800c5f",
+      "filename": "FIREEX.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "PNTSMPS",
+      "description": "Flakey paint bits",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 11105,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108008eb",
+      "filename": "PNTSMPS.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "LABTAP",
+      "description": "Tap in lab",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4563,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800343",
+      "filename": "LABTAP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "SHARD1",
+      "description": "Glass snotty shard1",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 8204,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800669",
+      "filename": "SHARD1.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4109,
+      "name": "SHARD2",
+      "description": "Glass shard1 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7816,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800613",
+      "filename": "SHARD2.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4110,
+      "name": "SHARD3",
+      "description": "Glass shard1 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6419,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108004de",
+      "filename": "SHARD3.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "SHARD4",
+      "description": "Glass shard1 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5435,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800404",
+      "filename": "SHARD4.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4112,
+      "name": "TABLEG",
+      "description": "Table leg",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4145,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108002e7",
+      "filename": "TABLEG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "FIREX",
+      "description": "Fire extinguisher on wall",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 12858,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800a6f",
+      "filename": "FIREX.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "STOOL",
+      "description": "Stool",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 11547,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080094d",
+      "filename": "STOOL.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "ATOM",
+      "description": "Atom model",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6537,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108004f8",
+      "filename": "ATOM.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "FLASK1",
+      "description": "Flask1",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7334,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108005a9",
+      "filename": "FLASK1.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "FLASK2",
+      "description": "Flask2 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7334,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108005a9",
+      "filename": "FLASK2.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4118,
+      "name": "TUBERACK",
+      "description": "Testtube",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 8015,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080063f",
+      "filename": "TUBERACK.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "DIMLITE1",
+      "description": "Light in distance",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1226,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800061",
+      "filename": "DIMLITE1.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "DIMLITE2",
+      "description": "Light in distance",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1226,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800061",
+      "filename": "DIMLITE2.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "DIMLITE3",
+      "description": "Light in distance",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1226,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800061",
+      "filename": "DIMLITE3.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4122,
+      "name": "SCAFPOLE",
+      "description": "Scaffolding pole",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 16458,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800d8c",
+      "filename": "SCAFPOLE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "SCAFPOL2",
+      "description": "Scaffolding pole",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 16729,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800dc8",
+      "filename": "SCAFPOL2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "FLASKA",
+      "description": "Flask2 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5991,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080047f",
+      "filename": "FLASKA.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4125,
+      "name": "FLASKB",
+      "description": "Flask2 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6268,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108004bd",
+      "filename": "FLASKB.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "M_SCOPE",
+      "description": "Microscope",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 14936,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800c3b",
+      "filename": "M_SCOPE.gif",
+      "flags": [
+        "0x4",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4127,
+      "name": "TRYPOD",
+      "description": "Tripod",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 4337,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800311",
+      "filename": "TRYPOD.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "BUNSEN",
+      "description": "Bunsen burner",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1990,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080010a",
+      "filename": "BUNSEN.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "TAP",
+      "description": "Tap",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1211,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080005d",
+      "filename": "TAP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "FILE1",
+      "description": "File",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6700,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080051c",
+      "filename": "FILE1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4131,
+      "name": "PAINTDOG",
+      "description": "Ochre yappy dog",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 11168,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108008f9",
+      "filename": "PAINTDOG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "TEGBRUSH",
+      "description": "Tooth brush",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3792,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800299",
+      "filename": "TEGBRUSH.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4133,
+      "name": "GLIDSML",
+      "description": "Wee glider",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3587,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080026b",
+      "filename": "GLIDSML.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4134,
+      "name": "FILE2",
+      "description": "Box file",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6282,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108004c0",
+      "filename": "FILE2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4135,
+      "name": "PAPER",
+      "description": "Paper pile",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 8705,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108006d8",
+      "filename": "PAPER.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4136,
+      "name": "PAPER2",
+      "description": "Paper pile ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 8662,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108006cf",
+      "filename": "PAPER2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4137,
+      "name": "BIN",
+      "description": "Bin in office",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6103,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800498",
+      "filename": "BIN.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4138,
+      "name": "PLANT",
+      "description": "Cheese plant",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 27108,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108016c2",
+      "filename": "PLANT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4139,
+      "name": "SCIEN1",
+      "description": "Scientist!",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 980516,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800fb8",
+      "filename": "SCIEN1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4140,
+      "name": "ZTOOB",
+      "description": "Ztoob",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 314421,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11000de3",
+      "filename": "ZTOOB.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4141,
+      "name": "GEEKBOY",
+      "description": "Quiet patient",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1432879,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1100032c",
+      "filename": "GEEKBOY.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4142,
+      "name": "FLORMAN",
+      "description": "patient on floor",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 18044,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x200004",
+      "filename": "FLORMAN.gif",
+      "flags": [
+        "0x20"
+      ]
+    },
+    {
+      "index": 4143,
+      "name": "GEEKBOY2",
+      "description": "Subjected patient",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1432879,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1100164d",
+      "filename": "GEEKBOY2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4144,
+      "name": "GEEKBOY3",
+      "description": "Cut cord patient",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1432879,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1100164e",
+      "filename": "GEEKBOY3.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4145,
+      "name": "SHARD2A",
+      "description": "Glass shard1 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7816,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800613",
+      "filename": "SHARD2A.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4146,
+      "name": "SHARD3A",
+      "description": "Glass shard1 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 6419,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108004de",
+      "filename": "SHARD3A.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4147,
+      "name": "SHARD4A",
+      "description": "Glass shard1 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5435,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800404",
+      "filename": "SHARD4A.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4148,
+      "name": "SHARD4B",
+      "description": "Glass shard1 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5435,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800404",
+      "filename": "SHARD4B.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4149,
+      "name": "SHARD4C",
+      "description": "Glass shard1 ",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 5435,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800404",
+      "filename": "SHARD4C.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4150,
+      "name": "LOON1",
+      "description": "Ztoob with man",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 624345,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110014bd",
+      "filename": "LOON1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4152,
+      "name": "UFOSTICK",
+      "description": "weird thing ",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 155179,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180064a",
+      "filename": "UFOSTICK.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4153,
+      "name": "SPANNER",
+      "description": "aye,a spanner",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3045,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001f3",
+      "filename": "SPANNER.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4154,
+      "name": "SCREWDRV",
+      "description": "screwdriver",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 2765,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001b5",
+      "filename": "SCREWDRV.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4155,
+      "name": "PULLEY",
+      "description": "Pulley on scaffold",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 23311,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10001379",
+      "filename": "PULLEY.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4156,
+      "name": "STRTLITE",
+      "description": "Far off light",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 987,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000002c",
+      "filename": "STRTLITE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4157,
+      "name": "FIRESNOT",
+      "description": "Cleaned Extinguisger",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 15098,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800c5f",
+      "filename": "FIRESNOT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4158,
+      "name": "DCLOTH",
+      "description": "Dcloth",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 3515,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080025b",
+      "filename": "DCLOTH.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4159,
+      "name": "SCIEN2",
+      "description": "Scientist!",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 980516,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800fad",
+      "filename": "SCIEN2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4160,
+      "name": "SCIEN3",
+      "description": "Scientist!",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 891451,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118009b4",
+      "filename": "SCIEN3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4161,
+      "name": "SCIEN4",
+      "description": "Scientist!",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1069581,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801364",
+      "filename": "SCIEN4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4162,
+      "name": "SCIEN5",
+      "description": "Scientist!",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1069581,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118009c3",
+      "filename": "SCIEN5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4163,
+      "name": "SCIEN6",
+      "description": "Scientist!",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 1069581,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800e39",
+      "filename": "SCIEN6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4164,
+      "name": "SCIEN7",
+      "description": "Scientist!",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 891451,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800f98",
+      "filename": "SCIEN7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4165,
+      "name": "SCIEN8",
+      "description": "Scientist!",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 980516,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118010ce",
+      "filename": "SCIEN8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4166,
+      "name": "SCIEN9",
+      "description": "Scientist!",
+      "animated": true,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 802386,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118009bf",
+      "filename": "SCIEN9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4167,
+      "name": "SCISSORS",
+      "description": "Scissors!",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 2905,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001d4",
+      "filename": "SCISSORS.gif",
+      "flags": [
+        "0x1",
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4353,
+      "name": "FLORMAN0",
+      "description": "",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10758,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000089f",
+      "filename": "FLORMAN0.gif",
+      "flags": [
+        "0x4",
+        "0x8",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4354,
+      "name": "FLORMAN1",
+      "description": "",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 10671,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000088b",
+      "filename": "FLORMAN1.gif",
+      "flags": [
+        "0x4",
+        "0x8",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4355,
+      "name": "FLORMAN2",
+      "description": "",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 12478,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000a1b",
+      "filename": "FLORMAN2.gif",
+      "flags": [
+        "0x4",
+        "0x8",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4356,
+      "name": "FLORMAN3",
+      "description": "",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 9478,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000783",
+      "filename": "FLORMAN3.gif",
+      "flags": [
+        "0x4",
+        "0x8",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4357,
+      "name": "FLORMAN4",
+      "description": "",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 12589,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000a34",
+      "filename": "FLORMAN4.gif",
+      "flags": [
+        "0x4",
+        "0x8",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4358,
+      "name": "FLORMAN5",
+      "description": "",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 16248,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000d5e",
+      "filename": "FLORMAN5.gif",
+      "flags": [
+        "0x4",
+        "0x8",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4359,
+      "name": "FLORMAN6",
+      "description": "",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 11557,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000094f",
+      "filename": "FLORMAN6.gif",
+      "flags": [
+        "0x4",
+        "0x8",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4360,
+      "name": "FLORMAN7",
+      "description": "",
+      "animated": false,
+      "origin": "LABS.DAS",
+      "offset": 3145728,
+      "size": 7818,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000614",
+      "filename": "FLORMAN7.gif",
+      "flags": [
+        "0x4",
+        "0x8",
+        "0x1000"
+      ]
+    }
+  ]
+}

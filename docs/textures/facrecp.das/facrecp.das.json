@@ -1,0 +1,2691 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "SKY",
+      "description": "Sky",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": []
+    },
+    {
+      "index": 1,
+      "name": "LITEWALL",
+      "description": "Upward pointing light wall",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "LITEWALL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "BOTWAL_1",
+      "description": "Bottom wall section No. 1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "BOTWAL_1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "BOTWAL_2",
+      "description": "Bottom wall section No. 2",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 11647,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000963",
+      "filename": "BOTWAL_2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "MIDWAL_1",
+      "description": "Middle wall Logo end",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 57727,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000313b",
+      "filename": "MIDWAL_1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "MIDWAL_2",
+      "description": "Middle wall seation No. 2",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 57442,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100030fc",
+      "filename": "MIDWAL_2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "TOPWAL_1",
+      "description": "Top wall section No. 1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 29266,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000189f",
+      "filename": "TOPWAL_1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "LONG_END",
+      "description": "Long thin end wall section",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 15442,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000cab",
+      "filename": "LONG_END.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "BANNER",
+      "description": "Plush Rest banner",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 84724,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004893",
+      "filename": "BANNER.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "HALLFLOR",
+      "description": "Chequered floor pattern",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "HALLFLOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "BEAMLITE",
+      "description": "Strip of spot lights on beams",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "BEAMLITE.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "MIDWAL_3",
+      "description": "Standard mid-wall section",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 113746,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100061ab",
+      "filename": "MIDWAL_3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "ROOFBEAM",
+      "description": "Main beam texture in hall",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3078,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001fb",
+      "filename": "ROOFBEAM.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "ROOFBM2",
+      "description": "Side beams in halls",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 6790,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000530",
+      "filename": "ROOFBM2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "ROOFBM3",
+      "description": "Side beams in halls small sect",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4328,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000030f",
+      "filename": "ROOFBM3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "PICWALL1",
+      "description": "Hall wl w picture sect 1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "PICWALL2",
+      "description": "Hall wl w picture sect 2",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 11647,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000963",
+      "filename": "PICWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "PICWALL3",
+      "description": "Hall wl w picture sect 3",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "PICWALL4",
+      "description": "Hall wl w picture sect 4",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "PICWALL5",
+      "description": "Hall wl w picture sect 5",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 11647,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000963",
+      "filename": "PICWALL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "PICWALL6",
+      "description": "Hall wl w picture sect 6",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "BOTWAL_3",
+      "description": "Wall sect. leads to corridor",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 19598,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001043",
+      "filename": "BOTWAL_3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "BOTWAL3A",
+      "description": "door edge wall section 1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3407,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000243",
+      "filename": "BOTWAL3A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "BOTWAL3B",
+      "description": "door edge wall section 2",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3407,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000243",
+      "filename": "BOTWAL3B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "PICWALL7",
+      "description": "Hall wl w picture sect 7",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "PICWALL8",
+      "description": "Hall wl w picture sect 8",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 11647,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000963",
+      "filename": "PICWALL8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "PICWALL9",
+      "description": "Hall wl w picture sect 9",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALL9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "PICWALLA",
+      "description": "Hall wl w picture sect 10",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALLA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "PICWALLB",
+      "description": "Hall wl w picture sect 11",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 11647,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000963",
+      "filename": "PICWALLB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "PICWALLC",
+      "description": "Hall wl w picture sect 12",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALLC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "PICWALLD",
+      "description": "Hall wl w picture sect 13",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALLD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "PICWALLE",
+      "description": "Hall wl w picture sect 14",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 11647,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000963",
+      "filename": "PICWALLE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "PICWALLF",
+      "description": "Hall wl w picture sect 15",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALLF.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "PICWALLG",
+      "description": "Hall wl w picture sect 16",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALLG.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "PICWALLH",
+      "description": "Hall wl w picture sect 17",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 11647,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000963",
+      "filename": "PICWALLH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "PICWALLI",
+      "description": "Hall wl w picture sect 18",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "PICWALLI.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "DOOR_1",
+      "description": "Door to corridor from hall",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 100265,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005603",
+      "filename": "DOOR_1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "SOFATEX",
+      "description": "Sofa texture",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "SOFATEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "FIREDOOR",
+      "description": "Fire door in corridor",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 100265,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005603",
+      "filename": "FIREDOOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "HOSPWAL1",
+      "description": "Hosptality suite wall 1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 112842,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100060e3",
+      "filename": "HOSPWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "HOSPWAL2",
+      "description": "Hosptality suite wall 2",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 32518,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001b6f",
+      "filename": "HOSPWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "HOSPWAL3",
+      "description": "Hosptality suite wall 3",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 33693,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c73",
+      "filename": "HOSPWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "HOSPWAL4",
+      "description": "Hosptality suite wall 4",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 38391,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002083",
+      "filename": "HOSPWAL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "HOSPWAL6",
+      "description": "Hosptality suite wall 6",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 76340,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004153",
+      "filename": "HOSPWAL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "HOSPWL8A",
+      "description": "Hospt.suite above door",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 7215,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000058e",
+      "filename": "HOSPWL8A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "HOSPWAL9",
+      "description": "Hosptality suite wall 9",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 26304,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001610",
+      "filename": "HOSPWAL9.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "HOSPWAL8",
+      "description": "Scrolling LED display",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 54960437,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11009d91",
+      "filename": "HOSPWAL8.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "PLUSH",
+      "description": "T.V. with an apology",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4685397,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11004a16",
+      "filename": "PLUSH.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "PLINTH",
+      "description": "Hosp. suite plinth front",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4870,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000387",
+      "filename": "PLINTH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "RGB",
+      "description": "RGB Projector",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 14385,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000153",
+      "filename": "RGB.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "CORWAL_1",
+      "description": "Corridor wall No. 1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 5864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000463",
+      "filename": "CORWAL_1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "CORWAL_2",
+      "description": "Corri wall dummy door edge",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 7165,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000583",
+      "filename": "CORWAL_2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "CORWAL_3",
+      "description": "Corri wall over dummy door",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 7215,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000058e",
+      "filename": "CORWAL_3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "CORWAL_4",
+      "description": "Corridor wall No. 4",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 5864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000463",
+      "filename": "CORWAL_4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "CORWAL_5",
+      "description": "Corridor wall No. 5",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 99831,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100055a3",
+      "filename": "CORWAL_5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "CORWAL_6",
+      "description": "Corridor wall No. 6",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4780,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000373",
+      "filename": "CORWAL_6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "CORWAL_7",
+      "description": "cori wall edge real door",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3696,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000283",
+      "filename": "CORWAL_7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "CORWAL_8",
+      "description": "Corri wall over real door",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 7021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000563",
+      "filename": "CORWAL_8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "CORWAL_9",
+      "description": "Corridor wall No. 9",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 6949,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000553",
+      "filename": "CORWAL_9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "HOSPFLOR",
+      "description": "Hospitality floor",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "HOSPFLOR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "RGBSIDE1",
+      "description": "RGB Projector side 1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4231,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002fa",
+      "filename": "RGBSIDE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "RGBBACK",
+      "description": "RGB Projector back",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4565,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000344",
+      "filename": "RGBBACK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "RGBSIDE2",
+      "description": "RGB Projector side 2",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4231,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002fa",
+      "filename": "RGBSIDE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "RGBBOT",
+      "description": "RGB Projector bottom 64x64",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "RGBBOT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "DOOREDGE",
+      "description": "Door, Hall to Corri edge strip",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3407,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000243",
+      "filename": "DOOREDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "GRAVEL",
+      "description": "Gravel Texture",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "GRAVEL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "CORWAL10",
+      "description": "Corridor wall No. 10",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 59715,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100032f3",
+      "filename": "CORWAL10.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "CORWAL11",
+      "description": "Corridor wall No. 11",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 26058,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x108015d9",
+      "filename": "CORWAL11.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "CORWAL12",
+      "description": "Corridor wall No. 12",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 9783,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007c7",
+      "filename": "CORWAL12.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "UNDAGRDA",
+      "description": "Under girder texture",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "UNDAGRDA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "CORIFLOR",
+      "description": "Corridor floor",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "CORIFLOR.gif",
+      "flags": []
+    },
+    {
+      "index": 72,
+      "name": "HDOOR_IN",
+      "description": "Hospitality door in",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 100265,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005603",
+      "filename": "HDOOR_IN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "HDOR_OUT",
+      "description": "Hospitality door out",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 100265,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005603",
+      "filename": "HDOR_OUT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "DOOREDG2",
+      "description": "Door edge for hosp. door",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "DOOREDG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "WATAFRNT",
+      "description": "Front of water machine",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 91013,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10804e03",
+      "filename": "WATAFRNT.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "HOSPCEIL",
+      "description": "Hospitality suite ceiling",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "HOSPCEIL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "WATASIDE",
+      "description": "Water machine side",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 6443,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x108004e3",
+      "filename": "WATASIDE.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "ENT1",
+      "description": "Entrance corridor wall 1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 67304,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003983",
+      "filename": "ENT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "ENT2",
+      "description": "Entrance corridor wall 2",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 67304,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003983",
+      "filename": "ENT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "ENT3",
+      "description": "Entrance corridor wall 3",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 6226,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004b3",
+      "filename": "ENT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "ENT4",
+      "description": "Entrance corridor wall 4",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 6226,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004b3",
+      "filename": "ENT4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "ENTEDGE",
+      "description": "Entrance door edge",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3334,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000233",
+      "filename": "ENTEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "RECPSIGN",
+      "description": "Reception sign",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "RECPSIGN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "MURIAL1",
+      "description": "Mural",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 54113,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002e1b",
+      "filename": "MURIAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "MURIAL2",
+      "description": "mural No.2",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 53661,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002db7",
+      "filename": "MURIAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 86,
+      "name": "FONTFRNT",
+      "description": "Water machine stand front",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 14683,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c03",
+      "filename": "FONTFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "FONTSIDE",
+      "description": "Water machine stand side",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 14683,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c03",
+      "filename": "FONTSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "ENT5",
+      "description": "Entrance corridor wall 5",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 6226,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004b3",
+      "filename": "ENT5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "ENT6",
+      "description": "Entrance corridor wall 6",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 6226,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004b3",
+      "filename": "ENT6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "ENT7",
+      "description": "Entrance corridor wall 7",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 42728,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002443",
+      "filename": "ENT7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "ENT8",
+      "description": "Entrance corridor wall 8",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "ENT8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "ENT9",
+      "description": "Entrance corridor wall 9",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "ENT9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "ENTDOOR",
+      "description": "Entrance/Exit dummy door",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 100265,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10805603",
+      "filename": "ENTDOOR.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "ADMIN1",
+      "description": "Adminped step1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 1618,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000b7",
+      "filename": "ADMIN1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "ADMIN2",
+      "description": "Adminped step2 ",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 2431,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000016b",
+      "filename": "ADMIN2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "ADMIN3",
+      "description": "Adminped step3 ",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3244,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000021f",
+      "filename": "ADMIN3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "ADMIN4",
+      "description": "Adminped step4 ",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "ADMIN4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "ADMIN5",
+      "description": "Adminped stand for Pru ",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 14538,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000be3",
+      "filename": "ADMIN5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "ADMIN6",
+      "description": "Adminped Front side 1 ",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 24387,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001467",
+      "filename": "ADMIN6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "ADMIN7",
+      "description": "Adminped Front side 2 ",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 21947,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000124b",
+      "filename": "ADMIN7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "ADMIN8",
+      "description": "Adminped Front side 3",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 14629,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bf7",
+      "filename": "ADMIN8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "ADMIN9",
+      "description": "Adminped front side 4",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 11376,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000927",
+      "filename": "ADMIN9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "ADMINSTP",
+      "description": "Adminped step",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 1911,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000f8",
+      "filename": "ADMINSTP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "ADMINTEX",
+      "description": "Admin texture light",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "ADMINTEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "ADMINTX2",
+      "description": "Admin texture dark ",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "ADMINTX2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "DOOR_1A",
+      "description": "Door to hall from corridor",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 100265,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005603",
+      "filename": "DOOR_1A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "COFFTEX1",
+      "description": "Coffe machine plinthside1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 20592,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000111f",
+      "filename": "COFFTEX1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "COFFTEX2",
+      "description": "Coffe machine plinthside2",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 18965,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000fb7",
+      "filename": "COFFTEX2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "HOSPWL41",
+      "description": "Hosp wall ; C:Hosp wall",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4238,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002fb",
+      "filename": "HOSPWL41.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "HOSPWL42",
+      "description": "Hosp wall",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 18875,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000fa3",
+      "filename": "HOSPWL42.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "HOSPWL43",
+      "description": "Hosp wall",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 44174,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002583",
+      "filename": "HOSPWL43.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "STEGRAM",
+      "description": "Stereogram",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 121516,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006863",
+      "filename": "STEGRAM.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "DOORBLOK",
+      "description": "Door blocked off",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 100265,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005603",
+      "filename": "DOORBLOK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "LONGLITE",
+      "description": "Long light hanging from roof",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 53887,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10802de9",
+      "filename": "LONGLITE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "FIREXT1",
+      "description": "Fire Extinguisher",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 11963,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108009a9",
+      "filename": "FIREXT1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "PLANT2",
+      "description": "A plant",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 24143,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801431",
+      "filename": "PLANT2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "BUST",
+      "description": "Bust looks R to L",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 23097,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080134a",
+      "filename": "BUST.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "FLOCUP",
+      "description": "Flower in cup",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3255,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800222",
+      "filename": "FLOCUP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "FLOWER",
+      "description": "Flower on pedestal",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 22143,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801277",
+      "filename": "FLOWER.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "BALLIGHT",
+      "description": "Ball light for hosp. suite",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4063,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108002d5",
+      "filename": "BALLIGHT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "BUSH1",
+      "description": "Small bush 1",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 10133,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800814",
+      "filename": "BUSH1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "BUSH2",
+      "description": "Small bush 2",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 20036,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108010a4",
+      "filename": "BUSH2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "BUSH3",
+      "description": "Small bush 3",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 13996,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800b6b",
+      "filename": "BUSH3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "BUSH4",
+      "description": "Small bush 4",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 5114,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108003bd",
+      "filename": "BUSH4.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "BUSH5",
+      "description": "Small bush 5",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 6403,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108004db",
+      "filename": "BUSH5.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4109,
+      "name": "BUSH6",
+      "description": "Small bush 6",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3492,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800256",
+      "filename": "BUSH6.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "TINYSOD",
+      "description": "Foliage",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 1719,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000ce",
+      "filename": "TINYSOD.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4112,
+      "name": "TINYSOD2",
+      "description": "Lush vegetation",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 2966,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001e2",
+      "filename": "TINYSOD2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "TWEELITE",
+      "description": "Twee spot light",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3479,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800253",
+      "filename": "TWEELITE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "CORILITE",
+      "description": "Light for corridor",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 3199,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800215",
+      "filename": "CORILITE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "WATERBAL",
+      "description": "Water container",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 6638,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080050f",
+      "filename": "WATERBAL.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "PAPERCUP",
+      "description": "Paper cup for water machine",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 1997,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080010b",
+      "filename": "PAPERCUP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "PC-CYC-1",
+      "description": "Pru",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 608913,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800be7",
+      "filename": "PC-CYC-1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "SOFA",
+      "description": "Sofa",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 14425,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x800007b1",
+      "filename": "SOFA.gif",
+      "flags": [
+        "0x8000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "COFFEE",
+      "description": "Coffee Machine",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 4280,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x800006b4",
+      "filename": "COFFEE.gif",
+      "flags": [
+        "0x8000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "COFFCUP",
+      "description": "Coffee cup",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 1997,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080010b",
+      "filename": "COFFCUP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4122,
+      "name": "T-TARZAN",
+      "description": "Tiddler = def",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 696067,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800e34",
+      "filename": "T-TARZAN.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "GIZMO",
+      "description": "dunno",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 67521,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800207",
+      "filename": "GIZMO.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4125,
+      "name": "GIZRAY",
+      "description": "thing",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 121610,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180028b",
+      "filename": "GIZRAY.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "MACHINE",
+      "description": "COFFEE MACHINE",
+      "animated": false,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 39342,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10406d98",
+      "filename": "MACHINE.gif",
+      "flags": [
+        "0x2",
+        "0x4",
+        "0x40",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "PC-CYC-2",
+      "description": "Pru",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 608913,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800c93",
+      "filename": "PC-CYC-2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "PC-CYC-3",
+      "description": "Pru",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 608913,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800976",
+      "filename": "PC-CYC-3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "PC-CYC-4",
+      "description": "Pru",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 608913,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b75",
+      "filename": "PC-CYC-4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4131,
+      "name": "PC-CYC-5",
+      "description": "Pru",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 608913,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800706",
+      "filename": "PC-CYC-5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "PC-CYC-6",
+      "description": "Pru",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 608913,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800d84",
+      "filename": "PC-CYC-6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4133,
+      "name": "PC-CYC-7",
+      "description": "Pru",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 608913,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800c31",
+      "filename": "PC-CYC-7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4134,
+      "name": "PC-CYC-8",
+      "description": "Pru",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 608913,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800e8c",
+      "filename": "PC-CYC-8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4135,
+      "name": "PC-CYC-9",
+      "description": "Pru",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 203505,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180058a",
+      "filename": "PC-CYC-9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4136,
+      "name": "T-HDSHKL",
+      "description": "Tiddler = def",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 759273,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800919",
+      "filename": "T-HDSHKL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4137,
+      "name": "T-HDSHKR",
+      "description": "Tiddler = def",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 696067,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800925",
+      "filename": "T-HDSHKR.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4138,
+      "name": "T-HDKNOK",
+      "description": "Tiddler = def",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 759273,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800c7f",
+      "filename": "T-HDKNOK.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4139,
+      "name": "T-CHSTBT",
+      "description": "Tiddler = conv",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 759273,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118009e5",
+      "filename": "T-CHSTBT.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4140,
+      "name": "T-CHSTB2",
+      "description": "Tiddler = conv",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 632861,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800938",
+      "filename": "T-CHSTB2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4141,
+      "name": "T-TOSS  ",
+      "description": "Tiddler = conv",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 696067,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800bee",
+      "filename": "T-TOSS.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4142,
+      "name": "T-BLINKY",
+      "description": "Tiddler = still",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 63988,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006d7",
+      "filename": "T-BLINKY.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4143,
+      "name": "T-WIDDLE",
+      "description": "Tiddler = listen",
+      "animated": true,
+      "origin": "FACRECP.DAS",
+      "offset": 3407872,
+      "size": 506449,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180071b",
+      "filename": "T-WIDDLE.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    }
+  ]
+}

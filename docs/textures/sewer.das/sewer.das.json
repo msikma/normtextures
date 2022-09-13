@@ -1,0 +1,4580 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "SEWALL1",
+      "description": "Sewer wall 300 long",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 55016,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002ee3",
+      "filename": "SEWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "SKY",
+      "description": "Skyline",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "DRIP1",
+      "description": "Water running down section",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 54273,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000526",
+      "filename": "DRIP1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "DRIPEDG1",
+      "description": "Edge of wall left of water ",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 37297,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110000a9",
+      "filename": "DRIPEDG1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "DRIPEDG2",
+      "description": "Edge of wall right of water",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 37297,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110000a3",
+      "filename": "DRIPEDG2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "ENDWALL1",
+      "description": "End of wall left sec ",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "ENDWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "ENDWALL2",
+      "description": "End of wall right sec",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "ENDWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "ENDWALLM",
+      "description": "Middle wall with pipe in",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 17068,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e13",
+      "filename": "ENDWALLM.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "GIRDBOT",
+      "description": "Girder bottom repeat texture",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "GIRDBOT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "GIRDER1",
+      "description": "Side girder texture",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4599,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000034b",
+      "filename": "GIRDER1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "PILLARR",
+      "description": "Right pillar ",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "PILLARR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "PILLARL",
+      "description": "Left pillar ",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "PILLARL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "RIPPLE",
+      "description": "Ledge in tunnel with water ani",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 136441,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000411",
+      "filename": "RIPPLE.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "CEILDARK",
+      "description": "Dark ceiling texture",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "CEILDARK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "SLIMETOP",
+      "description": "Slimy surface",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "SLIMETOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "GRATE",
+      "description": "NOT USED!",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2860,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001ca",
+      "filename": "GRATE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "STONE",
+      "description": "Nice stone effect",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "STONE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "WATNORTH",
+      "description": "Water running North",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 593297,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11002aad",
+      "filename": "WATNORTH.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "WATSOUTH",
+      "description": "Water running South",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 593297,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11002bb3",
+      "filename": "WATSOUTH.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "WATEAST",
+      "description": "Water running East",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 593297,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110030fb",
+      "filename": "WATEAST.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "WATWEST",
+      "description": "Water running West",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 593297,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110030ff",
+      "filename": "WATWEST.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "GIRDBOT2",
+      "description": "NOT USED!",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "GIRDBOT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "WALLEDG",
+      "description": "Wall for split 10 sections",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3085,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001fc",
+      "filename": "WALLEDG.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "WALLEDG2",
+      "description": "Wall for image fit sections",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3063,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001f7",
+      "filename": "WALLEDG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "GIRDED1",
+      "description": "Girder edge ",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003eb",
+      "filename": "GIRDED1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "GIRDED2",
+      "description": "Girder edge ",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003eb",
+      "filename": "GIRDED2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "SEWALL2",
+      "description": "Sewer wall alternate",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 74442,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003faf",
+      "filename": "SEWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "SEWALL3",
+      "description": "Sewer wall alternate",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 78960,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004397",
+      "filename": "SEWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "GIRDER2",
+      "description": "Girder side?",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4124,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002e2",
+      "filename": "GIRDER2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "40MEET0",
+      "description": "Wall...",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7129,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000057b",
+      "filename": "40MEET0.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "40MEET20",
+      "description": "Wall...",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4124,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002e2",
+      "filename": "40MEET20.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "SLUDGE",
+      "description": "Sludge mucky-pup",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2543,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000184",
+      "filename": "SLUDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "SEWFLOOR",
+      "description": "Sewer floor tex..",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "SEWFLOOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "NEWG1",
+      "description": "New girder piece",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003eb",
+      "filename": "NEWG1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "NEWG1R",
+      "description": "New girder piece",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003eb",
+      "filename": "NEWG1R.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "MAIN336",
+      "description": "Main 336 wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 76701,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100041a3",
+      "filename": "MAIN336.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "GIR40L",
+      "description": "Girder edge left",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3967,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002bf",
+      "filename": "GIR40L.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "GIR40R",
+      "description": "Girder edge righ",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3967,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002bf",
+      "filename": "GIR40R.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "JOINSTNL",
+      "description": "Brick meets stone piece left",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3967,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002bf",
+      "filename": "JOINSTNL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "JOINSTNR",
+      "description": "Brick meets stone piece right",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3967,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002bf",
+      "filename": "JOINSTNR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "CROCWAL1",
+      "description": "Croc section 1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 21134,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001197",
+      "filename": "CROCWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "CROCWAL2",
+      "description": "Croc section 2",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3176,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000210",
+      "filename": "CROCWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "CROCWAL3",
+      "description": "Croc section 3",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 14583,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bed",
+      "filename": "CROCWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "CROCWAL4",
+      "description": "Croc section 4",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3311,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000022e",
+      "filename": "CROCWAL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "WALL181",
+      "description": "Wall for 181 long piece",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 41689,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000235d",
+      "filename": "WALL181.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "STEEL1",
+      "description": "Low girder",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2702,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001a7",
+      "filename": "STEEL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "STEEL2",
+      "description": "Lower girder",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4124,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002e2",
+      "filename": "STEEL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "DROPDOWN",
+      "description": "Low ceiling bit in tunnel",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3696,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000283",
+      "filename": "DROPDOWN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "GATEWOOD",
+      "description": "Gate with wood on it",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 14357,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bbb",
+      "filename": "GATEWOOD.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "GATEBUST",
+      "description": "Gate with no wood on it",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 14357,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bbb",
+      "filename": "GATEBUST.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "SPLASH",
+      "description": "Splash water",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 75001,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100076d",
+      "filename": "SPLASH.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "SECPANEL",
+      "description": "Secret panel",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 12821,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000a67",
+      "filename": "SECPANEL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "PITSTONE",
+      "description": "Pit stone texture",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "PITSTONE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "WATRFALL",
+      "description": "Water flowing down the middle ",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 434849,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110020f9",
+      "filename": "WATRFALL.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "PITWALL1",
+      "description": "Brick texture in middle",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 28814,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000183b",
+      "filename": "PITWALL1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "GATEWOOB",
+      "description": "Gate wood back",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 14357,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bbb",
+      "filename": "GATEWOOB.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "GATEBUSB",
+      "description": "Gate bust back",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 14357,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bbb",
+      "filename": "GATEBUSB.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "GAT60100",
+      "description": "Gate 60 x 100",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 14357,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bbb",
+      "filename": "GAT60100.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "GATE6070",
+      "description": "Gate 60 x 100",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10292,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000837",
+      "filename": "GATE6070.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "GATE8070",
+      "description": "Gate 60 x 100",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 13454,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000af3",
+      "filename": "GATE8070.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "CROCWATR",
+      "description": "Water in croc bit",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 149201,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100071a",
+      "filename": "CROCWATR.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "DRAIN",
+      "description": "Drain to stadium",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "DRAIN.gif",
+      "flags": [
+        "0x400"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "CROCBIT1",
+      "description": "No padlock no chain",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000463",
+      "filename": "CROCBIT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "CROCBIT2",
+      "description": "No chain",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 22092,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000126b",
+      "filename": "CROCBIT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "CROCLOK1",
+      "description": "Padlock/chain all on",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000463",
+      "filename": "CROCLOK1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "CROCLOK2",
+      "description": "chain-back wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 22092,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000126b",
+      "filename": "CROCLOK2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "CROCPAD",
+      "description": "Padlock no chain",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000463",
+      "filename": "CROCPAD.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "CROCOPEN",
+      "description": "Padlock/chain all on P.lock op",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000463",
+      "filename": "CROCOPEN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "COBWEB",
+      "description": "Cobwebs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7445,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005c1",
+      "filename": "COBWEB.gif",
+      "flags": [
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "COBWEB2",
+      "description": "Cobwebs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 8552,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006b6",
+      "filename": "COBWEB2.gif",
+      "flags": [
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "BIGGUN2",
+      "description": "Ladder2 ",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 51402,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002bc3",
+      "filename": "BIGGUN2.gif",
+      "flags": [
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "STEP",
+      "description": "Steps to labs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4238,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002fb",
+      "filename": "STEP.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "STEPTEX",
+      "description": "Step texture",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "STEPTEX.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "LABEDGE",
+      "description": "Lab edging",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5548,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000041d",
+      "filename": "LABEDGE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "LABWAL1",
+      "description": "Lab edging",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 64928,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003775",
+      "filename": "LABWAL1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "LABWAL2",
+      "description": "Lab edging",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 36380,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ec6",
+      "filename": "LABWAL2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "LABWAL3",
+      "description": "Lab edging",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 50950,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002b5f",
+      "filename": "LABWAL3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "LABWAL4",
+      "description": "Lab edging",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 16051,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000d32",
+      "filename": "LABWAL4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "LABWAL5",
+      "description": "Lab edging",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 40108,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100021ff",
+      "filename": "LABWAL5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "LABWAL6",
+      "description": "Lab edging",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 22828,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000130e",
+      "filename": "LABWAL6.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "STAIR1",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3176,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000210",
+      "filename": "STAIR1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "STAIR2",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3176,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000210",
+      "filename": "STAIR2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 86,
+      "name": "STAIR3",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3853,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002a6",
+      "filename": "STAIR3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "STAIR4",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4531,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000033c",
+      "filename": "STAIR4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "STAIR5",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5209,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003d2",
+      "filename": "STAIR5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "STAIR6",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5886,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000468",
+      "filename": "STAIR6.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "STAIR7",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 6598,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000506",
+      "filename": "STAIR7.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "STAIR8",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7242,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000594",
+      "filename": "STAIR8.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "STAIR9",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7919,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000062a",
+      "filename": "STAIR9.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "STAIRA",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 8597,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006c0",
+      "filename": "STAIRA.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "STAIRB",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 9275,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000756",
+      "filename": "STAIRB.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "STAIRC",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 9952,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007ec",
+      "filename": "STAIRC.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "STAIRD",
+      "description": "Stairs",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 24838,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100014cb",
+      "filename": "STAIRD.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "BENCH",
+      "description": "Bench in lab",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 35509,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001e05",
+      "filename": "BENCH.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "LABRM1",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 11477,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000093e",
+      "filename": "LABRM1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "LABRM2",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 80021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004482",
+      "filename": "LABRM2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "LABRM3",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 11477,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000093e",
+      "filename": "LABRM3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "LABRM4",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 51285,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002ba9",
+      "filename": "LABRM4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "POSTER",
+      "description": "Poster hung up",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 20890,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001161",
+      "filename": "POSTER.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "LABRM5",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 9952,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007ec",
+      "filename": "LABRM5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "LABRM6",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 38323,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002074",
+      "filename": "LABRM6.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "LABRM7",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2792,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001bb",
+      "filename": "LABRM7.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "LABRM8",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2046,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000116",
+      "filename": "LABRM8.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "LABRM9",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 6056,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000048e",
+      "filename": "LABRM9.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "LABRMA",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3605,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000026f",
+      "filename": "LABRMA.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "LABRMB",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3154,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000020b",
+      "filename": "LABRMB.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "LABRMC",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2272,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000148",
+      "filename": "LABRMC.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "LABRMD",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5548,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000041d",
+      "filename": "LABRMD.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "LABRME",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5480,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000040e",
+      "filename": "LABRME.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "LABRMF",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3402,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000242",
+      "filename": "LABRMF.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "LABRMG",
+      "description": "Lab room",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 6564,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004fe",
+      "filename": "LABRMG.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 115,
+      "name": "LABRMH",
+      "description": "Lab wall Skellibob",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 26555,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001647",
+      "filename": "LABRMH.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 116,
+      "name": "SHAFT1",
+      "description": "Tunnel shaft",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 31637,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001aac",
+      "filename": "SHAFT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 117,
+      "name": "SHAFT2",
+      "description": "Tunnel shaft",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 28926,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001854",
+      "filename": "SHAFT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "GRATE1",
+      "description": "Grate in floor",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "GRATE1.gif",
+      "flags": []
+    },
+    {
+      "index": 119,
+      "name": "GRATE2",
+      "description": "Grate in floor",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "GRATE2.gif",
+      "flags": []
+    },
+    {
+      "index": 120,
+      "name": "MASONWL",
+      "description": "Masonry wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 15116,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c63",
+      "filename": "MASONWL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 121,
+      "name": "DRAISID1",
+      "description": "Drain edge",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4599,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000034b",
+      "filename": "DRAISID1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 122,
+      "name": "DRAISID2",
+      "description": "Drain edge",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5051,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003af",
+      "filename": "DRAISID2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 123,
+      "name": "STRUT",
+      "description": "Support structure",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4030,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002cd",
+      "filename": "STRUT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 124,
+      "name": "STRUT1",
+      "description": "Support structure 1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 30995,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001a1e",
+      "filename": "STRUT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 125,
+      "name": "SEWABRIJ",
+      "description": "Sewer Bridge",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "SEWABRIJ.gif",
+      "flags": []
+    },
+    {
+      "index": 126,
+      "name": "STRUT2A",
+      "description": "Support structure 2a",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 22159,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000127a",
+      "filename": "STRUT2A.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 127,
+      "name": "STRUT2B",
+      "description": "Support structure 2b",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 9641,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007a7",
+      "filename": "STRUT2B.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 128,
+      "name": "STRUT3A",
+      "description": "Support structure 3a",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 11481,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000093f",
+      "filename": "STRUT3A.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 129,
+      "name": "STRUT3B",
+      "description": "Support structure 3b",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 14795,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c1c",
+      "filename": "STRUT3B.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 130,
+      "name": "STRUT3C",
+      "description": "Support structure 3c",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 6327,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004ca",
+      "filename": "STRUT3C.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 131,
+      "name": "STRUT4A",
+      "description": "Support structure 4a",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 12587,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000a33",
+      "filename": "STRUT4A.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 132,
+      "name": "STRUT4B",
+      "description": "Support structure 4b",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10745,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000089c",
+      "filename": "STRUT4B.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 133,
+      "name": "STRUT4C",
+      "description": "Support structure 5c",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 9273,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000756",
+      "filename": "STRUT4C.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 134,
+      "name": "BRAINWRM",
+      "description": "Worm",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1244051,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110008be",
+      "filename": "BRAINWRM.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 135,
+      "name": "ENDWALE2",
+      "description": "Elevator with brace",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 65859,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003843",
+      "filename": "ENDWALE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 136,
+      "name": "FALSWALL",
+      "description": "False wall intact",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 14357,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bbb",
+      "filename": "FALSWALL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 137,
+      "name": "FALSWAL2",
+      "description": "False wall torn!",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 14357,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bbb",
+      "filename": "FALSWAL2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 138,
+      "name": "ENDWALEL",
+      "description": "End wall elevator",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 17068,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e13",
+      "filename": "ENDWALEL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 139,
+      "name": "BRACEWAL",
+      "description": "Brace false wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 13295,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ad0",
+      "filename": "BRACEWAL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 140,
+      "name": "BRACEWL2",
+      "description": "Brace busted wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 13295,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ad0",
+      "filename": "BRACEWL2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 141,
+      "name": "HOLEWAL1",
+      "description": "Hole in wall wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 6497,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004ef",
+      "filename": "HOLEWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 142,
+      "name": "HOLEWAL2",
+      "description": "Hole in wall wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 6654,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000512",
+      "filename": "HOLEWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 143,
+      "name": "HOLEWAL3",
+      "description": "Hole in wall wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 13295,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ad0",
+      "filename": "HOLEWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 144,
+      "name": "BRACWALL",
+      "description": "Brace holding up wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 13295,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ad0",
+      "filename": "BRACWALL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 145,
+      "name": "RUBWALL",
+      "description": "Rubble wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 18039,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000eea",
+      "filename": "RUBWALL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 146,
+      "name": "SAFEFRNT",
+      "description": "Safe front",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5413,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003ff",
+      "filename": "SAFEFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 147,
+      "name": "SAFESIDE",
+      "description": "Safe side",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5051,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003af",
+      "filename": "SAFESIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 148,
+      "name": "MAINBIT",
+      "description": "Bit to left of access",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 48240,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002907",
+      "filename": "MAINBIT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 149,
+      "name": "ACCESS",
+      "description": "ACCESS button out",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 29266,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000189f",
+      "filename": "ACCESS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 150,
+      "name": "ACCESS2",
+      "description": "ACCESS button in",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 29266,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000189f",
+      "filename": "ACCESS2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 151,
+      "name": "BRIKEDGE",
+      "description": "Edge of brick",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1112,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000047",
+      "filename": "BRIKEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 152,
+      "name": "BRIKEDG2",
+      "description": "Edge of brick",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1112,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000047",
+      "filename": "BRIKEDG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 153,
+      "name": "BRIKTEX",
+      "description": "Texture of brick",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1383,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000083",
+      "filename": "BRIKTEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 154,
+      "name": "SAFEWAL1",
+      "description": "Safe walls",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 9952,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007ec",
+      "filename": "SAFEWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 155,
+      "name": "SAFEWAL2",
+      "description": "Safe walls",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 32654,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001b8d",
+      "filename": "SAFEWAL2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 156,
+      "name": "SAFEWAL3",
+      "description": "Safe walls",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 33670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c6e",
+      "filename": "SAFEWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 157,
+      "name": "SAFEWAL4",
+      "description": "Safe walls",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 29266,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000189f",
+      "filename": "SAFEWAL4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 158,
+      "name": "SAFEWAL5",
+      "description": "Safe walls",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 55694,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002f79",
+      "filename": "SAFEWAL5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 159,
+      "name": "SAFEWAL6",
+      "description": "Safe walls",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 13340,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ada",
+      "filename": "SAFEWAL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 160,
+      "name": "BRAINRM1",
+      "description": "Room wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 20928,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000116a",
+      "filename": "BRAINRM1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 161,
+      "name": "BRAINRM2",
+      "description": "Room wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 9614,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007a1",
+      "filename": "BRAINRM2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 162,
+      "name": "BRAINRM3",
+      "description": "Room wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 22489,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100012c3",
+      "filename": "BRAINRM3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 163,
+      "name": "BRAINRM4",
+      "description": "Room wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 58106,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000318f",
+      "filename": "BRAINRM4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 164,
+      "name": "BRAINRM5",
+      "description": "Room wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 56059,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002fca",
+      "filename": "BRAINRM5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 165,
+      "name": "WALLBIT1",
+      "description": "Wall bit1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2735,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001af",
+      "filename": "WALLBIT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 166,
+      "name": "WALLBIT2",
+      "description": "Wall bit1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1663,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000c1",
+      "filename": "WALLBIT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 167,
+      "name": "SINKSIDE",
+      "description": "Side of the sink",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 15136,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c68",
+      "filename": "SINKSIDE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 168,
+      "name": "SINKTEX",
+      "description": "Bottom of the sink",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "SINKTEX.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 170,
+      "name": "HALL1",
+      "description": "Hallucination1",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2506761,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000bca",
+      "filename": "HALL1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 171,
+      "name": "HALL2",
+      "description": "Hallucination2",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2531801,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000cd1",
+      "filename": "HALL2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 172,
+      "name": "HALL3",
+      "description": "Hallucination3",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4297416,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000fe3",
+      "filename": "HALL3.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 173,
+      "name": "HALL4",
+      "description": "Hallucination4",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2007459,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000a80",
+      "filename": "HALL4.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 174,
+      "name": "GATE2",
+      "description": "Gate near start",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 11873,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000995",
+      "filename": "GATE2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 175,
+      "name": "GATE1",
+      "description": "Gate straight start ",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 11873,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000995",
+      "filename": "GATE1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 176,
+      "name": "MTLBRAC3",
+      "description": "Metalbrace on wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 36223,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ea3",
+      "filename": "MTLBRAC3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 177,
+      "name": "DRAIN2",
+      "description": "Drain no battery ",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "DRAIN2.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 178,
+      "name": "DRAIN3",
+      "description": "Drain battery ",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "DRAIN3.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "BUBBLE1",
+      "description": "Bubble1",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 9329,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180008d",
+      "filename": "BUBBLE1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "BUBBLE2",
+      "description": "Bubble2",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7129,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800060",
+      "filename": "BUBBLE2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "BUBBLE3",
+      "description": "Bubble3",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 11321,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000c4",
+      "filename": "BUBBLE3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "BUBBLE4",
+      "description": "Bubble4",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5753,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800062",
+      "filename": "BUBBLE4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "BUBBLE5",
+      "description": "Bubble5",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3873,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800036",
+      "filename": "BUBBLE5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "BUBBLE6",
+      "description": "Bubble6",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5753,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800071",
+      "filename": "BUBBLE6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "JUNKTURD",
+      "description": "Turd bob?",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5251,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800071",
+      "filename": "JUNKTURD.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "JUNKCART",
+      "description": "Carton ",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 14711,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800122",
+      "filename": "JUNKCART.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "JUNKCOKE",
+      "description": "Coke bob??",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 12931,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800103",
+      "filename": "JUNKCOKE.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "JUNKBURG",
+      "description": "Burger bob bobbing bob??!!?",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 16666,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180019d",
+      "filename": "JUNKBURG.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "JUNKTOOF",
+      "description": "Toothbrush afloat",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 16456,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800123",
+      "filename": "JUNKTOOF.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "JUNKCIG",
+      "description": "Cig-rig...",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 20791,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800199",
+      "filename": "JUNKCIG.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4109,
+      "name": "JUNKLUMP",
+      "description": "Dump lump soggy log",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7146,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800099",
+      "filename": "JUNKLUMP.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4110,
+      "name": "JUNKNAPP",
+      "description": "Nappy Rash mad dash ",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 13901,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800121",
+      "filename": "JUNKNAPP.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "JUNKCAN",
+      "description": "Can in the drink",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 19121,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118001c0",
+      "filename": "JUNKCAN.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4112,
+      "name": "BULB",
+      "description": "Light in lab",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2295,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1010014d",
+      "filename": "BULB.gif",
+      "flags": [
+        "0x10",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "SMOKNRAT",
+      "description": "Rat smoking weed ",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 906876,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800663",
+      "filename": "SMOKNRAT.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "RATSTAND",
+      "description": "Rat grinning his ass off",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 53445,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118001b0",
+      "filename": "RATSTAND.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "RATPANT2",
+      "description": "Like a head stand..but a..rat.",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 153603,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180033d",
+      "filename": "RATPANT2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "MASONRY",
+      "description": "Fallen bricks",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7418,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100005bb",
+      "filename": "MASONRY.gif",
+      "flags": [
+        "0x2",
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "RATTY1",
+      "description": "Girlfriends are this...",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 86621,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800144",
+      "filename": "RATTY1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4118,
+      "name": "RATBLINK",
+      "description": "Not Ratfink..but ratblink!",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 81171,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000e7",
+      "filename": "RATBLINK.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "FLICKER",
+      "description": "Flame on wall",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 56076,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118001ee",
+      "filename": "FLICKER.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "RINGY3",
+      "description": "Rubber dinghy rat",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 183699,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180080d",
+      "filename": "RINGY3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "LABTAP",
+      "description": "Dirty tap",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3223,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080021b",
+      "filename": "LABTAP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "CROCODIL",
+      "description": "Crocodile soggy log",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 49941,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800281",
+      "filename": "CROCODIL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "CROCSNAP",
+      "description": "Crocodile snappy happy",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 181111,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800528",
+      "filename": "CROCSNAP.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4125,
+      "name": "SPHINCTR",
+      "description": "Ninja rat",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 718348,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118007a4",
+      "filename": "SPHINCTR.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "JOBB1",
+      "description": "Ninja turd",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 66048,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180018e",
+      "filename": "JOBB1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4127,
+      "name": "JOBB2",
+      "description": "Ninja turd",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 66048,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180018e",
+      "filename": "JOBB2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "JOBB3",
+      "description": "Ninja turd",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 96162,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800206",
+      "filename": "JOBB3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "JOBB4",
+      "description": "Ninja turd",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 76086,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118001c1",
+      "filename": "JOBB4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "BIT1",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1482,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800099",
+      "filename": "BIT1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4131,
+      "name": "BIT2",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2101,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800122",
+      "filename": "BIT2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "BIT3",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2290,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080014c",
+      "filename": "BIT3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4133,
+      "name": "BIT4",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1076,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080003f",
+      "filename": "BIT4.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4136,
+      "name": "RUBBLE1",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1708,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000cb",
+      "filename": "RUBBLE1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4137,
+      "name": "RUBBLE2",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2092,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800120",
+      "filename": "RUBBLE2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4138,
+      "name": "RUBBLE3",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1889,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000f3",
+      "filename": "RUBBLE3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4139,
+      "name": "MASONRY2",
+      "description": "Fallen bricks",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5575,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000423",
+      "filename": "MASONRY2.gif",
+      "flags": [
+        "0x2",
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4140,
+      "name": "MASONRY3",
+      "description": "Fallen bricks",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 6571,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000500",
+      "filename": "MASONRY3.gif",
+      "flags": [
+        "0x2",
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4141,
+      "name": "BRAIWAVE",
+      "description": "Brain in microwave",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 213481,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180083e",
+      "filename": "BRAIWAVE.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4142,
+      "name": "LOOSBRIK",
+      "description": "Brick out of wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2024,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800111",
+      "filename": "LOOSBRIK.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4143,
+      "name": "HALLPIPE",
+      "description": "Pipe emitting halls",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4157,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100002e9",
+      "filename": "HALLPIPE.gif",
+      "flags": [
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4144,
+      "name": "FUMES",
+      "description": "Fumes coming off pipe",
+      "animated": true,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 65481,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1100027b",
+      "filename": "FUMES.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4145,
+      "name": "HALLPIP2",
+      "description": "Pipe small on ledge",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3718,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000288",
+      "filename": "HALLPIP2.gif",
+      "flags": [
+        "0x2",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4146,
+      "name": "EXPPIPE",
+      "description": "Exposed pipe",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1911,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x101000f8",
+      "filename": "EXPPIPE.gif",
+      "flags": [
+        "0x10",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4147,
+      "name": "BOX1",
+      "description": "Box with PVC suit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 10789,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108008a5",
+      "filename": "BOX1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4148,
+      "name": "BOX2",
+      "description": "Bust Box with PVC suit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 15442,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800cab",
+      "filename": "BOX2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4149,
+      "name": "PVCSUIT",
+      "description": "PVC suit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 8954,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080070f",
+      "filename": "PVCSUIT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4150,
+      "name": "BUSTDOR",
+      "description": "Broken drawer door",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3817,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000029e",
+      "filename": "BUSTDOR.gif",
+      "flags": [
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4151,
+      "name": "BURNNOTE",
+      "description": "Burnt note from safe",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3560,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800265",
+      "filename": "BURNNOTE.gif",
+      "flags": [
+        "0x4",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4152,
+      "name": "TUBE1",
+      "description": "Bust electric bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7256,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800597",
+      "filename": "TUBE1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4153,
+      "name": "TUBE2",
+      "description": "Bust electric bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7201,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080058b",
+      "filename": "TUBE2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4154,
+      "name": "TUBE3",
+      "description": "Bust electric bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5774,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080044f",
+      "filename": "TUBE3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4155,
+      "name": "ELECBIT1",
+      "description": "Electric bit1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 3817,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080029e",
+      "filename": "ELECBIT1.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4156,
+      "name": "ELECBIT2",
+      "description": "Electric bit1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4446,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800329",
+      "filename": "ELECBIT2.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4157,
+      "name": "ELECBIT3",
+      "description": "Electric bit1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2417,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800168",
+      "filename": "ELECBIT3.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4158,
+      "name": "ELECBIT4",
+      "description": "Electric bit1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5182,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108003cc",
+      "filename": "ELECBIT4.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4159,
+      "name": "ELECBIT5",
+      "description": "Electric bit1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7409,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108005b9",
+      "filename": "ELECBIT5.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4160,
+      "name": "ELECBIT6",
+      "description": "Electric bit1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 9975,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108007f1",
+      "filename": "ELECBIT6.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4161,
+      "name": "LIGHTRAY",
+      "description": "Light ray",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 51402,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10902bc3",
+      "filename": "LIGHTRAY.gif",
+      "flags": [
+        "0x10",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4162,
+      "name": "BRASS",
+      "description": "Insinndurie deevise",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2801,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001bd",
+      "filename": "BRASS.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4163,
+      "name": "LABNAK1",
+      "description": "Lab nik-nak1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 11791,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800983",
+      "filename": "LABNAK1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4164,
+      "name": "LABNAK2",
+      "description": "Lab nik-nak1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1504,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080009e",
+      "filename": "LABNAK2.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4165,
+      "name": "LABNAK3",
+      "description": "Lab nik-nak1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1798,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000df",
+      "filename": "LABNAK3.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4166,
+      "name": "LABNAK4",
+      "description": "Lab nik-nak1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 6824,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800538",
+      "filename": "LABNAK4.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4167,
+      "name": "LABNAK5",
+      "description": "Lab nik-nak1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1649,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000be",
+      "filename": "LABNAK5.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4168,
+      "name": "LABNAK6",
+      "description": "Lab nik-nak1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 4014,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108002ca",
+      "filename": "LABNAK6.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4169,
+      "name": "LABNAK7",
+      "description": "Lab nik-nak1",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7852,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080061b",
+      "filename": "LABNAK7.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4170,
+      "name": "FIREAX",
+      "description": "Fire axe",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7581,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108005df",
+      "filename": "FIREAX.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4171,
+      "name": "BRAIWAV",
+      "description": "Microwave no brain",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 11416,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800930",
+      "filename": "BRAIWAV.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4172,
+      "name": "NORMBAJ",
+      "description": "Norm badge",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2747,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001b1",
+      "filename": "NORMBAJ.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4173,
+      "name": "MTLBRACE",
+      "description": "Metal brace",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5480,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080040e",
+      "filename": "MTLBRACE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4174,
+      "name": "BRICK1",
+      "description": "Brick stuck in wall",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2024,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800111",
+      "filename": "BRICK1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4175,
+      "name": "MASONRY4",
+      "description": "Fallen bricks",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7418,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100005bb",
+      "filename": "MASONRY4.gif",
+      "flags": [
+        "0x2",
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4176,
+      "name": "MASONRY5",
+      "description": "Fallen bricks",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5575,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000423",
+      "filename": "MASONRY5.gif",
+      "flags": [
+        "0x2",
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4177,
+      "name": "RUBBLEA",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1708,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000cb",
+      "filename": "RUBBLEA.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4178,
+      "name": "RUBBLEB",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2092,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800120",
+      "filename": "RUBBLEB.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4179,
+      "name": "RUBBLEC",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2092,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800120",
+      "filename": "RUBBLEC.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4180,
+      "name": "RUBBLED",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2092,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800120",
+      "filename": "RUBBLED.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4181,
+      "name": "RUBBLEE",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2092,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800120",
+      "filename": "RUBBLEE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4182,
+      "name": "RUBBLEF",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2092,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800120",
+      "filename": "RUBBLEF.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4183,
+      "name": "RUBBLEG",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1889,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000f3",
+      "filename": "RUBBLEG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4184,
+      "name": "RUBBLEH",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1889,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000f3",
+      "filename": "RUBBLEH.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4185,
+      "name": "RUBBLEI",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1889,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000f3",
+      "filename": "RUBBLEI.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4186,
+      "name": "RUBBLEJ",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1889,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000f3",
+      "filename": "RUBBLEJ.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4187,
+      "name": "RUBBLEK",
+      "description": "Rubble bit",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1889,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000f3",
+      "filename": "RUBBLEK.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4188,
+      "name": "MASONRY6",
+      "description": "Fallen bricks in lab",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 6571,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000500",
+      "filename": "MASONRY6.gif",
+      "flags": [
+        "0x2",
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4189,
+      "name": "MASONRY7",
+      "description": "Fallen bricks in lab",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 7418,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100005bb",
+      "filename": "MASONRY7.gif",
+      "flags": [
+        "0x2",
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4190,
+      "name": "MASONRY8",
+      "description": "Fallen bricks in lab",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 5575,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000423",
+      "filename": "MASONRY8.gif",
+      "flags": [
+        "0x2",
+        "0x4",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4191,
+      "name": "RUBBLEX",
+      "description": "Rubble bit in lab",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1708,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000cb",
+      "filename": "RUBBLEX.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4192,
+      "name": "RUBBLEY",
+      "description": "Rubble bit in lab",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 2092,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800120",
+      "filename": "RUBBLEY.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4193,
+      "name": "RUBBLEZ",
+      "description": "Rubble bit in lab",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 1889,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000f3",
+      "filename": "RUBBLEZ.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4194,
+      "name": "MTLBRAC2",
+      "description": "Metal brace extended",
+      "animated": false,
+      "origin": "SEWER.DAS",
+      "offset": 2621440,
+      "size": 16864,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800de6",
+      "filename": "MTLBRAC2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    }
+  ]
+}

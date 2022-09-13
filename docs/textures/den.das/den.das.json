@@ -1,0 +1,1604 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "SKY",
+      "description": "Wot friggin sky?!?",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": []
+    },
+    {
+      "index": 97,
+      "name": "AIRLOCK",
+      "description": "Door to skip",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "AIRLOCK.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "AIRLOCK2",
+      "description": "Door to skip dark",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "AIRLOCK2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "SKIPWAL1",
+      "description": "Skip wall1",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 26826,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001683",
+      "filename": "SKIPWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "OILDRUM1",
+      "description": "Oildrum 1",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "OILDRUM1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "OILDRUM2",
+      "description": "Oildrum 2 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "OILDRUM2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "OILDRUM3",
+      "description": "Oildrum 3 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "OILDRUM3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "OILDRUM4",
+      "description": "Oildrum 4 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "OILDRUM4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "OILDRUM5",
+      "description": "Oildrum 5 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "OILDRUM5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "CORIFLOR",
+      "description": "Corridor for skip",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "CORIFLOR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "SKIPWAL2",
+      "description": "Skip wall2 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 7021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000563",
+      "filename": "SKIPWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "SKIPWAL3",
+      "description": "Skip wall3 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 26826,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001683",
+      "filename": "SKIPWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "SKIPWAL5",
+      "description": "Skip wall5 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 48872,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002993",
+      "filename": "SKIPWAL5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "SKIPWAL6",
+      "description": "Skip wall6 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 45981,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002713",
+      "filename": "SKIPWAL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "SKIPWAL7",
+      "description": "Skip wall7 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 52125,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c63",
+      "filename": "SKIPWAL7.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "SKIPWAL8",
+      "description": "Skip wall8 car",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 1002909,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110009fa",
+      "filename": "SKIPWAL8.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "SKIPWAL9",
+      "description": "Skip wall9",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 52125,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c63",
+      "filename": "SKIPWAL9.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "SKIPWALA",
+      "description": "Skip walla",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 44897,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002623",
+      "filename": "SKIPWALA.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 115,
+      "name": "SKIPWALB",
+      "description": "Skip wallb",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 47788,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100028a3",
+      "filename": "SKIPWALB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 116,
+      "name": "SKIPWALC",
+      "description": "Skip wallc",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 50991,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002b68",
+      "filename": "SKIPWALC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 117,
+      "name": "SKIPWALJ",
+      "description": "Skip wall CONGRATS",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 44897,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002623",
+      "filename": "SKIPWALJ.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "SKPROOF3",
+      "description": "The skip roof",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "SKPROOF3.gif",
+      "flags": []
+    },
+    {
+      "index": 119,
+      "name": "SKIPWALK",
+      "description": "Skip wall WELL DUN",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 52125,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c63",
+      "filename": "SKIPWALK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 120,
+      "name": "SKIPFLOR",
+      "description": "Skip floor",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "SKIPFLOR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 121,
+      "name": "OILTOP",
+      "description": "Oil drum top",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "OILTOP.gif",
+      "flags": []
+    },
+    {
+      "index": 122,
+      "name": "ELVIS",
+      "description": "Elvis",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 60376,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003386",
+      "filename": "ELVIS.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 123,
+      "name": "CORIWAL1",
+      "description": "The corridor in the lab1",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 42439,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002403",
+      "filename": "CORIWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 124,
+      "name": "CORIWAL2",
+      "description": "The corridor in the lab2",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 42439,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002403",
+      "filename": "CORIWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 125,
+      "name": "SKIPWALF",
+      "description": "Skip wall",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 8796,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006ec",
+      "filename": "SKIPWALF.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 126,
+      "name": "SKIPWALG",
+      "description": "Skip wall",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 7556,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005da",
+      "filename": "SKIPWALG.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 127,
+      "name": "SKIPWALH",
+      "description": "Skip wall",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 15261,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c83",
+      "filename": "SKIPWALH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 134,
+      "name": "SKIPWALI",
+      "description": "Skip wall CONGRATS",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 52125,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c63",
+      "filename": "SKIPWALI.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 140,
+      "name": "SKIPDOR1",
+      "description": "skip door rust",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "SKIPDOR1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 141,
+      "name": "SKIPDOR2",
+      "description": "skip door lab",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "SKIPDOR2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 142,
+      "name": "FRIJWALL",
+      "description": "Dummy fridge on wall",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 51764,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c13",
+      "filename": "FRIJWALL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "PLATE",
+      "description": "Plate",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 3329,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800232",
+      "filename": "PLATE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "HOPPER",
+      "description": "Space Hopper",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 265891,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800c22",
+      "filename": "HOPPER.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "SKULL",
+      "description": "Skull",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 7529,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800038",
+      "filename": "SKULL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4122,
+      "name": "APPLECOR",
+      "description": "Apple core ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 1347,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080007b",
+      "filename": "APPLECOR.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "FOOTBALL",
+      "description": "Football",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 3684,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800281",
+      "filename": "FOOTBALL.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "BIN",
+      "description": "Bin ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 8141,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080065b",
+      "filename": "BIN.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4125,
+      "name": "PIZZA",
+      "description": "Pizza boxes ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 3687,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800281",
+      "filename": "PIZZA.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "BEANBAG",
+      "description": "Beanbag ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 29796,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801915",
+      "filename": "BEANBAG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4127,
+      "name": "DIRTMUG",
+      "description": "Dirty mug ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 2085,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080011f",
+      "filename": "DIRTMUG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "PIZZA2",
+      "description": "Pizza box2",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 6623,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080050b",
+      "filename": "PIZZA2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "BINBAG",
+      "description": "Bin bag 1",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 6618,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080050a",
+      "filename": "BINBAG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "BINBAG2",
+      "description": "Bin bag 2 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 12008,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108009b3",
+      "filename": "BINBAG2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4131,
+      "name": "BINBAG3",
+      "description": "Bin bag 3 ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 9548,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800793",
+      "filename": "BINBAG3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "BALLOON",
+      "description": "Balloon",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 8069,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080064b",
+      "filename": "BALLOON.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4133,
+      "name": "BALLOON2",
+      "description": "Balloon ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 8983,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800716",
+      "filename": "BALLOON2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4134,
+      "name": "BALLOON3",
+      "description": "Balloon ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 8983,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800716",
+      "filename": "BALLOON3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4135,
+      "name": "BALLOON4",
+      "description": "Balloon ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 8983,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800716",
+      "filename": "BALLOON4.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4136,
+      "name": "BALLOON5",
+      "description": "Balloon ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 8069,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080064b",
+      "filename": "BALLOON5.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4137,
+      "name": "BALLOON6",
+      "description": "Balloon ",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 8069,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080064b",
+      "filename": "BALLOON6.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4161,
+      "name": "HEATHER1",
+      "description": "Heather, default",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180078f",
+      "filename": "HEATHER1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4162,
+      "name": "DARKERON",
+      "description": "Ron cutout",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 46782,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108027c5",
+      "filename": "DARKERON.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4163,
+      "name": "DARKROGR",
+      "description": "Roger Moore cutout",
+      "animated": false,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 33046,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801be4",
+      "filename": "DARKROGR.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4164,
+      "name": "D-CYC-01",
+      "description": "Dai, default",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b98",
+      "filename": "D-CYC-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4165,
+      "name": "BRI1",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800722",
+      "filename": "BRI1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4166,
+      "name": "NORMUW1",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800757",
+      "filename": "NORMUW1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4167,
+      "name": "D-CYC-02",
+      "description": "Dai, default",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b47",
+      "filename": "D-CYC-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4168,
+      "name": "D-CYC-03",
+      "description": "Dai, default",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800f65",
+      "filename": "D-CYC-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4169,
+      "name": "D-CYC-04",
+      "description": "Dai, default",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118013ae",
+      "filename": "D-CYC-04.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4170,
+      "name": "D-STILL",
+      "description": "Dai, still",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 772297,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118008d8",
+      "filename": "D-STILL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4171,
+      "name": "D-LIST",
+      "description": "Dai, listen",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800947",
+      "filename": "D-LIST.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4172,
+      "name": "D-CON-01",
+      "description": "Dai, talking",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801163",
+      "filename": "D-CON-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4173,
+      "name": "D-CON-02",
+      "description": "Dai, talking",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800f18",
+      "filename": "D-CON-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4174,
+      "name": "D-CON-03",
+      "description": "Dai, talking",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180116f",
+      "filename": "D-CON-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4175,
+      "name": "HEATHER2",
+      "description": "Heather, default",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118007b6",
+      "filename": "HEATHER2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4176,
+      "name": "HEATHER3",
+      "description": "Heather, default",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800be7",
+      "filename": "HEATHER3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4177,
+      "name": "HEATHER4",
+      "description": "Heather, default",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800883",
+      "filename": "HEATHER4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4178,
+      "name": "HEATHER5",
+      "description": "Heather, still & listen",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118005f5",
+      "filename": "HEATHER5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4179,
+      "name": "HEATHER6",
+      "description": "Heather, conv",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b1f",
+      "filename": "HEATHER6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4180,
+      "name": "HEATHER7",
+      "description": "Heather, conv",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b55",
+      "filename": "HEATHER7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4181,
+      "name": "HEATHER8",
+      "description": "Heather, conv",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b80",
+      "filename": "HEATHER8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4182,
+      "name": "BRI2",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006be",
+      "filename": "BRI2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4183,
+      "name": "BRI3",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800698",
+      "filename": "BRI3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4184,
+      "name": "BRI4",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800753",
+      "filename": "BRI4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4185,
+      "name": "BRI5",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800406",
+      "filename": "BRI5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4186,
+      "name": "BRI6",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180075f",
+      "filename": "BRI6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4187,
+      "name": "BRI7",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800894",
+      "filename": "BRI7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4188,
+      "name": "BRI8",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800765",
+      "filename": "BRI8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4189,
+      "name": "BRI9",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800603",
+      "filename": "BRI9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4190,
+      "name": "NORMUW2",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800752",
+      "filename": "NORMUW2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4191,
+      "name": "NORMUW3",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 494118,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800773",
+      "filename": "NORMUW3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4192,
+      "name": "NORMUW4",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800765",
+      "filename": "NORMUW4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4193,
+      "name": "NORMUW5",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800625",
+      "filename": "NORMUW5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4194,
+      "name": "NORMUW6",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800887",
+      "filename": "NORMUW6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4195,
+      "name": "NORMUW7",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 494118,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800944",
+      "filename": "NORMUW7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4196,
+      "name": "NORMUW8",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801023",
+      "filename": "NORMUW8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4197,
+      "name": "NORMUW9",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DEN.DAS",
+      "offset": 1835008,
+      "size": 494118,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800632",
+      "filename": "NORMUW9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    }
+  ]
+}

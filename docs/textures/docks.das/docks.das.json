@@ -1,0 +1,4374 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "TEXTURE",
+      "description": "texture",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "TEXTURE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "SKY",
+      "description": "Skyline",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": []
+    },
+    {
+      "index": 2,
+      "name": "WATER",
+      "description": "Water anim",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 593297,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11002f4b",
+      "filename": "WATER.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "BAYDOORS",
+      "description": "Loading door on dock ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 56363,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000300d",
+      "filename": "BAYDOORS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "CRATE1A",
+      "description": "Crate 1 front",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 9049,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000724",
+      "filename": "CRATE1A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "CRATE1B",
+      "description": "Crate 1 side ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 7581,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005df",
+      "filename": "CRATE1B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "CRATE2A",
+      "description": "Crate 2 front ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3651,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000279",
+      "filename": "CRATE2A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "CRATE2B",
+      "description": "Crate 2 side ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2837,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001c5",
+      "filename": "CRATE2B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "CRATE3A",
+      "description": "Crate 3 front ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 5503,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000413",
+      "filename": "CRATE3A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "CRATE3B",
+      "description": "Crate 3 side ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3967,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002bf",
+      "filename": "CRATE3B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "CRATE4A",
+      "description": "Crate 4 front ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3967,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002bf",
+      "filename": "CRATE4A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "CRATE4B",
+      "description": "Crate 4 side ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2883,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001cf",
+      "filename": "CRATE4B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "DOKWALL1",
+      "description": "Dock wall end",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 41147,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100022e5",
+      "filename": "DOKWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "DOKWALL2",
+      "description": "Dock wall top window",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 19670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001053",
+      "filename": "DOKWALL2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "DOKWALL3",
+      "description": "Dock wall bot window",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 21242,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100011af",
+      "filename": "DOKWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "DOKWALL4",
+      "description": "Dock wall under rafter",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 37849,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000200b",
+      "filename": "DOKWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "DOKWALL5",
+      "description": "Dock wall over dummy door",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 36548,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001eeb",
+      "filename": "DOKWALL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "DOKWALL6",
+      "description": "Dock wall side of wall big!",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 100599,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000564d",
+      "filename": "DOKWALL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "WINDOW",
+      "description": "Window boarded-up",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 28841,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001841",
+      "filename": "WINDOW.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "DOKSID1",
+      "description": "Side of dummy door1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 4034,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ce",
+      "filename": "DOKSID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "DOKSID2",
+      "description": "Side of dummy door2",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 4034,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ce",
+      "filename": "DOKSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "DOKFLOR1",
+      "description": "Dock floor end",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "DOKFLOR1.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "DOKFLOR2",
+      "description": "Dock floor middle",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "DOKFLOR2.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "DOKFLOR3",
+      "description": "Dock floor near door",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "DOKFLOR3.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "CRATETEX",
+      "description": "Crate top texture",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "CRATETEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "DOKWALL7",
+      "description": "Dock wall end",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 30757,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100019e9",
+      "filename": "DOKWALL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "DOKWALL8",
+      "description": "Dock wall end2 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 105822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005ad1",
+      "filename": "DOKWALL8.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "BRIDGEWL",
+      "description": "Dock wall edge ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 54022,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002e07",
+      "filename": "BRIDGEWL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "DOKWALL9",
+      "description": "Dock wall edge",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 47716,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002893",
+      "filename": "DOKWALL9.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "GIRDER",
+      "description": "Girder",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "GIRDER.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "BRID1",
+      "description": "Bridge back 1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 133284,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007290",
+      "filename": "BRID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "BRID2",
+      "description": "Bridge back 2",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 24996,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100014ee",
+      "filename": "BRID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "BRID3",
+      "description": "Bridge back 3 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 41463,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000232b",
+      "filename": "BRID3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "BRID4",
+      "description": "Bridge back 4 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 111397,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005fa3",
+      "filename": "BRID4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "WINSID1",
+      "description": "Window edge 1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2724,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001ac",
+      "filename": "WINSID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "WINSID2",
+      "description": "Window edge 2",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2724,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001ac",
+      "filename": "WINSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "STEP",
+      "description": "Step bit",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2747,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001b1",
+      "filename": "STEP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "TUNLFNT1",
+      "description": "Tunnel front 1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 75255,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004063",
+      "filename": "TUNLFNT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "TUNLFNT2",
+      "description": "Tunnel front 2",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 83929,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100047e3",
+      "filename": "TUNLFNT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "TUNLFNT3",
+      "description": "Tunnel front 3",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 79592,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004423",
+      "filename": "TUNLFNT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "TUNLFNT4",
+      "description": "Tunnel front 4",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 79592,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004423",
+      "filename": "TUNLFNT4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "TUNLBAK1",
+      "description": "Tunnel back 1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 53571,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002da3",
+      "filename": "TUNLBAK1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "TUNLBAK2",
+      "description": "Tunnel back 2",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 64052,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100036b3",
+      "filename": "TUNLBAK2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "TUNLBAK3",
+      "description": "Tunnel back 3",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 55016,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002ee3",
+      "filename": "TUNLBAK3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "TUNLBAK4",
+      "description": "Tunnel back 4",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 55378,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002f33",
+      "filename": "TUNLBAK4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "TUNLRBK1",
+      "description": "Tunnel right back 1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 52848,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002d03",
+      "filename": "TUNLRBK1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "TUNLRBK2",
+      "description": "Tunnel right back 2",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 60437,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003393",
+      "filename": "TUNLRBK2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "TUNLRBK3",
+      "description": "Tunnel right back 3",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 74894,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004013",
+      "filename": "TUNLRBK3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "TUNLRBK4",
+      "description": "Tunnel right back 4",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 74894,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004013",
+      "filename": "TUNLRBK4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "CEILDARK",
+      "description": "Ceiling texture",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "CEILDARK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "CEILIGHT",
+      "description": "Ceiling texture",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "CEILIGHT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "RUSTBOT",
+      "description": "Rusty surface",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "RUSTBOT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "DOORSID1",
+      "description": "Door side 1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 5467,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000040b",
+      "filename": "DOORSID1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "DOORSID2",
+      "description": "Door side 2 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 5467,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000040b",
+      "filename": "DOORSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "DOKWAL41",
+      "description": "Door side 1 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 47716,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002893",
+      "filename": "DOKWAL41.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "DOKWAL42",
+      "description": "Door side 2 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 47716,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002893",
+      "filename": "DOKWAL42.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "DOKWAL43",
+      "description": "Door side 3 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 7201,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000058b",
+      "filename": "DOKWAL43.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "DOKWAL44",
+      "description": "Door side 4 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 22272,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001293",
+      "filename": "DOKWAL44.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "DOKWAL45",
+      "description": "Door side 5 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 7201,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000058b",
+      "filename": "DOKWAL45.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "DOKEDGE1",
+      "description": "Edge of the dock",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 9478,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000783",
+      "filename": "DOKEDGE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "DOKEDGE2",
+      "description": "Edge of the dock",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "DOKEDGE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "DOKEDGE3",
+      "description": "Edge of the dock",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 6949,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000553",
+      "filename": "DOKEDGE3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "DOKEDGE4",
+      "description": "Edge of the dock",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3877,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ab",
+      "filename": "DOKEDGE4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "DOKEDGE5",
+      "description": "Edge of the dock ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3154,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000020b",
+      "filename": "DOKEDGE5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "CRADARK",
+      "description": "Dark crate",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3651,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000279",
+      "filename": "CRADARK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "LABFLOOR",
+      "description": "Lab floor",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "LABFLOOR.gif",
+      "flags": []
+    },
+    {
+      "index": 66,
+      "name": "STAGE1",
+      "description": "Side of stage",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 7491,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005cb",
+      "filename": "STAGE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "STAGE2",
+      "description": "Side of stage",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8033,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000643",
+      "filename": "STAGE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "STAGEFLR",
+      "description": "Top of stage",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "STAGEFLR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "TELLY",
+      "description": "Smash TV",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 19697,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001059",
+      "filename": "TELLY.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "TELLYS",
+      "description": "Smash TVside ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3786,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000297",
+      "filename": "TELLYS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "CRA1",
+      "description": "Dark crate side",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3425,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000247",
+      "filename": "CRA1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "CRA2",
+      "description": "Light crate side ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 4283,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000305",
+      "filename": "CRA2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "LABCEIL",
+      "description": "Lab Ceiling",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "LABCEIL.gif",
+      "flags": []
+    },
+    {
+      "index": 74,
+      "name": "OSIL",
+      "description": "Osciliscope",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 640616,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100082a",
+      "filename": "OSIL.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "OSILSIDE",
+      "description": "Osciliscope side",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 49107,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100029c7",
+      "filename": "OSILSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "LABWALL1",
+      "description": "Labwall1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 104891,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005a03",
+      "filename": "LABWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "LABWALL2",
+      "description": "Labwall2 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 26971,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100016a3",
+      "filename": "LABWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "LABWALL3",
+      "description": "Labwall3 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 36991,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001f4d",
+      "filename": "LABWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "LABWALL4",
+      "description": "Labwall4 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 11100,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008ea",
+      "filename": "LABWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "LABWALL5",
+      "description": "Labwall5 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 30079,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001953",
+      "filename": "LABWALL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "LABWALL6",
+      "description": "Labwall6 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 27242,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100016df",
+      "filename": "LABWALL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "LABWALL7",
+      "description": "Labwall7 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 75617,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100040b3",
+      "filename": "LABWALL7.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "LABCUPF",
+      "description": "Lab cupboard front ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 13273,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000acb",
+      "filename": "LABCUPF.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "LABCUPS",
+      "description": "Lab cupboard side",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8828,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006f3",
+      "filename": "LABCUPS.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "LABCUPS2",
+      "description": "Lab cupboard dark side",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8828,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006f3",
+      "filename": "LABCUPS2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 86,
+      "name": "BRICK",
+      "description": "Brick repeat",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "BRICK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "LABWALL8",
+      "description": "labwall8 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 69925,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003bc7",
+      "filename": "LABWALL8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "LABWALL9",
+      "description": "Labwall9 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 11100,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008ea",
+      "filename": "LABWALL9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "LABWALLA",
+      "description": "Labwalla ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 43090,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002493",
+      "filename": "LABWALLA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "LABWALLB",
+      "description": "Labwallb ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 54628,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002e8d",
+      "filename": "LABWALLB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "LABWALLC",
+      "description": "Labwallc ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 58630,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003203",
+      "filename": "LABWALLC.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "LABWALLD",
+      "description": "Labwalld ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 65859,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003843",
+      "filename": "LABWALLD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "LABEDG1",
+      "description": "Lab edge1 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "LABEDG1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "LABEDG2",
+      "description": "Lab edge2 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "LABEDG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "AMP",
+      "description": "Amplifier",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 40162,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000220b",
+      "filename": "AMP.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "AMPS",
+      "description": "Amp side",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 18098,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ef7",
+      "filename": "AMPS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "AIRLOCK",
+      "description": "Door to skip",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "AIRLOCK.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "AIRLOCK2",
+      "description": "Door to skip dark",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "AIRLOCK2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "SKIPWAL1",
+      "description": "Skip wall1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 26826,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001683",
+      "filename": "SKIPWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "OILDRUM1",
+      "description": "Oildrum 1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "OILDRUM1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "OILDRUM2",
+      "description": "Oildrum 2 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "OILDRUM2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "OILDRUM3",
+      "description": "Oildrum 3 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "OILDRUM3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "OILDRUM4",
+      "description": "Oildrum 4 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "OILDRUM4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "OILDRUM5",
+      "description": "Oildrum 5 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 11213,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000903",
+      "filename": "OILDRUM5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "CORIFLOR",
+      "description": "Corridor for skip",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "CORIFLOR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "SKIPWAL2",
+      "description": "Skip wall2 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 7021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000563",
+      "filename": "SKIPWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "SKIPWAL3",
+      "description": "Skip wall3 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 26826,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001683",
+      "filename": "SKIPWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "SKIPWAL4",
+      "description": "Skip wall4 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 15261,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c83",
+      "filename": "SKIPWAL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "SKIPWAL5",
+      "description": "Skip wall5 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 48872,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002993",
+      "filename": "SKIPWAL5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "SKIPWAL6",
+      "description": "Skip wall6 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 45981,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002713",
+      "filename": "SKIPWAL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "SKIPWAL7",
+      "description": "Skip wall7 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 52125,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c63",
+      "filename": "SKIPWAL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "SKIPWAL8",
+      "description": "Skip wall8 car",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 1002909,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110009fb",
+      "filename": "SKIPWAL8.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "SKIPWAL9",
+      "description": "Skip wall9",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 52125,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c63",
+      "filename": "SKIPWAL9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "SKIPWALA",
+      "description": "Skip walla",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 44897,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002623",
+      "filename": "SKIPWALA.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 115,
+      "name": "SKIPWALB",
+      "description": "Skip wallb",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 47788,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100028a3",
+      "filename": "SKIPWALB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 116,
+      "name": "SKIPWALC",
+      "description": "Skip wallc",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 50991,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002b68",
+      "filename": "SKIPWALC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 117,
+      "name": "FRIDGE",
+      "description": "Fridge in skip",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 327985,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000630",
+      "filename": "FRIDGE.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "SKPROOF3",
+      "description": "The skip roof",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "SKPROOF3.gif",
+      "flags": []
+    },
+    {
+      "index": 119,
+      "name": "FRIDSIDE",
+      "description": "The fridge side",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 43252,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100024b7",
+      "filename": "FRIDSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 120,
+      "name": "SKIPFLOR",
+      "description": "Skip floor",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "SKIPFLOR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 121,
+      "name": "OILTOP",
+      "description": "Oil drum top",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "OILTOP.gif",
+      "flags": []
+    },
+    {
+      "index": 122,
+      "name": "ELVIS",
+      "description": "Elvis",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 60376,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003386",
+      "filename": "ELVIS.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 123,
+      "name": "CORIWAL1",
+      "description": "The corridor in the lab1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "CORIWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 124,
+      "name": "CORIWAL2",
+      "description": "The corridor in the lab2",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "CORIWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 125,
+      "name": "SKIPWALF",
+      "description": "Skip wall",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8796,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006ec",
+      "filename": "SKIPWALF.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 126,
+      "name": "SKIPWALG",
+      "description": "Skip wall",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 7556,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005da",
+      "filename": "SKIPWALG.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 127,
+      "name": "SKIPWALH",
+      "description": "Skip wall",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 15261,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c83",
+      "filename": "SKIPWALH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 128,
+      "name": "FRIJDOOR",
+      "description": "Fridge door",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8521,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006af",
+      "filename": "FRIJDOOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 129,
+      "name": "FRIJSID1",
+      "description": "Fridge side1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 5774,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000044f",
+      "filename": "FRIJSID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 130,
+      "name": "FRIJSID2",
+      "description": "Fridge side2",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 5774,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000044f",
+      "filename": "FRIJSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 131,
+      "name": "FRIJBACK",
+      "description": "Fridge side3",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8382,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000691",
+      "filename": "FRIJBACK.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 132,
+      "name": "FRIJDOO2",
+      "description": "Fridge door",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8521,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006af",
+      "filename": "FRIJDOO2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 133,
+      "name": "FRIJDOO3",
+      "description": "Fridge door",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8521,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006af",
+      "filename": "FRIJDOO3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 134,
+      "name": "SKIPWALI",
+      "description": "Skip wall",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8796,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006ec",
+      "filename": "SKIPWALI.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 136,
+      "name": "HAM-GONE",
+      "description": "Hammer off wall",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 104891,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005a03",
+      "filename": "HAM-GONE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 137,
+      "name": "OSCBROKE",
+      "description": "Oscilloscope broke",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 466121,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110008c2",
+      "filename": "OSCBROKE.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 138,
+      "name": "DOOR1",
+      "description": "Door in docks",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 100265,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10805603",
+      "filename": "DOOR1.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 139,
+      "name": "DOORBIT",
+      "description": "Doorbit edge",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 5431,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000403",
+      "filename": "DOORBIT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 140,
+      "name": "SKIPDOR1",
+      "description": "skip door rust",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "SKIPDOR1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 141,
+      "name": "SKIPDOR2",
+      "description": "skip door lab",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "SKIPDOR2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 142,
+      "name": "STEP2",
+      "description": "Step bit",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2747,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001b1",
+      "filename": "STEP2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 143,
+      "name": "STEP3",
+      "description": "Step bit",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2747,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001b1",
+      "filename": "STEP3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 144,
+      "name": "STEPWOOD",
+      "description": "Step wood texture",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "STEPWOOD.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 145,
+      "name": "GIRDER2",
+      "description": "Girder side",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2747,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001b1",
+      "filename": "GIRDER2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 146,
+      "name": "COBWEB",
+      "description": "Cobwebs",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 10517,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000869",
+      "filename": "COBWEB.gif",
+      "flags": [
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 147,
+      "name": "CORIEDGE",
+      "description": "Corridor edge",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 7744,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000603",
+      "filename": "CORIEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 148,
+      "name": "CORRI",
+      "description": "Corridor wall",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 54583,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002e83",
+      "filename": "CORRI.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "POST1",
+      "description": "Post in water",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 45396,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180010b",
+      "filename": "POST1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "ROPE",
+      "description": "Rope on bay",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 11809,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800987",
+      "filename": "ROPE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "LIGHT",
+      "description": "Light on dock",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 12536,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000a28",
+      "filename": "LIGHT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "OTTER3",
+      "description": "Swimming otter",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2442321,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801306",
+      "filename": "OTTER3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "BONGO",
+      "description": "Bongo drum",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 17312,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800e49",
+      "filename": "BONGO.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "NET",
+      "description": "Netting in water",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 21501,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108011e9",
+      "filename": "NET.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "PLATE",
+      "description": "Plate",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3329,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800232",
+      "filename": "PLATE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "PULLEY",
+      "description": "Pulley",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 10630,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000882",
+      "filename": "PULLEY.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "SKELETON",
+      "description": "Skeleton mobile",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 27549,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801723",
+      "filename": "SKELETON.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "HOPPER",
+      "description": "Space Hopper",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 265891,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800c22",
+      "filename": "HOPPER.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "LIGHT2",
+      "description": "Light in room",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 10987,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100008d1",
+      "filename": "LIGHT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4109,
+      "name": "BASSDRM",
+      "description": "Bass drum",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 23573,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108013b3",
+      "filename": "BASSDRM.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4110,
+      "name": "SNAREDRM",
+      "description": "Snare drum ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 17294,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800e45",
+      "filename": "SNAREDRM.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "PLASMA",
+      "description": "Plasma ball ",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 51577,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118001c0",
+      "filename": "PLASMA.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4112,
+      "name": "ATOM",
+      "description": "Atom thing",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 7445,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108005c1",
+      "filename": "ATOM.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "JAR1",
+      "description": "jar",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8774,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108006e7",
+      "filename": "JAR1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "JAR2",
+      "description": "jar",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 113425,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800245",
+      "filename": "JAR2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "JAR3",
+      "description": "jar",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8774,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108006e7",
+      "filename": "JAR3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "FLASK",
+      "description": "flask",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 92105,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180018b",
+      "filename": "FLASK.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "COG",
+      "description": "Cog",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 4446,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800329",
+      "filename": "COG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4118,
+      "name": "PETTANK",
+      "description": "Petrol tank ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 9412,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800775",
+      "filename": "PETTANK.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "REDLITE",
+      "description": "Red light",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 21920,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801245",
+      "filename": "REDLITE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "CONDUCT",
+      "description": "Conductor",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 66515,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800191",
+      "filename": "CONDUCT.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "SKULL",
+      "description": "Skull",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 7529,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800038",
+      "filename": "SKULL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4122,
+      "name": "APPLECOR",
+      "description": "Apple core ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 1347,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080007b",
+      "filename": "APPLECOR.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "FOOTBALL",
+      "description": "Football",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3684,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800281",
+      "filename": "FOOTBALL.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "BIN",
+      "description": "Bin ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 8141,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080065b",
+      "filename": "BIN.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4125,
+      "name": "PIZZA",
+      "description": "Pizza boxes ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3687,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800281",
+      "filename": "PIZZA.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "BEANBAG",
+      "description": "Beanbag ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 29796,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801915",
+      "filename": "BEANBAG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4127,
+      "name": "DIRTMUG",
+      "description": "Dirty mug ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2085,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080011f",
+      "filename": "DIRTMUG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "PIZZA2",
+      "description": "Pizza box2",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 6623,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080050b",
+      "filename": "PIZZA2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "BINBAG",
+      "description": "Bin bag 1",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 6618,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080050a",
+      "filename": "BINBAG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "BINBAG2",
+      "description": "Bin bag 2 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 12008,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108009b3",
+      "filename": "BINBAG2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4131,
+      "name": "BINBAG3",
+      "description": "Bin bag 3 ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 9548,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800793",
+      "filename": "BINBAG3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "STATUE",
+      "description": "Statue of Liberty",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 4802,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800378",
+      "filename": "STATUE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4133,
+      "name": "MILK",
+      "description": "Milk",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2521,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080017f",
+      "filename": "MILK.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4134,
+      "name": "LETTUCE",
+      "description": "Lettuce ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 4972,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080039e",
+      "filename": "LETTUCE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4135,
+      "name": "WALNUT",
+      "description": "Walnut ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2512,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080017d",
+      "filename": "WALNUT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4137,
+      "name": "SARDINE",
+      "description": "Sardine tin",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3883,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108002ad",
+      "filename": "SARDINE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4139,
+      "name": "ICICLE_1",
+      "description": "Icicle",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2137,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080012a",
+      "filename": "ICICLE_1.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4140,
+      "name": "ICICLE_2",
+      "description": "Icicle ",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3551,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800263",
+      "filename": "ICICLE_2.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4141,
+      "name": "ELECBROK",
+      "description": "Electrodes off",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 6949,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800553",
+      "filename": "ELECBROK.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4143,
+      "name": "BOX",
+      "description": "Box junk",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3555,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800264",
+      "filename": "BOX.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4144,
+      "name": "PURPTUBE",
+      "description": "Purple testtube",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3154,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080020b",
+      "filename": "PURPTUBE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4145,
+      "name": "TESTTUBE",
+      "description": "Empty testtube",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3094,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001fe",
+      "filename": "TESTTUBE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4147,
+      "name": "EMPTTUBE",
+      "description": "No testtube",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 1802,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000e0",
+      "filename": "EMPTTUBE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4150,
+      "name": "MICRO",
+      "description": "Micro chip",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2512,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080017d",
+      "filename": "MICRO.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4151,
+      "name": "EXHAUST",
+      "description": "Exhaust piece",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 2837,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001c5",
+      "filename": "EXHAUST.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4152,
+      "name": "BOLLARD",
+      "description": "Orange cone",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 9200,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800746",
+      "filename": "BOLLARD.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4153,
+      "name": "TRAFFIC",
+      "description": "Traffic Light",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 110229,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180050c",
+      "filename": "TRAFFIC.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4154,
+      "name": "OILDRUM",
+      "description": "Oil drum",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 9997,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108007f6",
+      "filename": "OILDRUM.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4155,
+      "name": "PUPPET",
+      "description": "Puppet",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 14123,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800b87",
+      "filename": "PUPPET.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4156,
+      "name": "FIREEX",
+      "description": "Fire extinguisher",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 11963,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108009a9",
+      "filename": "FIREEX.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4157,
+      "name": "PLANT",
+      "description": "Plant",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 7030,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800565",
+      "filename": "PLANT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4158,
+      "name": "TRAFFIC2",
+      "description": "Traffic Light",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 110229,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118004fb",
+      "filename": "TRAFFIC2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4159,
+      "name": "MOP",
+      "description": "mop",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 11951,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108009a7",
+      "filename": "MOP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4160,
+      "name": "BOBDRUM",
+      "description": "Bobbing oildrum",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 135809,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11000525",
+      "filename": "BOBDRUM.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4161,
+      "name": "HEATHQ1",
+      "description": "Heather",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 409113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800445",
+      "filename": "HEATHQ1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4162,
+      "name": "BRI1",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800722",
+      "filename": "BRI1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4163,
+      "name": "RAFT2",
+      "description": "Raft with bottles",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 393425,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1100139a",
+      "filename": "RAFT2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4164,
+      "name": "LIGHT3",
+      "description": "Light in corridor",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3792,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10100299",
+      "filename": "LIGHT3.gif",
+      "flags": [
+        "0x10",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4165,
+      "name": "NORMUW1",
+      "description": "Norm 2782",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800757",
+      "filename": "NORMUW1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4166,
+      "name": "SAUL1",
+      "description": "Saul",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180058d",
+      "filename": "SAUL1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4167,
+      "name": "HEATHER1",
+      "description": "Heather on dockside",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180078f",
+      "filename": "HEATHER1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4168,
+      "name": "STRUT1",
+      "description": "Plank of wood",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 3425,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800247",
+      "filename": "STRUT1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4169,
+      "name": "STRUT2",
+      "description": "Plank of wood",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 6544,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108004fa",
+      "filename": "STRUT2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4170,
+      "name": "STRUT3",
+      "description": "Plank of wood",
+      "animated": false,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 4694,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800360",
+      "filename": "STRUT3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4175,
+      "name": "HEATHER2",
+      "description": "Heather, default",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118007b6",
+      "filename": "HEATHER2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4176,
+      "name": "HEATHER3",
+      "description": "Heather, default",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800be7",
+      "filename": "HEATHER3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4177,
+      "name": "HEATHER4",
+      "description": "Heather, default",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800883",
+      "filename": "HEATHER4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4178,
+      "name": "HEATHER5",
+      "description": "Heather, still & listen",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118005f5",
+      "filename": "HEATHER5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4179,
+      "name": "HEATHER6",
+      "description": "Heather, conv",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b1f",
+      "filename": "HEATHER6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4180,
+      "name": "HEATHER7",
+      "description": "Heather, conv",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b55",
+      "filename": "HEATHER7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4181,
+      "name": "HEATHER8",
+      "description": "Heather, conv",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b80",
+      "filename": "HEATHER8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4182,
+      "name": "BRI2",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006be",
+      "filename": "BRI2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4183,
+      "name": "BRI3",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800698",
+      "filename": "BRI3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4184,
+      "name": "BRI4",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800753",
+      "filename": "BRI4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4185,
+      "name": "BRI5",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800406",
+      "filename": "BRI5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4186,
+      "name": "BRI6",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180075f",
+      "filename": "BRI6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4187,
+      "name": "BRI7",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800894",
+      "filename": "BRI7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4188,
+      "name": "BRI8",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800765",
+      "filename": "BRI8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4189,
+      "name": "BRI9",
+      "description": "Brian",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800603",
+      "filename": "BRI9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4190,
+      "name": "NORMUW2",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800752",
+      "filename": "NORMUW2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4191,
+      "name": "NORMUW3",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 494118,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800773",
+      "filename": "NORMUW3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4192,
+      "name": "NORMUW4",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800765",
+      "filename": "NORMUW4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4193,
+      "name": "NORMUW5",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800625",
+      "filename": "NORMUW5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4194,
+      "name": "NORMUW6",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800887",
+      "filename": "NORMUW6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4195,
+      "name": "NORMUW7",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 494118,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800944",
+      "filename": "NORMUW7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4196,
+      "name": "NORMUW8",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 538965,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801023",
+      "filename": "NORMUW8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4197,
+      "name": "NORMUW9",
+      "description": "Norm",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 494118,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800632",
+      "filename": "NORMUW9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4198,
+      "name": "SAUL2",
+      "description": "Saul",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 389255,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180059c",
+      "filename": "SAUL2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4199,
+      "name": "SAUL3",
+      "description": "Saul",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800630",
+      "filename": "SAUL3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4200,
+      "name": "SAUL4",
+      "description": "Saul",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800544",
+      "filename": "SAUL4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4201,
+      "name": "SAUL5",
+      "description": "Saul",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 247999,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118003e4",
+      "filename": "SAUL5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4202,
+      "name": "SAUL6",
+      "description": "Saul",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180054f",
+      "filename": "SAUL6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4203,
+      "name": "SAUL7",
+      "description": "Saul",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006ac",
+      "filename": "SAUL7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4204,
+      "name": "SAUL8",
+      "description": "Saul",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180085a",
+      "filename": "SAUL8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4205,
+      "name": "HEATHQ2",
+      "description": "Heather",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 409113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800825",
+      "filename": "HEATHQ2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4206,
+      "name": "HEATHQ3",
+      "description": "Heather",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 409113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006db",
+      "filename": "HEATHQ3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4207,
+      "name": "HEATHQ4",
+      "description": "Heather",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 409113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006b3",
+      "filename": "HEATHQ4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4208,
+      "name": "HEATHQ5",
+      "description": "Heather",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 409113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118003d2",
+      "filename": "HEATHQ5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4209,
+      "name": "HEATHQ6",
+      "description": "Heather",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 409113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118005b3",
+      "filename": "HEATHQ6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4210,
+      "name": "HEATHQ7",
+      "description": "Heather",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 409113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180062e",
+      "filename": "HEATHQ7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4211,
+      "name": "HEATHQ8",
+      "description": "Heather",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 409113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800686",
+      "filename": "HEATHQ8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4212,
+      "name": "HEATHQ9",
+      "description": "Heather",
+      "animated": true,
+      "origin": "DOCKS.DAS",
+      "offset": 4194304,
+      "size": 409113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118005b0",
+      "filename": "HEATHQ9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1542 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "SKY",
+      "description": "Skyline",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "SUBWALL1",
+      "description": "Sub station back wall",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 87137,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004aa9",
+      "filename": "SUBWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "SUBWALL2",
+      "description": "Sub station step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 27063,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100016b8",
+      "filename": "SUBWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "SUBWALL3",
+      "description": "Sub station step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 15780,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000cf6",
+      "filename": "SUBWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "SUBWALL4",
+      "description": "Sub station step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 16684,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000dbe",
+      "filename": "SUBWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "SUBWALL5",
+      "description": "Sub station step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 17520,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e77",
+      "filename": "SUBWALL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "SUBWALL6",
+      "description": "Sub station step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 27063,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100016b8",
+      "filename": "SUBWALL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "SUBWALL7",
+      "description": "Sub station step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 15780,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000cf6",
+      "filename": "SUBWALL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "SUBWALL8",
+      "description": "Sub station step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 16684,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000dbe",
+      "filename": "SUBWALL8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "SUBWALL9",
+      "description": "Sub station step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 17520,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e77",
+      "filename": "SUBWALL9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "SUBWALLA",
+      "description": "Sub station blast hole ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 72194,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003dbe",
+      "filename": "SUBWALLA.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "SUBWALLB",
+      "description": "Sub station START off ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 14222,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000b9d",
+      "filename": "SUBWALLB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "SUBWALB2",
+      "description": "Sub station START on ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 14120,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000b87",
+      "filename": "SUBWALB2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "SUBWALLC",
+      "description": "Sub station below cntrl box",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 6497,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004ef",
+      "filename": "SUBWALLC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "SUBWALLD",
+      "description": "Sub station wall ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 49369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002a01",
+      "filename": "SUBWALLD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "SUBWALLE",
+      "description": "Sub station wall ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 7117,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000579",
+      "filename": "SUBWALLE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "SUBWALLF",
+      "description": "Sub station lower step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 12731,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000a53",
+      "filename": "SUBWALLF.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "SUBWALLG",
+      "description": "Sub station lower step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 13273,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000acb",
+      "filename": "SUBWALLG.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "SUBWALLH",
+      "description": "Sub station lower step",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 13689,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000b27",
+      "filename": "SUBWALLH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "SUBWALLI",
+      "description": "Sub station lower step ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 18163,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000f06",
+      "filename": "SUBWALLI.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "SUBWALLJ",
+      "description": "Sub station wall corner ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 58359,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100031c7",
+      "filename": "SUBWALLJ.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "SUBWALLK",
+      "description": "Sub station bricked up door",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 79231,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100043d3",
+      "filename": "SUBWALLK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "SUBWALLL",
+      "description": "Sub station above window ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 15773,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000cf5",
+      "filename": "SUBWALLL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "SUBWALLM",
+      "description": "Sub station below window ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 12589,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000a34",
+      "filename": "SUBWALLM.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "SUBWALLN",
+      "description": "Sub station DANGER box for tur",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 55829,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002f97",
+      "filename": "SUBWALLN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "COINSLOT",
+      "description": "Turbine coin slot OFF",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 17972,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000edb",
+      "filename": "COINSLOT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "COINSLT2",
+      "description": "Turbine coin slot ON ",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 172701,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000235",
+      "filename": "COINSLT2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "COINSIDE",
+      "description": "Side of the coin machine",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 6452,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004e5",
+      "filename": "COINSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "PNKTUBE1",
+      "description": "Pink neon ",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 28041,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000241",
+      "filename": "PNKTUBE1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "FLOORFAN",
+      "description": "Fans on floorgrill OFF",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "FLOORFAN_29.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "FLOORFAN",
+      "description": "Fans on floorgrill ON",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 1482041,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11001387",
+      "filename": "FLOORFAN_30.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "GRILFLOR",
+      "description": "Grilled floor brown",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "GRILFLOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "GRILFLR2",
+      "description": "Grilled floor grey ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "GRILFLR2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "CNTRLBOX",
+      "description": "Door of the control box",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 3853,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002a6",
+      "filename": "CNTRLBOX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "SUBFRNT",
+      "description": "Front of the desk plinth OFF",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 18931,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000fb0",
+      "filename": "SUBFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "SUBFRNT2",
+      "description": "Front of the desk plinth ON",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 327483,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000217",
+      "filename": "SUBFRNT2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "TURBINE2",
+      "description": "Spinning Turbine pummeler",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 1822957,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100b05e",
+      "filename": "TURBINE2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "CONCRETE",
+      "description": "Floor of the turbine pit",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCRETE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "SUBCEIL",
+      "description": "Ceiling of the substation",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "SUBCEIL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "STEPFRNT",
+      "description": "Pit steps front",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 13815,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000b43",
+      "filename": "STEPFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "STEPTOP",
+      "description": "Texture for pit steps",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "STEPTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "STEPTOP2",
+      "description": "Floor of the pit steps",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "STEPTOP2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "STEP",
+      "description": "Steps to the desk",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 3853,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002a6",
+      "filename": "STEP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "TURBINE",
+      "description": "Turbine off",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 65859,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003843",
+      "filename": "TURBINE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "GRILLE",
+      "description": "Grill in window",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 4166,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002eb",
+      "filename": "GRILLE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "BRICK",
+      "description": "Brick repeating texture",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "BRICK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "CIRCUIT",
+      "description": "Kevins puzzle",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 13273,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000acb",
+      "filename": "CIRCUIT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "BULBEDGE",
+      "description": "Bulb side casing",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 3696,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000283",
+      "filename": "BULBEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "BULBEDON",
+      "description": "Bulb front casing OFF ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 3660,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000027b",
+      "filename": "BULBEDON_48.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "BULBEDON",
+      "description": "Bulb front casing ON ",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 18285,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000062",
+      "filename": "BULBEDON_49.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "BULBPINS",
+      "description": "Bulb power source for teddy wi",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x203",
+      "filename": "BULBPINS.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "PITWALL1",
+      "description": "Pit wall back corner",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 25323,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001537",
+      "filename": "PITWALL1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "PITWALL2",
+      "description": "Pit wall little bit on step",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 1369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000080",
+      "filename": "PITWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "PITWALL3",
+      "description": "Pit wall side wall 1 ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 67846,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100039fb",
+      "filename": "PITWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "PITWALL4",
+      "description": "Pit wall side wall2 ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 53300,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002d67",
+      "filename": "PITWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "TURBASE",
+      "description": "Turbine base bottom",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 4870,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000387",
+      "filename": "TURBASE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "TURBASE2",
+      "description": "Turbine base top ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 4870,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000387",
+      "filename": "TURBASE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "TURBTEXT",
+      "description": "Turbine Bottom ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "TURBTEXT.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "TURBTEX2",
+      "description": "Turbine Top ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "TURBTEX2.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "CIRCUITS",
+      "description": "Side of the puzzle",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 1889,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000f3",
+      "filename": "CIRCUITS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "WIREBULB",
+      "description": "WIRE on the side of bulb",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 3696,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000283",
+      "filename": "WIREBULB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "WIREFLOR",
+      "description": "WIRE on the flor of pit",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "WIREFLOR_61.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "WIREPIT",
+      "description": "WIRE on the pitwall ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000517",
+      "filename": "WIREPIT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "WIREPIT2",
+      "description": "WIRE on the pitwall sliver",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 1369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000080",
+      "filename": "WIREPIT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "WIREWALL",
+      "description": "WIRE on the wall sliver",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 7117,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000579",
+      "filename": "WIREWALL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "WIREWAL2",
+      "description": "WIRE on the wall bigbit",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 49369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002a01",
+      "filename": "WIREWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "WIREWAL3",
+      "description": "WIRE on the wall below circuit",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 6497,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004ef",
+      "filename": "WIREWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "WIREPINS",
+      "description": "WIRE on the bulb pins",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x203",
+      "filename": "WIREPINS.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "WIRETOP",
+      "description": "WIRE on the top casing ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 1383,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x83",
+      "filename": "WIRETOP.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "WIRESIDE",
+      "description": "WIRE on the side of casing",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 836,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000000a",
+      "filename": "WIRESIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "PITWAL1B",
+      "description": "Edge bit of pitwall strip",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000517",
+      "filename": "PITWAL1B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "SUBCEIL2",
+      "description": "Sub ceiling 2",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "SUBCEIL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "BAKDOR",
+      "description": "Bak door to the cntrlbx!",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 3853,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002a6",
+      "filename": "BAKDOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "WIREFLOR",
+      "description": "Wire floor",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "WIREFLOR_73.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "WIREFLR",
+      "description": "Wire pit floor ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "WIREFLR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "SUBBULB",
+      "description": "Bulb OFF",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 2769,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001b6",
+      "filename": "SUBBULB.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "BOLT1",
+      "description": "Bolts of lightning",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 51577,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110001bf",
+      "filename": "BOLT1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "BOLT2",
+      "description": "Bolts of lightning 2",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 51577,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110001c0",
+      "filename": "BOLT2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "TEDDY",
+      "description": "Teddy hanging",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 11165,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x109008f9",
+      "filename": "TEDDY.gif",
+      "flags": [
+        "0x10",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "BOLTOFF",
+      "description": "Bolts of nothing",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000517",
+      "filename": "BOLTOFF_4102.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "BULBON",
+      "description": "Bulb ON",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 8749,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800077",
+      "filename": "BULBON.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "TEDDY2",
+      "description": "Teddy on floor ",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 5062,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108003b2",
+      "filename": "TEDDY2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "BOLT1A",
+      "description": "Bolts of lightning",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 51577,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110001bf",
+      "filename": "BOLT1A.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "BOLT2A",
+      "description": "Bolts of lightning 2",
+      "animated": true,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 51577,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110001c0",
+      "filename": "BOLT2A.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "BOLTOFF",
+      "description": "Bolts of nothing",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000517",
+      "filename": "BOLTOFF_4113.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "BOLTOFF",
+      "description": "Bolts of nothing",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000517",
+      "filename": "BOLTOFF_4114.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "BOLTOFF",
+      "description": "Bolts of nothing",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000517",
+      "filename": "BOLTOFF_4115.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "BIT1",
+      "description": "Plank1",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 1509,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000009f",
+      "filename": "BIT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "BIT2",
+      "description": "Plank1",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 1383,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000083",
+      "filename": "BIT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4118,
+      "name": "BIT3",
+      "description": "Plank1",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 1437,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000008f",
+      "filename": "BIT3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "WIRE",
+      "description": "Wire on floor",
+      "animated": false,
+      "origin": "TURBINE.DAS",
+      "offset": 1310720,
+      "size": 2478,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000176",
+      "filename": "WIRE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    }
+  ]
+}

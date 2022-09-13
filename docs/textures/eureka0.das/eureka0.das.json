@@ -1,0 +1,3880 @@
+{
+  "files": [
+    {
+      "index": 2,
+      "name": "SKY",
+      "description": "Skyline",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "LOUNGEE0",
+      "description": "East Sec Wall1",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 83206,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004743",
+      "filename": "LOUNGEE0.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "LOUNGEE1",
+      "description": "East Sec Wall2",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 50246,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002ac3",
+      "filename": "LOUNGEE1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "CARPET0",
+      "description": "Flat carpet",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "CARPET0.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "GASFIRE",
+      "description": "Gas fire lounge",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 18152,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000f03",
+      "filename": "GASFIRE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "LOUNGER1",
+      "description": "Pipe recess",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 11791,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000983",
+      "filename": "LOUNGER1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "CARPET1",
+      "description": "Scissors hole",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "CARPET1.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "GASFIRES",
+      "description": "Gas fire side",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2539,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000183",
+      "filename": "GASFIRES.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "GASFIREB",
+      "description": "Gas fire back",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2539,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000183",
+      "filename": "GASFIREB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "BEDSIDE",
+      "description": "Bed side!",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 12948,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000a83",
+      "filename": "BEDSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "LOUNGEW1",
+      "description": "Wall above the drawers",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 14782,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c19",
+      "filename": "LOUNGEW1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "LOUNGEN2",
+      "description": "North wall west",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 36512,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ee3",
+      "filename": "LOUNGEN2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "WINBLIND",
+      "description": "Blind Transparent",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 6370,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004d3",
+      "filename": "WINBLIND.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "WINBLINT",
+      "description": "Wall blind top",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 7165,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000583",
+      "filename": "WINBLINT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "WINDOW",
+      "description": "Lounge window",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 14918,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c37",
+      "filename": "WINDOW.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "WINDOWB",
+      "description": "bottom wall to window",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 10147,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000817",
+      "filename": "WINDOWB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "WINDOWS1",
+      "description": "Window wall side1",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3407,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000243",
+      "filename": "WINDOWS1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "WINDOWS2",
+      "description": "Window wall side2",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3407,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000243",
+      "filename": "WINDOWS2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "SPEAKER",
+      "description": "The stereo speaker",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 15116,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c63",
+      "filename": "SPEAKER.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "TELLY",
+      "description": "The telly!",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5955,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000477",
+      "filename": "TELLY.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "BOGFLUSH",
+      "description": "Toilet Flush",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 13770,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110000e3",
+      "filename": "BOGFLUSH.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "WINSILL",
+      "description": "Window sill",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "WINSILL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "DOOR0",
+      "description": "Main door to lounge",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 20321,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100010e3",
+      "filename": "DOOR0.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "DOORED1",
+      "description": "Door edge1",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "DOORED1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "DOORED2",
+      "description": "Door edge2",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "DOORED2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "CURTAIN1",
+      "description": "Curtain to pantry",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 15225,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c7b",
+      "filename": "CURTAIN1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "DOORTOP",
+      "description": "Wall at top of door",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 6009,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000483",
+      "filename": "DOORTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "CURTAIN2",
+      "description": "Curtain to pantry dark",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 15225,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c7b",
+      "filename": "CURTAIN2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "BOILER",
+      "description": "Burning Boiler",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 146561,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110002f6",
+      "filename": "BOILER.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "CEIL0",
+      "description": "Flat ceiling",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "CEIL0.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "VIDEO",
+      "description": "Video player",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3913,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002b3",
+      "filename": "VIDEO.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "TELLYS",
+      "description": "Telly side",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "TELLYS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "SPEAKERS",
+      "description": "Speaker side",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 8109,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000654",
+      "filename": "SPEAKERS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "TARTAN",
+      "description": "Sofa texture",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "TARTAN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "COOKER",
+      "description": "Cooker On",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 83837,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000278",
+      "filename": "COOKER.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "LOUNGS0",
+      "description": "Lounge south1",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 39259,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002143",
+      "filename": "LOUNGS0.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "LOUNGS1",
+      "description": "Lounge south2",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 6009,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000483",
+      "filename": "LOUNGS1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "LOUNGS2",
+      "description": "Lounge south3",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 14538,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000be3",
+      "filename": "LOUNGS2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "DARKCEIL",
+      "description": "Closet Ceiling",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "DARKCEIL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "LOUNGS4",
+      "description": "Lounge south5",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 72219,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003dc3",
+      "filename": "LOUNGS4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "BEDEND",
+      "description": "The end of the bed",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 7165,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000583",
+      "filename": "BEDEND.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "BEDSHEET",
+      "description": "Bed spread",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "BEDSHEET.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "BEDLEG0",
+      "description": "Dark bed leg",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1816,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000e3",
+      "filename": "BEDLEG0.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "BEDLEG1",
+      "description": "Light bed leg",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2069,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000011b",
+      "filename": "BEDLEG1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "BEDLEG2",
+      "description": "Inner bed leg",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1690,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000c7",
+      "filename": "BEDLEG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "BEDLEGT",
+      "description": "Bed leg top",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 949,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000023",
+      "filename": "BEDLEGT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "BEDLEGB",
+      "description": "Bed head board",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3226,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000021b",
+      "filename": "BEDLEGB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "BEDLEGB2",
+      "description": "Bed head doard top",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000ee",
+      "filename": "BEDLEGB2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "DRIP",
+      "description": "Dripping pipe",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 308745,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000291",
+      "filename": "DRIP.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "GASTOP",
+      "description": "Gastop",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1383,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000083",
+      "filename": "GASTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "DRAWFRNT",
+      "description": "inner drawer perspective",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 4852,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000383",
+      "filename": "DRAWFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "DRAWBOT",
+      "description": "Open bottom drawer",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000153",
+      "filename": "DRAWBOT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "DRAWEDGE",
+      "description": "Sock hanging",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1347,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000007b",
+      "filename": "DRAWEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "DRAWEDG2",
+      "description": "Inner sock drawer edge",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1301,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000071",
+      "filename": "DRAWEDG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "DRAWINR",
+      "description": "Back of the open drawer",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2214,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000013b",
+      "filename": "DRAWINR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "DRAWIND",
+      "description": "Other inner edge",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1278,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000006c",
+      "filename": "DRAWIND.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "DRAWSIDE",
+      "description": "Drawer side",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 4852,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000383",
+      "filename": "DRAWSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "STEAM",
+      "description": "Steam pipe",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 544905,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000718",
+      "filename": "STEAM.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "SPEAKERT",
+      "description": "Speaker wood",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "SPEAKERT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "HIFIS",
+      "description": "Hifi side panel",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 10793,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008a6",
+      "filename": "HIFIS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "HIFI",
+      "description": "Hifi animate",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 80889,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000143",
+      "filename": "HIFI.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "LINO",
+      "description": "Kitchen floor",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "LINO.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "FAN",
+      "description": "Fan animate",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 220651,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100057a",
+      "filename": "FAN.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "KITCEIL",
+      "description": "Kitchen ceiling ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "KITCEIL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "COOKSIDE",
+      "description": "Cooker side",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 21541,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100011f1",
+      "filename": "COOKSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "MICROFNT",
+      "description": "Front of microwave",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 9038,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000722",
+      "filename": "MICROFNT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "FRIDFRNT",
+      "description": "Front of fridge",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 38536,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020a3",
+      "filename": "FRIDFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "KITWALL1",
+      "description": "Kitwall northeast",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 11791,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000983",
+      "filename": "KITWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "KITWALL2",
+      "description": "Kitwall eastnorth",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 14538,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000be3",
+      "filename": "KITWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "KITWALL3",
+      "description": "Kitwall southeast",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 17285,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e43",
+      "filename": "KITWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "KITWALL4",
+      "description": "Kitwall south",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 74966,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004023",
+      "filename": "KITWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "KITWALL5",
+      "description": "Kitwall west",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 25525,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001563",
+      "filename": "KITWALL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "KITWALL6",
+      "description": "Kitwall northwest",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 39259,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002143",
+      "filename": "KITWALL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "KITWALLT",
+      "description": "Kitwall doortop",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 7147,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000057f",
+      "filename": "KITWALLT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "BOX1",
+      "description": "Bin box front",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2756,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001b3",
+      "filename": "BOX1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "BOX2",
+      "description": "Bin box side right",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2160,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000012f",
+      "filename": "BOX2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "BOX3",
+      "description": "Bin box side left",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1889,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000f3",
+      "filename": "BOX3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "BOGWALL1",
+      "description": "Anim fan on wall",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 648763,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110005b0",
+      "filename": "BOGWALL1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "PIPEY",
+      "description": "Pipe texture",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "PIPEY.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "KITCUP1",
+      "description": "Kitchen sink cupboard",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 42782,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000244f",
+      "filename": "KITCUP1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "COOKERSD",
+      "description": "Cooker side texture",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "COOKERSD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "KITCUP2",
+      "description": "Kitchen cupboard front",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 24269,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000144d",
+      "filename": "KITCUP2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "KITCUP2S",
+      "description": "Kitchen cupboard side",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 10987,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008d1",
+      "filename": "KITCUP2S.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "BOILERS",
+      "description": "Boiler side",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 7988,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000639",
+      "filename": "BOILERS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "KITCUP2L",
+      "description": "Boiler side light",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 10987,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008d1",
+      "filename": "KITCUP2L.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "KITWALT2",
+      "description": "Kitchen top bit",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5846,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000045f",
+      "filename": "KITWALT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "BOILBOT",
+      "description": "Boiler bottom!",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x203",
+      "filename": "BOILBOT.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "FRIDSIDE",
+      "description": "Side of fridge",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 11936,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100009a3",
+      "filename": "FRIDSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "MICROSD",
+      "description": "Microside",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2467,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000173",
+      "filename": "MICROSD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "CEILS1",
+      "description": "Ceiling side1",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1820,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000e4",
+      "filename": "CEILS1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "BOGFLOOR",
+      "description": "Toilet floor surface",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "BOGFLOOR.gif",
+      "flags": []
+    },
+    {
+      "index": 100,
+      "name": "BOGSIDE1",
+      "description": "Bog side 1 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000153",
+      "filename": "BOGSIDE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "BOGSIDE2",
+      "description": "Bog side 2 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000153",
+      "filename": "BOGSIDE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "BOGSIDE3",
+      "description": "Bog side 3 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000153",
+      "filename": "BOGSIDE3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "BOGSIDE4",
+      "description": "Bog side 4 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000153",
+      "filename": "BOGSIDE4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "BOGSIDE5",
+      "description": "Bog side 5 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000153",
+      "filename": "BOGSIDE5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "BOGCEIL",
+      "description": "Bog ceiling",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "BOGCEIL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "BOGWALL2",
+      "description": "Bog wall bath",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 51691,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c03",
+      "filename": "BOGWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "CYSTERN",
+      "description": "Armitage shanks!",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 4997,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003a3",
+      "filename": "CYSTERN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "BOGTEX",
+      "description": "Texture of the seat",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "BOGTEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "BOGINSID",
+      "description": "Textured deep pan",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1961,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000103",
+      "filename": "BOGINSID.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "BOGINSIE",
+      "description": "Textured deep pan2",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1961,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000103",
+      "filename": "BOGINSIE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "BOGWALL3",
+      "description": "Bog wall sink",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 51691,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c03",
+      "filename": "BOGWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "BATHSIDE",
+      "description": "Side of the bath",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 9984,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007f3",
+      "filename": "BATHSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "BATHSID1",
+      "description": "Bath edge 1",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000073",
+      "filename": "BATHSID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "BATHSID2",
+      "description": "Bath edge 2",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000073",
+      "filename": "BATHSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 115,
+      "name": "BATHBACK",
+      "description": "Back of the bath",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 4274,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000303",
+      "filename": "BATHBACK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 116,
+      "name": "BATHSID3",
+      "description": "Bath edge 3",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000073",
+      "filename": "BATHSID3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 117,
+      "name": "BATHTEX",
+      "description": "Bath texture",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "BATHTEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "CYSTERNT",
+      "description": "Under cyst texture",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "CYSTERNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 119,
+      "name": "CYSTERNS",
+      "description": "Cystern back side!",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2106,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000123",
+      "filename": "CYSTERNS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 120,
+      "name": "BOGWALL4",
+      "description": "Bog wall near door",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 23935,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001403",
+      "filename": "BOGWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 121,
+      "name": "BOGWALLT",
+      "description": "Bog wall above door",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2973,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001e3",
+      "filename": "BOGWALLT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 122,
+      "name": "BOGWALL5",
+      "description": "Bog wall right of door",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5431,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000403",
+      "filename": "BOGWALL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 123,
+      "name": "SINKFRNT",
+      "description": "Sink front",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 18152,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000f03",
+      "filename": "SINKFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 124,
+      "name": "SINKLIGT",
+      "description": "Sink side piece",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 14683,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c03",
+      "filename": "SINKLIGT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 125,
+      "name": "SINKDARK",
+      "description": "Sink shadow piece",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 14683,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c03",
+      "filename": "SINKDARK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 127,
+      "name": "BATH1",
+      "description": "Bath side light",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 7256,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000597",
+      "filename": "BATH1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 128,
+      "name": "BATH2",
+      "description": "Bath front taps",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3407,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000243",
+      "filename": "BATH2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 129,
+      "name": "BATH3",
+      "description": "Bath side dark",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 7256,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000597",
+      "filename": "BATH3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 130,
+      "name": "BATH4",
+      "description": "Bath side back",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3515,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000025b",
+      "filename": "BATH4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 131,
+      "name": "POISON",
+      "description": "Poison steam",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 484471,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100068c",
+      "filename": "POISON.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 132,
+      "name": "CYSTERND",
+      "description": "Cystern dark side",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2106,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000123",
+      "filename": "CYSTERND.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 133,
+      "name": "SINKB1",
+      "description": "Back of the bathroom sink",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1708,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000cb",
+      "filename": "SINKB1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 134,
+      "name": "SINKB2",
+      "description": "Sink edge bit1",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000033",
+      "filename": "SINKB2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 135,
+      "name": "SINKB3",
+      "description": "Sink edge bit2",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000033",
+      "filename": "SINKB3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 136,
+      "name": "SINKB4",
+      "description": "Sink edge bit3",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000073",
+      "filename": "SINKB4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 137,
+      "name": "SINKB5",
+      "description": "Sink edge bit4",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000073",
+      "filename": "SINKB5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 138,
+      "name": "WATER",
+      "description": "Bathroom sink water",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 75001,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100076d",
+      "filename": "WATER.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 139,
+      "name": "DOORFLOR",
+      "description": "Door joiner",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x203",
+      "filename": "DOORFLOR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 140,
+      "name": "FRIDBACK",
+      "description": "inside o fridge",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 38536,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020a3",
+      "filename": "FRIDBACK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 143,
+      "name": "DARKC1",
+      "description": "Closet 1",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 4093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002db",
+      "filename": "DARKC1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 144,
+      "name": "DARKC2",
+      "description": "Closet 2",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 28633,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001813",
+      "filename": "DARKC2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 145,
+      "name": "DARKC3",
+      "description": "Closet 3",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 16616,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000daf",
+      "filename": "DARKC3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 147,
+      "name": "DARKC5",
+      "description": "Closet 5",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 18830,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000f99",
+      "filename": "DARKC5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 148,
+      "name": "DARKFLR",
+      "description": "Closet floor",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "DARKFLR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 149,
+      "name": "RATWASH",
+      "description": "Washing rat",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 122913,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000303",
+      "filename": "RATWASH.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 151,
+      "name": "DOORED3",
+      "description": "Door edge3",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "DOORED3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 152,
+      "name": "DOORED4",
+      "description": "Dooredge4 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "DOORED4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 153,
+      "name": "DOORTPL",
+      "description": "Door top texture",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "DOORTPL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 154,
+      "name": "DOORED5",
+      "description": "Dooredge5 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5105,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003bb",
+      "filename": "DOORED5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 155,
+      "name": "DOORED6",
+      "description": "Dooredge6 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5105,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003bb",
+      "filename": "DOORED6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 156,
+      "name": "KITWALL7",
+      "description": "Kit wall7",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 9045,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000723",
+      "filename": "KITWALL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 157,
+      "name": "KITWALL8",
+      "description": "Kit wall8",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5738,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000447",
+      "filename": "KITWALL8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 158,
+      "name": "KITEDG1",
+      "description": "Kit edge1",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 4925,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000393",
+      "filename": "KITEDG1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 159,
+      "name": "KITEDG2",
+      "description": "Kit edge2",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 4925,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000393",
+      "filename": "KITEDG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 160,
+      "name": "DARKS41",
+      "description": "Dark wall bit1",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 24838,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100014cb",
+      "filename": "DARKS41.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 161,
+      "name": "DARKS42",
+      "description": "Dark wall bit2 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 8756,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006e3",
+      "filename": "DARKS42.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 162,
+      "name": "DARKS43",
+      "description": "Dark wall bit3 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 7744,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000603",
+      "filename": "DARKS43.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 163,
+      "name": "DARKS44",
+      "description": "Dark wall bit4 ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2069,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000011b",
+      "filename": "DARKS44.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 165,
+      "name": "CLOSETFX",
+      "description": "Side bitz to the closet ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2837,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001c5",
+      "filename": "CLOSETFX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 166,
+      "name": "CLOSETFP",
+      "description": "Back bitz ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 7310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005a3",
+      "filename": "CLOSETFP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 167,
+      "name": "CRATEF",
+      "description": "Crate front",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3045,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001f3",
+      "filename": "CRATEF.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 168,
+      "name": "CRATES",
+      "description": "Crate side",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2322,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000153",
+      "filename": "CRATES.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 169,
+      "name": "TELETEXT",
+      "description": "TV with teletext ",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 6700312,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11001abf",
+      "filename": "TELETEXT.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 170,
+      "name": "WINDOWOP",
+      "description": "Window open",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 15116,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c63",
+      "filename": "WINDOWOP.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 171,
+      "name": "BUILDING",
+      "description": "Building",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BUILDING.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 172,
+      "name": "BUILDIN2",
+      "description": "Building ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BUILDIN2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 173,
+      "name": "BRICK",
+      "description": "Brick",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "BRICK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 174,
+      "name": "DOOR1",
+      "description": "Door with sign on",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 20321,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100010e3",
+      "filename": "DOOR1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 176,
+      "name": "HIFIOFF",
+      "description": "Hifi turned off",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 10793,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008a6",
+      "filename": "HIFIOFF.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 177,
+      "name": "RATWASH2",
+      "description": "Washer broken with rat",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3823781,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110009b5",
+      "filename": "RATWASH2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 178,
+      "name": "RATGONE",
+      "description": "Washer broken, no rat",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 82122,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004653",
+      "filename": "RATGONE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 179,
+      "name": "BOGWAL3A",
+      "description": "Bathroom no towel",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 51691,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c03",
+      "filename": "BOGWAL3A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 180,
+      "name": "SNAPSHOT",
+      "description": "Landing snapshop",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "SNAPSHOT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 181,
+      "name": "SPEAKER2",
+      "description": "Knackered speaker",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 15116,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c63",
+      "filename": "SPEAKER2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 182,
+      "name": "BOX4",
+      "description": "Inside the box",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2756,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001b3",
+      "filename": "BOX4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 183,
+      "name": "BOX5",
+      "description": "Inside the box ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2160,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000012f",
+      "filename": "BOX5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 184,
+      "name": "BUILDIN3",
+      "description": "Fluffys",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BUILDIN3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 185,
+      "name": "BILBORD",
+      "description": "Bilboard ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BILBORD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 186,
+      "name": "ICEBACK",
+      "description": "insidebackwall",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 32030,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001b03",
+      "filename": "ICEBACK.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 187,
+      "name": "ICERGHT1",
+      "description": "inner rightwall",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 24224,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001443",
+      "filename": "ICERGHT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 188,
+      "name": "ICERGHT2",
+      "description": "outer rightwall",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 12189,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100009db",
+      "filename": "ICERGHT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 189,
+      "name": "ICELEFT1",
+      "description": "inner leftwall",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 24224,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001443",
+      "filename": "ICELEFT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 190,
+      "name": "ICELEFT2",
+      "description": "outer leftwall",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 12189,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100009db",
+      "filename": "ICELEFT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 191,
+      "name": "ICEBOX",
+      "description": "freezer compmnt",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 7310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005a3",
+      "filename": "ICEBOX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 192,
+      "name": "SALADFNT",
+      "description": "slad tray front",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5575,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000423",
+      "filename": "SALADFNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 193,
+      "name": "ICEFLOOR",
+      "description": "frijfloor",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "ICEFLOOR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 194,
+      "name": "ICECEILN",
+      "description": "frijceiling",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "ICECEILN.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 195,
+      "name": "THINICE",
+      "description": "door sidebits",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2377,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000015f",
+      "filename": "THINICE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 196,
+      "name": "ICEFOOT",
+      "description": "bottom bit",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2106,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000123",
+      "filename": "ICEFOOT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 199,
+      "name": "SKYBLUE",
+      "description": "Blue Skyline",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKYBLUE.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "LBULB",
+      "description": "Lounge bulb ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 4093,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108002db",
+      "filename": "LBULB.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "SOFA",
+      "description": "Sofa",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 14425,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x800007b1",
+      "filename": "SOFA.gif",
+      "flags": [
+        "0x8000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "BATHSMEL",
+      "description": "Bath smeelly",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 478125,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800990",
+      "filename": "BATHSMEL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "PILLOW",
+      "description": "Pillow!",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 9526,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080078e",
+      "filename": "PILLOW.gif",
+      "flags": [
+        "0x4",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "CLOTH0",
+      "description": "Item in drawer",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1109,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000047",
+      "filename": "CLOTH0.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "CLOTH1",
+      "description": "Item in drawer2",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1152,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000050",
+      "filename": "CLOTH1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "CLOTH2",
+      "description": "Item in drawer3",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1094,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000043",
+      "filename": "CLOTH2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "TAPDRIP",
+      "description": "Dripping tap in kitchen",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3495,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800017",
+      "filename": "TAPDRIP.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "KETTLE",
+      "description": "Kettle (non anim)",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 15957,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800d1d",
+      "filename": "KETTLE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "TAPS",
+      "description": "Taps!",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1211,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080005d",
+      "filename": "TAPS.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "POTS",
+      "description": "Dirty pots in sink",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 4755,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080036e",
+      "filename": "POTS.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4110,
+      "name": "BOGSCRUB",
+      "description": "Toilet scrubber",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1855,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100000ec",
+      "filename": "BOGSCRUB.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "BOGROLL",
+      "description": "Toilet roll",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1708,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100000cb",
+      "filename": "BOGROLL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4112,
+      "name": "BULBD",
+      "description": "closet bulb",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5091,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108003b8",
+      "filename": "BULBD.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "BOGPIPE",
+      "description": "Toilet U-bend",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2015,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000010f",
+      "filename": "BOGPIPE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "BATHTAP",
+      "description": "Bath taps",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1233,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800062",
+      "filename": "BATHTAP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "POON",
+      "description": "Sharpoon",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 9209,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800748",
+      "filename": "POON.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4118,
+      "name": "BULB",
+      "description": "Bathroom bulb",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3799,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080029a",
+      "filename": "BULB.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "LAVALAMP",
+      "description": "Lavalamp anim",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 14217,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11000096",
+      "filename": "LAVALAMP.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "SCISSORS",
+      "description": "Scissors!",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3985,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108002c3",
+      "filename": "SCISSORS.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "REMOTE",
+      "description": "Remote control",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2164,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800130",
+      "filename": "REMOTE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4122,
+      "name": "NODBIRD2",
+      "description": "Nodding bird animated",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 43311,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800181",
+      "filename": "NODBIRD2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "FLYER",
+      "description": "Flyer on mat",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2471,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800174",
+      "filename": "FLYER.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "MUG",
+      "description": "Mug in kitchen",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 5744,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800449",
+      "filename": "MUG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4125,
+      "name": "BLUEP",
+      "description": "Paint bucket",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3492,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800256",
+      "filename": "BLUEP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "WHITEP",
+      "description": "Paint White tin",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 4045,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108002d1",
+      "filename": "WHITEP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "RATBOX",
+      "description": "Rat box",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3853,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108002a6",
+      "filename": "RATBOX.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "WASHING",
+      "description": "Washing dirty",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 7540,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108005d6",
+      "filename": "WASHING.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "COFMUG",
+      "description": "Coffee cup steaming away",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 45459,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800106",
+      "filename": "COFMUG.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "NODREMOT",
+      "description": "nod bird with remote",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 78120,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118001ef",
+      "filename": "NODREMOT.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4133,
+      "name": "KETSTEAM",
+      "description": "steaming kettle",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 152551,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180035d",
+      "filename": "KETSTEAM.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4134,
+      "name": "COFMUG1",
+      "description": "Coffee cup steaming away",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 45459,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800106",
+      "filename": "COFMUG1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4136,
+      "name": "GIZMO",
+      "description": "Odd gizmo",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 67521,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800207",
+      "filename": "GIZMO.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4137,
+      "name": "GIZRAY",
+      "description": "Gizmo rays",
+      "animated": true,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 121610,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180028b",
+      "filename": "GIZRAY.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4138,
+      "name": "FATSHIRT",
+      "description": "Fatty Tee shirt",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2991,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001e7",
+      "filename": "FATSHIRT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4139,
+      "name": "MONEY",
+      "description": "Dosh",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2977,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001e4",
+      "filename": "MONEY.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4140,
+      "name": "TOILNOB",
+      "description": "Toilet nob top",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1127,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080004b",
+      "filename": "TOILNOB.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4141,
+      "name": "RUBBISH",
+      "description": "Rubbish",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 6912,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080054b",
+      "filename": "RUBBISH.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4142,
+      "name": "SOFA-BRK",
+      "description": ": broke Sofa",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 30485,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x104039b0",
+      "filename": "SOFA-BRK.gif",
+      "flags": [
+        "0x40",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4143,
+      "name": "SOFABRK2",
+      "description": ": broke sofa L-h/s",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 27558,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10403540",
+      "filename": "SOFABRK2.gif",
+      "flags": [
+        "0x40",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4144,
+      "name": "APLECORE",
+      "description": "apple core",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1347,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080007b",
+      "filename": "APLECORE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4145,
+      "name": "BREKKY",
+      "description": "egg n'bacon ",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 3329,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800232",
+      "filename": "BREKKY.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4146,
+      "name": "MILK",
+      "description": "rancid cow juice",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2521,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080017f",
+      "filename": "MILK.gif",
+      "flags": [
+        "0x80",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4147,
+      "name": "PIZZA",
+      "description": "pizza slice",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1855,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000ec",
+      "filename": "PIZZA.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4148,
+      "name": "MARGE",
+      "description": "margarine",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 2941,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001dc",
+      "filename": "MARGE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4149,
+      "name": "BPIPE",
+      "description": "3D PIPE!!!",
+      "animated": false,
+      "origin": "EUREKA0.DAS",
+      "offset": 1835008,
+      "size": 1320,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x80000751",
+      "filename": "BPIPE.gif",
+      "flags": [
+        "0x8000"
+      ]
+    }
+  ]
+}

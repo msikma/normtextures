@@ -1,0 +1,871 @@
+{
+  "files": [
+    {
+      "index": 2,
+      "name": "SKYBLUE",
+      "description": "Skyline",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKYBLUE.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "CONCRETE",
+      "description": "Floor texture",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCRETE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "GRAVEL",
+      "description": "Gravel texture",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "GRAVEL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "BRICK",
+      "description": "Repeated brick wall",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "BRICK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "GRAVSAND",
+      "description": "Sand meets gravel",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "GRAVSAND.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "BAKRGHT2",
+      "description": "Fac back right 2 ",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 26103,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100015e3",
+      "filename": "BAKRGHT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "BAKRGHT3",
+      "description": "Fac back right 3",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 109228,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005dc3",
+      "filename": "BAKRGHT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "FURNFRNT",
+      "description": "Front of furnace",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 102000,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005783",
+      "filename": "FURNFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 119,
+      "name": "FURNSIDE",
+      "description": "Side of furnace",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 76701,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100041a3",
+      "filename": "FURNSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 120,
+      "name": "SPOUT1",
+      "description": "spout 1",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 9614,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007a1",
+      "filename": "SPOUT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 122,
+      "name": "SPOUT3",
+      "description": "spout 3",
+      "animated": false,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 5684,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000043b",
+      "filename": "SPOUT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "HEATHER2",
+      "description": "Heather",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118007b6",
+      "filename": "HEATHER2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "HEATHER3",
+      "description": "Heather",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800be7",
+      "filename": "HEATHER3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "HEATHER4",
+      "description": "Heather",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800883",
+      "filename": "HEATHER4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "HEATHER5",
+      "description": "Heather",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118005f5",
+      "filename": "HEATHER5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "HEATHER6",
+      "description": "Heather",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b1f",
+      "filename": "HEATHER6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "HEATHER7",
+      "description": "Heather",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b55",
+      "filename": "HEATHER7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "HEATHER8",
+      "description": "Heather",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b80",
+      "filename": "HEATHER8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "FIRE",
+      "description": "Furnace fire",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 2568928,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11005471",
+      "filename": "FIRE.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "FIRE2",
+      "description": "Chimney fire",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 425261,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180135e",
+      "filename": "FIRE2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "BRI2",
+      "description": "Brian",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006be",
+      "filename": "BRI2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "BRI3",
+      "description": "Brian",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800698",
+      "filename": "BRI3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "BRI4",
+      "description": "Brian",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800753",
+      "filename": "BRI4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4118,
+      "name": "BRI5",
+      "description": "Brian",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800406",
+      "filename": "BRI5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "BRI6",
+      "description": "Brian",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180075f",
+      "filename": "BRI6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "BRI7",
+      "description": "Brian",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800894",
+      "filename": "BRI7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "BRI8",
+      "description": "Brian",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800765",
+      "filename": "BRI8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4122,
+      "name": "BRI9",
+      "description": "Brian",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800603",
+      "filename": "BRI9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "SAUL2",
+      "description": "Saul",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 389255,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180059c",
+      "filename": "SAUL2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "SAUL3",
+      "description": "Saul",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800630",
+      "filename": "SAUL3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4125,
+      "name": "SAUL4",
+      "description": "Saul",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800544",
+      "filename": "SAUL4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "SAUL5",
+      "description": "Saul",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 247999,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118003e4",
+      "filename": "SAUL5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4127,
+      "name": "SAUL6",
+      "description": "Saul",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180054f",
+      "filename": "SAUL6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "SAUL7",
+      "description": "Saul",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006ac",
+      "filename": "SAUL7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "SAUL8",
+      "description": "Saul",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180085a",
+      "filename": "SAUL8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "D-CYC-02",
+      "description": "Dai",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b47",
+      "filename": "D-CYC-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4131,
+      "name": "D-CYC-03",
+      "description": "Dai",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800f65",
+      "filename": "D-CYC-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "D-CYC-04",
+      "description": "Dai",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118013ae",
+      "filename": "D-CYC-04.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4133,
+      "name": "D-STILL",
+      "description": "Dai",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 772297,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118008d8",
+      "filename": "D-STILL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4134,
+      "name": "D-CON-01",
+      "description": "Dai",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801163",
+      "filename": "D-CON-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4135,
+      "name": "D-CON-02",
+      "description": "Dai",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800f18",
+      "filename": "D-CON-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4136,
+      "name": "D-CON-03",
+      "description": "Dai",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180116f",
+      "filename": "D-CON-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4137,
+      "name": "D-LIST",
+      "description": "Dai",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800947",
+      "filename": "D-LIST.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4143,
+      "name": "HEATHER1",
+      "description": "Heather",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 647865,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180078f",
+      "filename": "HEATHER1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4144,
+      "name": "BRI1",
+      "description": "Brian",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 445173,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800722",
+      "filename": "BRI1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4146,
+      "name": "SAUL1",
+      "description": "Saul",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 424569,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180058d",
+      "filename": "SAUL1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4147,
+      "name": "D-CYC-01",
+      "description": "Dai",
+      "animated": true,
+      "origin": "MISSILE.DAS",
+      "offset": 1835008,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b98",
+      "filename": "D-CYC-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "SKY",
+      "description": "Sky",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "TESTCEIL",
+      "description": "Duct floor",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "TESTCEIL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "STEPTOP",
+      "description": "64x64 step top texture",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "STEPTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "UNDALINT",
+      "description": "32x32 under lintel texture",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "UNDALINT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "BOGWALL1",
+      "description": "Shitter 1, wall 1",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 58676,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000320d",
+      "filename": "BOGWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "BOGWALL2",
+      "description": "Shitter 1, wall 2",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 59308,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003299",
+      "filename": "BOGWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "BOGWALL3",
+      "description": "Shitter 1, wall 3",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 8710,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006d9",
+      "filename": "BOGWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "BOGWALL4",
+      "description": "Shitter 1, wall 4",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "BOGWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "BOGWALL5",
+      "description": "Shitter 1, wall 5",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 10292,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000837",
+      "filename": "BOGWALL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "BOGWALL6",
+      "description": "Shitter 1, wall 6",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 5864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000463",
+      "filename": "BOGWALL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "BOGWALL7",
+      "description": "Shitter 1, wall 7",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 2860,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001ca",
+      "filename": "BOGWALL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "BOGWALL8",
+      "description": "Shitter 1, wall 8",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 4283,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000305",
+      "filename": "BOGWALL8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "BOGCEIL",
+      "description": "Shitter ceiling",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "BOGCEIL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "OFISWALL",
+      "description": "Tester office wall 1",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 65000,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003785",
+      "filename": "OFISWALL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "OFISWAL3",
+      "description": "Tester office wall 3",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 79231,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100043d3",
+      "filename": "OFISWAL3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "OFISWAL5",
+      "description": "Tester office wall 5",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 14719,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c0b",
+      "filename": "OFISWAL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "OFISWAL8",
+      "description": "Tester office wall 8",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 4269,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000302",
+      "filename": "OFISWAL8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "OFDORTOP",
+      "description": "Above door frame",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 3329,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000232",
+      "filename": "OFDORTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 121,
+      "name": "BOGBIT1",
+      "description": "Skylight perimeter texture",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 8123,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000657",
+      "filename": "BOGBIT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 122,
+      "name": "BOGBIT2",
+      "description": "Skylight perimeter texture",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 7581,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005df",
+      "filename": "BOGBIT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 156,
+      "name": "SCALE1",
+      "description": "Scales front",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 1844,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000e9",
+      "filename": "SCALE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 157,
+      "name": "SCALE2",
+      "description": "Scales side",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 1866,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000ee",
+      "filename": "SCALE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 158,
+      "name": "SCALE3",
+      "description": "Scales long side ",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 11647,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000963",
+      "filename": "SCALE3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 159,
+      "name": "SCALE4",
+      "description": "Scales top side ",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 1820,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000e4",
+      "filename": "SCALE4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 160,
+      "name": "FAT_PIG5",
+      "description": "Weighing scales front",
+      "animated": true,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 608421,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11800a96",
+      "filename": "FAT_PIG5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 161,
+      "name": "SCALETOP",
+      "description": "Scales foot plate",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "SCALETOP.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 162,
+      "name": "FATGAUG2",
+      "description": "Gauge for fattys",
+      "animated": true,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 868641,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100075a",
+      "filename": "FATGAUG2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 170,
+      "name": "BIGBOARD",
+      "description": "BIG Notice board!!",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 71822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003d6b",
+      "filename": "BIGBOARD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 252,
+      "name": "OFIS1",
+      "description": "Side bit in office",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 13454,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000af3",
+      "filename": "OFIS1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 253,
+      "name": "OFIS2",
+      "description": "Side bit in office ",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 6426,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004e0",
+      "filename": "OFIS2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 254,
+      "name": "OFSWAL7B",
+      "description": "wall in office",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 56462,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003023",
+      "filename": "OFSWAL7B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 255,
+      "name": "OFIS3",
+      "description": "Side bit in office ",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 18854,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000f9f",
+      "filename": "OFIS3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 256,
+      "name": "OFIS4",
+      "description": "Side bit in office ",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 11873,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000995",
+      "filename": "OFIS4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 278,
+      "name": "BOGSIDE",
+      "description": "Toilet outer",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 11195,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008ff",
+      "filename": "BOGSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 279,
+      "name": "BOGBIT3",
+      "description": "Bogbit1",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 7445,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005c1",
+      "filename": "BOGBIT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 280,
+      "name": "BOGBIT4",
+      "description": "Bogbit2 ",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 7581,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005df",
+      "filename": "BOGBIT4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 310,
+      "name": "DUCTEXT1",
+      "description": "Duct Wall texture",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "DUCTEXT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 311,
+      "name": "CHIKWIRE",
+      "description": "Duct blockages",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 15261,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c83",
+      "filename": "CHIKWIRE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 312,
+      "name": "BOGTEX1",
+      "description": "Texture dark",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "BOGTEX1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 313,
+      "name": "BOGTEX2",
+      "description": "Texture light ",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "BOGTEX2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 314,
+      "name": "HATCH",
+      "description": "Hatch hang",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 5078,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003b5",
+      "filename": "HATCH.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "BOGBRUSH",
+      "description": "Bog brush",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 4599,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080034b",
+      "filename": "BOGBRUSH.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "FLIES",
+      "description": "Flies",
+      "animated": true,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 166671,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000e4",
+      "filename": "FLIES.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4155,
+      "name": "CASE",
+      "description": "Glass case from duct",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 20677,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801132",
+      "filename": "CASE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4157,
+      "name": "BELT3",
+      "description": "Belt in duct",
+      "animated": false,
+      "origin": "DUCT.DAS",
+      "offset": 262144,
+      "size": 5265,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108003df",
+      "filename": "BELT3.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    }
+  ]
+}

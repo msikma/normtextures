@@ -1,0 +1,1572 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "ENTCEIL",
+      "description": "Ent ceiling",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "ENTCEIL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "SKY",
+      "description": "Skyline ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "ENTWALL1",
+      "description": "Entrance1",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 35229,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001dc7",
+      "filename": "ENTWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "ENTWALL2",
+      "description": "Entrance2",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 35229,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001dc7",
+      "filename": "ENTWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "ENTWALL3",
+      "description": "Entrance3",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 4635,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000353",
+      "filename": "ENTWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "ENTDOR1",
+      "description": "Entrance door",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 29537,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100018db",
+      "filename": "ENTDOR1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "LOBFLOOR",
+      "description": "Lobby floor",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "LOBFLOOR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "ENTDOR2",
+      "description": "Entrance door ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 29537,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100018db",
+      "filename": "ENTDOR2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "PILLAR1",
+      "description": "Pillar 1",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 22489,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100012c3",
+      "filename": "PILLAR1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "PILLAR2",
+      "description": "Pillar 2 ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 16165,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000d4b",
+      "filename": "PILLAR2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "PILLAR3",
+      "description": "Pillar 3 ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 16165,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000d4b",
+      "filename": "PILLAR3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "LOBWALL1",
+      "description": "Lobby wall 1",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 74442,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003faf",
+      "filename": "LOBWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "LOBWALL2",
+      "description": "Lobby wall 2 ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 54438,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002e63",
+      "filename": "LOBWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "LOBWALL3",
+      "description": "Lobby wall 3 ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 74442,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003faf",
+      "filename": "LOBWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "HEATSEEK",
+      "description": "Heat seeker",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 186301,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110004da",
+      "filename": "HEATSEEK.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "HEATWAL1",
+      "description": "Heatwall1",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 9417,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000776",
+      "filename": "HEATWAL1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "HEATWAL2",
+      "description": "Heatwall2 ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 11285,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000913",
+      "filename": "HEATWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "LOBCEIL",
+      "description": "Lobby ceiling",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "LOBCEIL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "LOBWALL4",
+      "description": "Lobby wall 4",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 87092,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004a9f",
+      "filename": "LOBWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "LOBWALL5",
+      "description": "Lobby wall 5 ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 87092,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004a9f",
+      "filename": "LOBWALL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "LOBWALL6",
+      "description": "Lobby above lift",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 327933,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100021e",
+      "filename": "LOBWALL6.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "LIFT",
+      "description": "Lift doors",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 115300,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10806303",
+      "filename": "LIFT.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "LIFTEDGE",
+      "description": "Edge at lift",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 2539,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000183",
+      "filename": "LIFTEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "LOBWALL7",
+      "description": "Lobby wall 7 ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 69021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003aff",
+      "filename": "LOBWALL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "LOBWALL8",
+      "description": "Lobby wall 8 ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 69021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003aff",
+      "filename": "LOBWALL8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "LOBWALL9",
+      "description": "Lobby wall 9 ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 83477,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000477f",
+      "filename": "LOBWALL9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "LOBWALLA",
+      "description": "Lobby wall a ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 83477,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000477f",
+      "filename": "LOBWALLA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "LOBWALLB",
+      "description": "Lobby wall b ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 83477,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000477f",
+      "filename": "LOBWALLB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "LOBWALLC",
+      "description": "Lobby wall c ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 83477,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000477f",
+      "filename": "LOBWALLC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "BULLTPRF",
+      "description": "Bullet-proof glass",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 42349,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100023ef",
+      "filename": "BULLTPRF.gif",
+      "flags": [
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "LOBWAL61",
+      "description": "Lift wall odd",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 327933,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000222",
+      "filename": "LOBWAL61.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "LOBWALLD",
+      "description": "Lobby wall d ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 67666,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100039d3",
+      "filename": "LOBWALLD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "LOBWALLE",
+      "description": "Lobby wall e ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 67666,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100039d3",
+      "filename": "LOBWALLE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "LOBWALLF",
+      "description": "Lobby wall f ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 67666,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100039d3",
+      "filename": "LOBWALLF.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "LOBWALLG",
+      "description": "Lobby wall g ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 67666,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100039d3",
+      "filename": "LOBWALLG.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "MESSAGE",
+      "description": "Message board",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 35229,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001dc7",
+      "filename": "MESSAGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "MESSAGE2",
+      "description": "Message board side ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 4464,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000032d",
+      "filename": "MESSAGE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "MESSAGE3",
+      "description": "Message board back ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 30079,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001953",
+      "filename": "MESSAGE3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "LOBWALLH",
+      "description": "reception wall g ",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 510996,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100087f",
+      "filename": "LOBWALLH.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "LOBWALLI",
+      "description": "Lobby wall i ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 19688,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001057",
+      "filename": "LOBWALLI.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "WALLEDGE",
+      "description": "Wall reception",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 4581,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000347",
+      "filename": "WALLEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "STONETEX",
+      "description": "Stoney texture",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "STONETEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "MESSAGEA",
+      "description": "Message on board",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 35229,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001dc7",
+      "filename": "MESSAGEA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "MESSAGEB",
+      "description": "2nd Message on board",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 35229,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001dc7",
+      "filename": "MESSAGEB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "RECEPWL1",
+      "description": "Reception wall side",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "RECEPWL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "RECEPWL2",
+      "description": "Reception wall back",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 61233,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003443",
+      "filename": "RECEPWL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "FOUNT1",
+      "description": "Fountain big side1",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 5955,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000477",
+      "filename": "FOUNT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "FOUNT2",
+      "description": "Fountain OOO sign",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 21405,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100011d3",
+      "filename": "FOUNT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "FOUNT3",
+      "description": "Fountain big side",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 5864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000463",
+      "filename": "FOUNT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "FOUNT4",
+      "description": "Fountain mid side",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 1289,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000006f",
+      "filename": "FOUNT4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "FOUNT5",
+      "description": "Fountain mid side",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 1278,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000006c",
+      "filename": "FOUNT5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "FOUNT6",
+      "description": "Fountain small side ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 1132,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000004c",
+      "filename": "FOUNT6.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "FOUNT7",
+      "description": "Fountain small side",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 1121,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000049",
+      "filename": "FOUNT7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "FOUNTIN",
+      "description": "Fountain inner",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 4690,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000035f",
+      "filename": "FOUNTIN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "WATER",
+      "description": "Dirty water",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "WATER.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "LOBFLOR2",
+      "description": "Lobby floor touchplate",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "LOBFLOR2.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "SIDSPLSH",
+      "description": "Splash!!!!!!!!!",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 140805,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100048f",
+      "filename": "SIDSPLSH.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "FOUNTOP",
+      "description": "Splishy top",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 222987,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110019bc",
+      "filename": "FOUNTOP.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "LIFTEVEN",
+      "description": "even buttons",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 63256,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003603",
+      "filename": "LIFTEVEN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "LIFTODDY",
+      "description": "odd buttons ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 63256,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003603",
+      "filename": "LIFTODDY.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "LIFTBLNK",
+      "description": "blank wall",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 66726,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003903",
+      "filename": "LIFTBLNK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "LIFTFONE",
+      "description": "phone wall ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 63256,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003603",
+      "filename": "LIFTFONE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "LFTCARPT",
+      "description": "liftcarpet",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "LFTCARPT.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "LIFTCEIL",
+      "description": "liftceiling ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "LIFTCEIL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "LFTCARP2",
+      "description": "liftcarpet-x",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "LFTCARP2.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "LFTCEIL2",
+      "description": "liftceiling-x ",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "LFTCEIL2.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "L_EDGE2",
+      "description": "lift goldedge",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 7744,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000603",
+      "filename": "L_EDGE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "LIFTZERO",
+      "description": "lift florindicatr",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 18956,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000fb5",
+      "filename": "LIFTZERO.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "LIFTMTOP",
+      "description": "mid/top",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 10590,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000879",
+      "filename": "LIFTMTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "LIFTMBOT",
+      "description": "mid/bot",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 18830,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000f99",
+      "filename": "LIFTMBOT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "LIFTLEFT",
+      "description": "left of",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 16417,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000d83",
+      "filename": "LIFTLEFT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "LIFTRGHT",
+      "description": "right of",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 18152,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000f03",
+      "filename": "LIFTRGHT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "LIFTPROC",
+      "description": "floorsign/process ",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 189657,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110002ef",
+      "filename": "LIFTPROC.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "LIFTLABS",
+      "description": "floorsign/labs",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 189657,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110002ac",
+      "filename": "LIFTLABS.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "LIFTLOBB",
+      "description": "floorsign/lobby",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 189657,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110002b5",
+      "filename": "LIFTLOBB.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "LIFTSIGN",
+      "description": "floorsign/static",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 6497,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004ef",
+      "filename": "LIFTSIGN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "FOUNTMID",
+      "description": "Stem of fountain",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 3888,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108002ae",
+      "filename": "FOUNTMID.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "LIGHT",
+      "description": "Light in lobby",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 12596,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10900a35",
+      "filename": "LIGHT.gif",
+      "flags": [
+        "0x10",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "MICFONE",
+      "description": "Reception microphone",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 4732,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800369",
+      "filename": "MICFONE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "PLANT",
+      "description": "Strange spike plant",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 29483,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108018cf",
+      "filename": "PLANT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "FOUNTNOB",
+      "description": "Fountain knobule",
+      "animated": false,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 1726,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000cf",
+      "filename": "FOUNTNOB.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "N1-GC-01",
+      "description": "Norm receptionist",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 767481,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800871",
+      "filename": "N1-GC-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "N1-GC-02",
+      "description": "Norm receptionist",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 703591,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800866",
+      "filename": "N1-GC-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "FOUNTAIN",
+      "description": "Fountain spring",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 56559,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180033d",
+      "filename": "FOUNTAIN.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "N1-GC-03",
+      "description": "Norm receptionist",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 767481,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118012f9",
+      "filename": "N1-GC-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "N1-GC-04",
+      "description": "Norm receptionist",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 639701,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118007f4",
+      "filename": "N1-GC-04.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "N1-STILL",
+      "description": "Norm receptionist",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 64672,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006ed",
+      "filename": "N1-STILL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "N1-CN-01",
+      "description": "Norm receptionist",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 767481,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180087e",
+      "filename": "N1-CN-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4109,
+      "name": "N1-CN-02",
+      "description": "Norm receptionist",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 767481,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180085f",
+      "filename": "N1-CN-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4110,
+      "name": "N1-CN-03",
+      "description": "Norm receptionist",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 767481,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118009c8",
+      "filename": "N1-CN-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "N1-LISTN",
+      "description": "Norm receptionist",
+      "animated": true,
+      "origin": "OUTPOST.DAS",
+      "offset": 1572864,
+      "size": 65113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006f9",
+      "filename": "N1-LISTN.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    }
+  ]
+}

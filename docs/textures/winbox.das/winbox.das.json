@@ -1,0 +1,1151 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "BRICK",
+      "description": "Old brick effect",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "BRICK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "SKY",
+      "description": "Skyline",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "TENTFRNT",
+      "description": "The window cleaners tent",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 30404,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000199b",
+      "filename": "TENTFRNT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "BACKWAL1",
+      "description": "Back wall1",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 64124,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100036c3",
+      "filename": "BACKWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "BACKWAL2",
+      "description": "Back wall2 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 64413,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003703",
+      "filename": "BACKWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "BACKWAL3",
+      "description": "Back wall3 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 3786,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000297",
+      "filename": "BACKWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "BACKWAL4",
+      "description": "Back wall4 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 9749,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007bf",
+      "filename": "BACKWAL4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "BACKWAL5",
+      "description": "Back wall5 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 63835,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003683",
+      "filename": "BACKWAL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "WALLEDGE",
+      "description": "Wall edge",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 3109,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000201",
+      "filename": "WALLEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "DUMMYWAL",
+      "description": "Dummy wall",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 63835,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003683",
+      "filename": "DUMMYWAL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "CEILING",
+      "description": "Ceiling",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "CEILING.gif",
+      "flags": []
+    },
+    {
+      "index": 11,
+      "name": "TEXTURE1",
+      "description": "Texture1",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "TEXTURE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "BRICK2",
+      "description": "Brick dark",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "BRICK2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "WINDOW",
+      "description": "Window",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 15116,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c63",
+      "filename": "WINDOW.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "BUILDING",
+      "description": "Big Buildi",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BUILDING.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "PAVING",
+      "description": "Pavement",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "PAVING.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "BUILDIN2",
+      "description": "Building2",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BUILDIN2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "BILBOARD",
+      "description": "Billboard advert",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 118571,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100065d7",
+      "filename": "BILBOARD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "WOODPST1",
+      "description": "Wooden post 1",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 2901,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001d3",
+      "filename": "WOODPST1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "WOODPST2",
+      "description": "Wooden post 2 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 2901,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001d3",
+      "filename": "WOODPST2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "BAR1",
+      "description": "bar on the window box1",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 6226,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004b3",
+      "filename": "BAR1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "BAR2",
+      "description": "bar on the window",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 12279,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100009ef",
+      "filename": "BAR2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "POSTL",
+      "description": "Post on box",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 2250,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000143",
+      "filename": "POSTL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "POSTD",
+      "description": "Post on box",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 2250,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000143",
+      "filename": "POSTD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "BOXSIDE1",
+      "description": "Box side 1",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 14357,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bbb",
+      "filename": "BOXSIDE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "BOXSIDE2",
+      "description": "Box side 2 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 22941,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001327",
+      "filename": "BOXSIDE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "RUSTMETL",
+      "description": "Rusty surface",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "RUSTMETL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "BOXSIDE3",
+      "description": "Box side 3 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 8259,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000675",
+      "filename": "BOXSIDE3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "BOXSIDE4",
+      "description": "Box side 4 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 2657,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000019d",
+      "filename": "BOXSIDE4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "BOXSIDE5",
+      "description": "Box side 5 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 10856,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008b4",
+      "filename": "BOXSIDE5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "WASH1",
+      "description": "Wash bowl side 1",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 11918,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000099f",
+      "filename": "WASH1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "WASH2",
+      "description": "Wash bowl side 2 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 9067,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000728",
+      "filename": "WASH2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "WATER",
+      "description": "Water effect",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "WATER.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "BUILDIN3",
+      "description": "Building",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BUILDIN3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "TENTTEX",
+      "description": "Tent roof texture",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "TENTTEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "WALL1",
+      "description": "Wall1",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 28055,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001793",
+      "filename": "WALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "WALL2",
+      "description": "Wall2",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 32988,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001bd7",
+      "filename": "WALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "WALL3",
+      "description": "Wall3 ",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 28290,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100017c7",
+      "filename": "WALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "TELLY",
+      "description": "Telly",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 468081,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100110e",
+      "filename": "TELLY.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "CONCRETE",
+      "description": "Concrete on floor",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCRETE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "KERBFRNT",
+      "description": "Kerb edging",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 12460,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000a17",
+      "filename": "KERBFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "RDCLOSD",
+      "description": "Road closed sign",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 69870,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003bbb",
+      "filename": "RDCLOSD.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "FLAG",
+      "description": "US.Flag",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 4979,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080039f",
+      "filename": "FLAG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "CHIMNEY",
+      "description": "Chimney on hut",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 109257,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800337",
+      "filename": "CHIMNEY.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "LAMPOST",
+      "description": "Lamp-post",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 22001,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10001257",
+      "filename": "LAMPOST.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "HYDRANT",
+      "description": "Fire",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 6822,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800537",
+      "filename": "HYDRANT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "TRASHCAN",
+      "description": "Trash can",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 23248,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080136b",
+      "filename": "TRASHCAN.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "CHAINHK",
+      "description": "box supporting chains",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 11240,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800909",
+      "filename": "CHAINHK.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "PULLEY",
+      "description": "Puller thingy to go up",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 4694,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800360",
+      "filename": "PULLEY.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "SPONGE",
+      "description": "Sponge",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 2431,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080016b",
+      "filename": "SPONGE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "ROOF",
+      "description": "Box roof",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 31163,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x800000f1",
+      "filename": "ROOF.gif",
+      "flags": [
+        "0x8000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "BOILER",
+      "description": "Boiler in box",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 47025,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110000ef",
+      "filename": "BOILER.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "MOP",
+      "description": "Mop in bucket",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 17603,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800e8a",
+      "filename": "MOP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "AERIAL",
+      "description": "Aerial",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 3293,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080022a",
+      "filename": "AERIAL.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4109,
+      "name": "D-CYC-01",
+      "description": "Dai, default",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b98",
+      "filename": "D-CYC-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4110,
+      "name": "LAMPOST2",
+      "description": "Lampost2",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 30892,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10001a07",
+      "filename": "LAMPOST2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "CHAINHK2",
+      "description": "top of the pulley",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 23923,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801401",
+      "filename": "CHAINHK2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4112,
+      "name": "BEACON",
+      "description": "Beacon on Rdclosed sign",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 160480,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11000223",
+      "filename": "BEACON.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "STOOL",
+      "description": "Stool in cradle",
+      "animated": false,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 8021,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800641",
+      "filename": "STOOL.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "D-CYC-02",
+      "description": "Dai, default",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b47",
+      "filename": "D-CYC-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "D-CYC-03",
+      "description": "Dai, default",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800f65",
+      "filename": "D-CYC-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "D-CYC-04",
+      "description": "Dai, default",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118013ae",
+      "filename": "D-CYC-04.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "D-STILL",
+      "description": "Dai, still",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 772297,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118008d8",
+      "filename": "D-STILL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4118,
+      "name": "D-LIST",
+      "description": "Dai, listen",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800947",
+      "filename": "D-LIST.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "D-CON-01",
+      "description": "Dai, talking",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801163",
+      "filename": "D-CON-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "D-CON-02",
+      "description": "Dai, talking",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800f18",
+      "filename": "D-CON-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "D-CON-03",
+      "description": "Dai, talking",
+      "animated": true,
+      "origin": "WINBOX.DAS",
+      "offset": 1310720,
+      "size": 842433,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180116f",
+      "filename": "D-CON-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    }
+  ]
+}

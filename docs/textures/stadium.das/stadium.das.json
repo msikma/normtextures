@@ -1,0 +1,3617 @@
+{
+  "files": [
+    {
+      "index": 1,
+      "name": "TEXTURE",
+      "description": "perimeter wall",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 99628,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005576",
+      "filename": "TEXTURE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "SKY",
+      "description": "Skyline",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": []
+    },
+    {
+      "index": 3,
+      "name": "CORUGATE",
+      "description": "Corrugated roof",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "CORUGATE.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "CORUGAT4",
+      "description": "Corr roof sides",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "CORUGAT4.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "TOPFEN1",
+      "description": "Top fence 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 68894,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003ae3",
+      "filename": "TOPFEN1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "TOPFEN2",
+      "description": "Top fence 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 48945,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100029a3",
+      "filename": "TOPFEN2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "CORUGAT2",
+      "description": "Corr roof corners 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "CORUGAT2.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "CORUGAT3",
+      "description": "Corr roof corners 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "CORUGAT3.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "SEATS",
+      "description": "Seats",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "SEATS.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "SEATFRNT",
+      "description": "Front of seats",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1076,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000003f",
+      "filename": "SEATFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "SEATBACK",
+      "description": "Back of seats",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "SEATBACK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "GRASS",
+      "description": "Some grass",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "GRASS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "METLFLOR",
+      "description": "Metal floor",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "METLFLOR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "STEPFRNT",
+      "description": "Front of steps",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 940,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000021",
+      "filename": "STEPFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "SEATEDGE",
+      "description": "End of seats",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 940,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000021",
+      "filename": "SEATEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "FLUDLIT2",
+      "description": "floodlight",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 51854,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c27",
+      "filename": "FLUDLIT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "WOOD",
+      "description": "wooden walkway N-S",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "WOOD.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "BLAKFLOR",
+      "description": "Black floor txtr",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "BLAKFLOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "METFLORL",
+      "description": "Steps top (left)",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "METFLORL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "METFLORR",
+      "description": "Steps top (right) ",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "METFLORR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "METFLORB",
+      "description": "Steps top (bottom)",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "METFLORB.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "WOOD2",
+      "description": "Wooden walkway W-E",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "WOOD2.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "CONCBLUE",
+      "description": "Blue concrete",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCBLUE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "BLAKWOOD",
+      "description": "Black wood",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "BLAKWOOD.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "NORMFLOR",
+      "description": "Neutropolis logo",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "NORMFLOR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "ENTCIEL",
+      "description": "Entrance ceiling",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "ENTCIEL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "STEPFEN",
+      "description": "Fence up steps",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 3447,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000024c",
+      "filename": "STEPFEN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "FENCEREP",
+      "description": "Fence repeat",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "FENCEREP.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "WIZARROW",
+      "description": "Entrance arrows",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 44541,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110003d4",
+      "filename": "WIZARROW.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "WIZPAUL",
+      "description": "Entrance Paul sign",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 44541,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110003d4",
+      "filename": "WIZPAUL.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "NORMDAY",
+      "description": "Exit message",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 34235,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ceb",
+      "filename": "NORMDAY.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "CHIKWIRE",
+      "description": "Chicken wire",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10800803",
+      "filename": "CHIKWIRE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "RUBBER",
+      "description": "Strange panel",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 814641,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11001557",
+      "filename": "RUBBER.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "CHIKEDGE",
+      "description": "Edge of chicken wire",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10743,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000089b",
+      "filename": "CHIKEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "STANBAKL",
+      "description": "Back of stand left",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "STANBAKL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "STANBAKR",
+      "description": "Back of stand right",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 38753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100020d3",
+      "filename": "STANBAKR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "STEPSID1",
+      "description": "Side of steps bit 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 2024,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000111",
+      "filename": "STEPSID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "STEPSID2",
+      "description": "Side of steps bit 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 3380,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000023d",
+      "filename": "STEPSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "STEPSID3",
+      "description": "Side of steps bit 3",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 4464,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000032d",
+      "filename": "STEPSID3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "STEPSID4",
+      "description": "Side of steps bit 4",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 5955,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000477",
+      "filename": "STEPSID4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "STEPSID5",
+      "description": "Side of steps bit 5",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 6293,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004c2",
+      "filename": "STEPSID5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "STEPSID6",
+      "description": "Side of steps bit 6",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 7242,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000594",
+      "filename": "STEPSID6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "STEPSID7",
+      "description": "Side of steps bit 7",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 7513,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005d0",
+      "filename": "STEPSID7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "STEPSID8",
+      "description": "Side of steps bit 8",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 8530,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006b1",
+      "filename": "STEPSID8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "STEPSID9",
+      "description": "Side of steps bit 9",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 8732,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006de",
+      "filename": "STEPSID9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "STEPSID0",
+      "description": "Side of steps bit 10",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 27368,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100016fb",
+      "filename": "STEPSID0.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "HANGSIGN",
+      "description": "Hanging sign",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 42548,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000241b",
+      "filename": "HANGSIGN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "HANGEXIT",
+      "description": "Hanging exit sign",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 42548,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000241b",
+      "filename": "HANGEXIT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "CURTAIN",
+      "description": "Curtain",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 39114,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002123",
+      "filename": "CURTAIN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "BANNER1A",
+      "description": "Paul prov banner 1a",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 24838,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100014cb",
+      "filename": "BANNER1A.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "BANNER1B",
+      "description": "Paul prov banner 1b",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 46342,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002763",
+      "filename": "BANNER1B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "BANNER1C",
+      "description": "Paul prov banner 1c",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 7852,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000061b",
+      "filename": "BANNER1C.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "BANNER1D",
+      "description": "Paul prov banner 1d",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 7852,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000061b",
+      "filename": "BANNER1D.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "BANNER1E",
+      "description": "Paul prov banner 1e",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 46342,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002763",
+      "filename": "BANNER1E.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "BANNER1F",
+      "description": "Paul prov banner 1f",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 24838,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100014cb",
+      "filename": "BANNER1F.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "HIBANNER",
+      "description": "High banner",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 79231,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100043d3",
+      "filename": "HIBANNER.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "PILABIT1",
+      "description": "High pillars bit 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10635,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000883",
+      "filename": "PILABIT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "PILABIT2",
+      "description": "High pillars bit 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 14321,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bb3",
+      "filename": "PILABIT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "PILABIT3",
+      "description": "High pillars bit 3",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 14669,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c00",
+      "filename": "PILABIT3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "EDGE1",
+      "description": "Stadium edge bit 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 66197,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000388e",
+      "filename": "EDGE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "EDGE2",
+      "description": "Stadium edge bit 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 66197,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000388e",
+      "filename": "EDGE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "EDGE3",
+      "description": "Stadium edge bit 3",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 66197,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000388e",
+      "filename": "EDGE3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "EDGE4",
+      "description": "Stadium edge bit 4",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 66197,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000388e",
+      "filename": "EDGE4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "ARROWS",
+      "description": "Stadium edge bit 5",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 29604,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100018ea",
+      "filename": "ARROWS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "STAIRBIT",
+      "description": "Walls ascending stairs",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 976,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000029",
+      "filename": "STAIRBIT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "ADBORD1",
+      "description": "Add board 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 111261,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005f85",
+      "filename": "ADBORD1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "ADBORD2",
+      "description": "Add board 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 21134,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001197",
+      "filename": "ADBORD2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "ADBORD3",
+      "description": "Add board 3",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 78056,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100042cf",
+      "filename": "ADBORD3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "ADBORD4",
+      "description": "Add board 4",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 31129,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001a3c",
+      "filename": "ADBORD4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "ADBORD5",
+      "description": "Add board 5",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 57049,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100030a5",
+      "filename": "ADBORD5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "ADBORD6",
+      "description": "Add board 6",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 17068,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e13",
+      "filename": "ADBORD6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "STGESID1",
+      "description": "Extreme stage sides 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 890,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000016",
+      "filename": "STGESID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "STGESID2",
+      "description": "Extreme stage sides 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 906,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000001a",
+      "filename": "STGESID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "WALKENDS",
+      "description": "Ends of walkways",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 44038,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002565",
+      "filename": "WALKENDS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "STGESID3",
+      "description": "Opposite spkr sides",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1283,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000006d",
+      "filename": "STGESID3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "SPEAKFNT",
+      "description": "Front of speaker",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 60288,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003372",
+      "filename": "SPEAKFNT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "STGEFNT1",
+      "description": "Front of stage 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 39205,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002137",
+      "filename": "STGEFNT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "STGEFNT2",
+      "description": "Front of stage 2 ",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 48522,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002946",
+      "filename": "STGEFNT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "STGEFNT3",
+      "description": "Front of stage 3 ",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 36946,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001f43",
+      "filename": "STGEFNT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "SPGAUZE",
+      "description": "Gauze over speakers",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 60288,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003372",
+      "filename": "SPGAUZE.gif",
+      "flags": [
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "STGEBANA",
+      "description": "Stage banner",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 26826,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001683",
+      "filename": "STGEBANA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "VIDISCN1",
+      "description": "Video screen",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 155531,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110008b8",
+      "filename": "VIDISCN1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "PODYFRNT",
+      "description": "Podium front",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 51402,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002bc3",
+      "filename": "PODYFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "PODYSID1",
+      "description": "Podium side bit 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 9027,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000071f",
+      "filename": "PODYSID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 86,
+      "name": "PODYSID2",
+      "description": "Podium side bit 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 2295,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000014d",
+      "filename": "PODYSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "PODYSID3",
+      "description": "Podium side bit 3",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1515,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000a1",
+      "filename": "PODYSID3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "ODDSTEP",
+      "description": "Odd step",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 3786,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000297",
+      "filename": "ODDSTEP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "STEPFNT2",
+      "description": "Step front (long)",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1618,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000b7",
+      "filename": "STEPFNT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "ARENSTP1",
+      "description": "Steps in arena 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1482,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000099",
+      "filename": "ARENSTP1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "ARENSTP2",
+      "description": "Steps in arena 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 2160,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000012f",
+      "filename": "ARENSTP2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "ARENSTP3",
+      "description": "Steps in arena 3",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 2837,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001c5",
+      "filename": "ARENSTP3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "ARENSTP4",
+      "description": "Steps in arena 4",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 3515,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000025b",
+      "filename": "ARENSTP4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "ARENSTP5",
+      "description": "Steps in arena 5",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 16898,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000dee",
+      "filename": "ARENSTP5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "ARENSTP6",
+      "description": "Steps in arena 6",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 3515,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000025b",
+      "filename": "ARENSTP6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "ARENSTP7",
+      "description": "Steps in arena 7",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 2837,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001c5",
+      "filename": "ARENSTP7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "ARENSTP8",
+      "description": "Steps in arena 8",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 2160,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000012f",
+      "filename": "ARENSTP8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "ARENSTP9",
+      "description": "Steps in arena 9",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1448,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000092",
+      "filename": "ARENSTP9.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "ADBORD7",
+      "description": "Ad board bit 6",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 17068,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e13",
+      "filename": "ADBORD7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "ADBORD8",
+      "description": "Ad board bit 7",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 57049,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100030a5",
+      "filename": "ADBORD8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "ADBORD9",
+      "description": "Ad board bit 8",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 31129,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001a3c",
+      "filename": "ADBORD9.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "ADBORD10",
+      "description": "Ad board bit 9",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 78056,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100042cf",
+      "filename": "ADBORD10.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "ADBORD11",
+      "description": "Ad board bit 10",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 21134,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001197",
+      "filename": "ADBORD11.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "ADBORD12",
+      "description": "Ad board bit 11",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 111261,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005f85",
+      "filename": "ADBORD12.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "PAURELA",
+      "description": "Paul relief bit 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 138631,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007730",
+      "filename": "PAURELA.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "PAURELB",
+      "description": "Paul relief bit 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 138631,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007730",
+      "filename": "PAURELB.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "SAURELA",
+      "description": "Saul relief bit 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 143671,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007b8b",
+      "filename": "SAURELA.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "SAURELB",
+      "description": "Saul relief bit 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 133009,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007253",
+      "filename": "SAURELB.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "MARBRICK",
+      "description": "Marle brick stuff",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "MARBRICK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "STEPFNT3",
+      "description": "Front of entry steps",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 872,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000012",
+      "filename": "STEPFNT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "MARBFLOR",
+      "description": "Marble floor",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "MARBFLOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "DORMOTO2",
+      "description": "Motto over door",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 127841,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006ddb",
+      "filename": "DORMOTO2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "NORMPARK",
+      "description": "Norm parking",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 30079,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001953",
+      "filename": "NORMPARK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "BOXFRNT1",
+      "description": "norm flightbox tex ",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 31299,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001a61",
+      "filename": "BOXFRNT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 115,
+      "name": "BOXFRNT2",
+      "description": "norm flightbox tex",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 24793,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100014c1",
+      "filename": "BOXFRNT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 116,
+      "name": "BOXSIDE1",
+      "description": "norm flightbox tex",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 24387,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001467",
+      "filename": "BOXSIDE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 117,
+      "name": "BOXSIDE2",
+      "description": "norm flightbox tex",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 19914,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001089",
+      "filename": "BOXSIDE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "BOXTOPS",
+      "description": "flightbox toptex",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "BOXTOPS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 119,
+      "name": "FLORGRTE",
+      "description": "floor grate",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "FLORGRTE.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 120,
+      "name": "SHAFT1",
+      "description": "longwall to sewer",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 31637,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001aac",
+      "filename": "SHAFT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 121,
+      "name": "SHAFT2",
+      "description": "shortwall to sewer",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 28926,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001854",
+      "filename": "SHAFT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 122,
+      "name": "SHAFTCVR",
+      "description": "top of grate",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "SHAFTCVR.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 123,
+      "name": "SHAFTSID",
+      "description": "side of grate",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 2431,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000016b",
+      "filename": "SHAFTSID.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 124,
+      "name": "STREAKY",
+      "description": "stone wall tex",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "STREAKY.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 125,
+      "name": "BAKGRILL",
+      "description": "back grille florbit",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "BAKGRILL.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 126,
+      "name": "TEXTURE2",
+      "description": "perim poster wall",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 99628,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005576",
+      "filename": "TEXTURE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 127,
+      "name": "THINWALL",
+      "description": "thin perim wall",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 40334,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002231",
+      "filename": "THINWALL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 128,
+      "name": "TEXTURE3",
+      "description": "perim poster wall",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 99628,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005576",
+      "filename": "TEXTURE3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 129,
+      "name": "LIFTFRNT",
+      "description": "stagelift front",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 44716,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100025fb",
+      "filename": "LIFTFRNT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 130,
+      "name": "LIFTSIDE",
+      "description": "stagelift side",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 33332,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c23",
+      "filename": "LIFTSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 131,
+      "name": "LIFTBACK",
+      "description": "stagelift back",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 44716,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100025fb",
+      "filename": "LIFTBACK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 132,
+      "name": "LIFTFLOR",
+      "description": "stagelift floor",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "LIFTFLOR.gif",
+      "flags": []
+    },
+    {
+      "index": 133,
+      "name": "LIFTSID2",
+      "description": "stagelift otherside",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 33332,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c23",
+      "filename": "LIFTSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 134,
+      "name": "LIFTNFNT",
+      "description": "inner frontbit",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 44716,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100025fb",
+      "filename": "LIFTNFNT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 135,
+      "name": "LIFTNSDE",
+      "description": "inner side 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 33332,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c23",
+      "filename": "LIFTNSDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 136,
+      "name": "LIFTNSD2",
+      "description": "inner side 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 33332,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c23",
+      "filename": "LIFTNSD2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 137,
+      "name": "LIFTNBAK",
+      "description": "inner backbit",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 44716,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100025fb",
+      "filename": "LIFTNBAK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 138,
+      "name": "SUITS",
+      "description": "Suit sign on crate",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 31299,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001a61",
+      "filename": "SUITS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 139,
+      "name": "PODS",
+      "description": "Pods sign on crate",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 31299,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001a61",
+      "filename": "PODS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 140,
+      "name": "LITESWCH",
+      "description": "lightswitch (entrance)",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 9478,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000783",
+      "filename": "LITESWCH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 141,
+      "name": "CORITILE",
+      "description": "",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "CORITILE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 142,
+      "name": "CORIDARK",
+      "description": "",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "CORIDARK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 143,
+      "name": "ENTCIELD",
+      "description": "dark entrance ceiling",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "ENTCIELD.gif",
+      "flags": []
+    },
+    {
+      "index": 4097,
+      "name": "ELITE1",
+      "description": "Man at entry",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 593061,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800aae",
+      "filename": "ELITE1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "FLAG",
+      "description": "Flag ",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 637065,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110009da",
+      "filename": "FLAG.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "SATDISH",
+      "description": "Satterlight dische",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 31827,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801ad6",
+      "filename": "SATDISH.gif",
+      "flags": [
+        "0x80",
+        "0x1000",
+        "0x2000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "MAGNTOP",
+      "description": "Top of mood mag",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 92260,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10804f17",
+      "filename": "MAGNTOP.gif",
+      "flags": [
+        "0x80",
+        "0x1000",
+        "0x2000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "MAGNBOT",
+      "description": "bottom of mood mag",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 89983,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10804d1f",
+      "filename": "MAGNBOT.gif",
+      "flags": [
+        "0x80",
+        "0x1000",
+        "0x2000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "MOODRECV",
+      "description": "Mood reciever",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1992141,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11805cc7",
+      "filename": "MOODRECV.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000",
+        "0x4000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "SPOTLIT1",
+      "description": "Spot on stage",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 24192,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000143c",
+      "filename": "SPOTLIT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "SPOTLIT2",
+      "description": "Spot on stage",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 21800,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000122b",
+      "filename": "SPOTLIT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "SPOTLIT3",
+      "description": "Spot on stage",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 19737,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10001062",
+      "filename": "SPOTLIT3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "PLANT1",
+      "description": "Plant",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 29421,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100018c2",
+      "filename": "PLANT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4109,
+      "name": "PLANT2",
+      "description": "Plant",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 26351,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000161a",
+      "filename": "PLANT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4110,
+      "name": "MICRFONE",
+      "description": "Microphone",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 6072,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800491",
+      "filename": "MICRFONE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "CONE",
+      "description": "Traffic cone",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 50770,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10802b37",
+      "filename": "CONE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4112,
+      "name": "PARKSTND",
+      "description": "Norm parking stand",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 8427,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080069b",
+      "filename": "PARKSTND.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "BATTERY1",
+      "description": "battery 1",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1057,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080003b",
+      "filename": "BATTERY1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "BATTERY2",
+      "description": "battery 2",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1233,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800062",
+      "filename": "BATTERY2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "GOGGLES",
+      "description": "nite site spex",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 6750,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800527",
+      "filename": "GOGGLES.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "TABLOID2",
+      "description": "newspaper",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 21655,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080120b",
+      "filename": "TABLOID2.gif",
+      "flags": [
+        "0x4",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "ELITE2",
+      "description": "Man at entry",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1185321,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118010f5",
+      "filename": "ELITE2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "ELITE3",
+      "description": "Man at lift",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 593061,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800aae",
+      "filename": "ELITE3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "ELITE4",
+      "description": "Man at lift",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1185321,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118010f5",
+      "filename": "ELITE4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4122,
+      "name": "DAI1",
+      "description": "dai",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1169193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801079",
+      "filename": "DAI1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "BD-GC-01",
+      "description": "brian",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 500193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180061d",
+      "filename": "BD-GC-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "NORM1",
+      "description": "norm",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 795129,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800a12",
+      "filename": "NORM1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4125,
+      "name": "SAUL1",
+      "description": "saul",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 619441,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180084e",
+      "filename": "SAUL1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "HD-GC-01",
+      "description": "heather",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 605273,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180085e",
+      "filename": "HD-GC-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4127,
+      "name": "BAR",
+      "description": "Bar",
+      "animated": false,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 4368,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000318",
+      "filename": "BAR.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "SAUL2",
+      "description": "saul",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 675681,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800aaf",
+      "filename": "SAUL2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "SAUL3",
+      "description": "saul",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 675681,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800af5",
+      "filename": "SAUL3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "SAUL4",
+      "description": "saul",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 675681,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118006a7",
+      "filename": "SAUL4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4131,
+      "name": "SAUL5",
+      "description": "saul",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 675681,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800bdc",
+      "filename": "SAUL5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "SAUL6",
+      "description": "saul",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 675681,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800ea4",
+      "filename": "SAUL6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4133,
+      "name": "SAUL7",
+      "description": "saul",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 675681,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118008f8",
+      "filename": "SAUL7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4134,
+      "name": "SAUL8",
+      "description": "saul",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 675681,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118007e4",
+      "filename": "SAUL8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4135,
+      "name": "SAUL9",
+      "description": "saul",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 675681,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180084e",
+      "filename": "SAUL9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4136,
+      "name": "DAI2",
+      "description": "dai",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1169193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801117",
+      "filename": "DAI2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4137,
+      "name": "DAI3",
+      "description": "dai",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1169193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180152e",
+      "filename": "DAI3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4138,
+      "name": "DAI4",
+      "description": "dai",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1169193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118013ac",
+      "filename": "DAI4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4139,
+      "name": "DAI5",
+      "description": "dai",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 682363,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800a8f",
+      "filename": "DAI5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4140,
+      "name": "DAI6",
+      "description": "dai",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1169193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180141c",
+      "filename": "DAI6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4141,
+      "name": "DAI7",
+      "description": "dai",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1169193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118015fc",
+      "filename": "DAI7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4142,
+      "name": "DAI8",
+      "description": "dai",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1169193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118015fc",
+      "filename": "DAI8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4143,
+      "name": "DAI9",
+      "description": "dai",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 1169193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800e6f",
+      "filename": "DAI9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4144,
+      "name": "NORM2",
+      "description": "norm",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 795129,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118009fe",
+      "filename": "NORM2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4145,
+      "name": "NORM3",
+      "description": "norm",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 795129,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801864",
+      "filename": "NORM3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4146,
+      "name": "NORM4",
+      "description": "norm",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 795129,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b8e",
+      "filename": "NORM4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4147,
+      "name": "NORM5",
+      "description": "norm",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 795129,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180108f",
+      "filename": "NORM5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4148,
+      "name": "NORM6",
+      "description": "norm",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 795129,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800f88",
+      "filename": "NORM6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4149,
+      "name": "NORM7",
+      "description": "norm",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 795129,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800f88",
+      "filename": "NORM7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4150,
+      "name": "NORM8",
+      "description": "norm",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 795129,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800ccc",
+      "filename": "NORM8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4151,
+      "name": "NORM9",
+      "description": "norm",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 795129,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800ccc",
+      "filename": "NORM9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4152,
+      "name": "BD-GC-02",
+      "description": "brian",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 500193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800648",
+      "filename": "BD-GC-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4153,
+      "name": "BD-GC-03",
+      "description": "brian",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 500193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800747",
+      "filename": "BD-GC-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4154,
+      "name": "BD-GC-04",
+      "description": "brian",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 500193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800a08",
+      "filename": "BD-GC-04.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4155,
+      "name": "BD-LISTN",
+      "description": "brian",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 500193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118005eb",
+      "filename": "BD-LISTN.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4156,
+      "name": "BD-CN-01",
+      "description": "brian",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 500193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118005b2",
+      "filename": "BD-CN-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4157,
+      "name": "BD-CN-02",
+      "description": "brian",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 500193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800a2c",
+      "filename": "BD-CN-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4158,
+      "name": "BD-CN-03",
+      "description": "brian",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 500193,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800a64",
+      "filename": "BD-CN-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4159,
+      "name": "BD-STILL",
+      "description": "brian",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 458577,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180049a",
+      "filename": "BD-STILL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4160,
+      "name": "HD-GC-02",
+      "description": "heather",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 660225,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800853",
+      "filename": "HD-GC-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4161,
+      "name": "HD-GC-03",
+      "description": "heather",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 660225,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800dbc",
+      "filename": "HD-GC-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4162,
+      "name": "HD-GC-04",
+      "description": "heather",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 660225,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118008ed",
+      "filename": "HD-GC-04.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4163,
+      "name": "HD-LISTN",
+      "description": "heather",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 660225,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800c26",
+      "filename": "HD-LISTN.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4164,
+      "name": "HD-CN-01",
+      "description": "heather",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 660225,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800be2",
+      "filename": "HD-CN-01.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4165,
+      "name": "HD-CN-02",
+      "description": "heather",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 660225,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800c6c",
+      "filename": "HD-CN-02.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4166,
+      "name": "HD-CN-03",
+      "description": "heather",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 660225,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800c91",
+      "filename": "HD-CN-03.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4167,
+      "name": "HD-STILL",
+      "description": "heather",
+      "animated": true,
+      "origin": "STADIUM.DAS",
+      "offset": 5242880,
+      "size": 660225,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800608",
+      "filename": "HD-STILL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    }
+  ]
+}

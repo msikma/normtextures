@@ -1,0 +1,3170 @@
+{
+  "files": [
+    {
+      "index": 2,
+      "name": "SKY",
+      "description": "Skyline",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": []
+    },
+    {
+      "index": 3,
+      "name": "CONCRETE",
+      "description": "Floor texture",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCRETE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "IRONGATE",
+      "description": "BIG gate for factory",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 116619,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006427",
+      "filename": "IRONGATE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "PARKING",
+      "description": "Parking stripes for cars",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "PARKING.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "GRAVEL",
+      "description": "Gravel texture",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "GRAVEL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "CONCRT2",
+      "description": "Road concrete",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCRT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "FOOTPRNT",
+      "description": "Footprints in the sand",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "FOOTPRNT.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "BRICK",
+      "description": "Repeated brick wall",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "BRICK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "WALL1",
+      "description": "Wall to blend to repeated..",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 79863,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000445f",
+      "filename": "WALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "BARRIER1",
+      "description": "Front of Safety barrier",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 7310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005a3",
+      "filename": "BARRIER1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "BARRIER2",
+      "description": "Side of Safety barrier",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 7310,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005a3",
+      "filename": "BARRIER2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "FACLEND1",
+      "description": "Left end of fact 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 55016,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002ee3",
+      "filename": "FACLEND1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "FACLEND2",
+      "description": "Left end of fact 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 112842,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100060e3",
+      "filename": "FACLEND2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "FACLEND3",
+      "description": "Left end of fact 3",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 112842,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100060e3",
+      "filename": "FACLEND3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "WALLEDG3",
+      "description": "Edge of the gate",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 7129,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000057b",
+      "filename": "WALLEDG3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "WALL2",
+      "description": "Dark side of small wall",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 59082,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003267",
+      "filename": "WALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "WALL3",
+      "description": "Dark side of small wall",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 59082,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003267",
+      "filename": "WALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "FRNTDOOR",
+      "description": "Entry door to fac_recp",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 100265,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005603",
+      "filename": "FRNTDOOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "GRAVSAND",
+      "description": "Sand meets gravel",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "GRAVSAND.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "PAVING",
+      "description": "Paving texture ",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "PAVING.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "KERBFRNT",
+      "description": "Front of kerb",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 26826,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001683",
+      "filename": "KERBFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "WINDGEN2",
+      "description": "Wind generator front",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 1424196,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110012f1",
+      "filename": "WINDGEN2.gif",
+      "flags": [
+        "0x100",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "WINDGEN3",
+      "description": "Wind generator back",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 1424196,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11001033",
+      "filename": "WINDGEN3.gif",
+      "flags": [
+        "0x100",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "WATER",
+      "description": "River water",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 593297,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11002a51",
+      "filename": "WATER.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "MARBLE",
+      "description": "Posh steps top",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "MARBLE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "STEPFNT1",
+      "description": "Posh steps front",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 1076,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000003f",
+      "filename": "STEPFNT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "ENTDOOR",
+      "description": "Exit from fac recp",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 100265,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005603",
+      "filename": "ENTDOOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "HALLFLOR",
+      "description": "Entrance hall floor",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "HALLFLOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "UNDAGRD",
+      "description": "Under girder texture",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "UNDAGRD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "RECPSIGN",
+      "description": "Door to main hall",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 125130,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006b83",
+      "filename": "RECPSIGN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "ENT5",
+      "description": "Coridoor wall 5",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 6226,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004b3",
+      "filename": "ENT5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "ENT6",
+      "description": "Coridoor wall 6",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 6226,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004b3",
+      "filename": "ENT6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "ENT7",
+      "description": "Coridoor wall 7",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 42728,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002443",
+      "filename": "ENT7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "ENT9",
+      "description": "Coridoor wall 9",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "ENT9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "ENT1",
+      "description": "Coridoor wall 1 ",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 26058,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100015d9",
+      "filename": "ENT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "ENTSTRIP",
+      "description": "Doorway hinges",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "ENTSTRIP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "STEPFNT2",
+      "description": "Front of concrete steps",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 54293,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002e43",
+      "filename": "STEPFNT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "STEPTOP",
+      "description": "Top of steps",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "STEPTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "FACFNT2",
+      "description": "Factory front 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 68257,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003a56",
+      "filename": "FACFNT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "FACFNT3",
+      "description": "Factory front 3",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 100021,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100055cd",
+      "filename": "FACFNT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "FACFNT4",
+      "description": "Factory front 4",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 68257,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003a56",
+      "filename": "FACFNT4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "FACFNT1",
+      "description": "Factory front 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 34687,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001d4f",
+      "filename": "FACFNT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "FACFNT5",
+      "description": "Factory front 5 ",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 10969,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008cd",
+      "filename": "FACFNT5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "ENTWAL1",
+      "description": "Entrance wall 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 52757,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002cef",
+      "filename": "ENTWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "ENTWAL2",
+      "description": "Entrance wall 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 14985,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c46",
+      "filename": "ENTWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "ENTWAL3",
+      "description": "Entrance wall 3",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 52757,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002cef",
+      "filename": "ENTWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "UNDSIDE1",
+      "description": "Side under hangover 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 77605,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000426b",
+      "filename": "UNDSIDE1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "UNDSIDE2",
+      "description": "Side under hangover 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 77605,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000426b",
+      "filename": "UNDSIDE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "OVAHANG1",
+      "description": "Overhang bit 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 46885,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100027db",
+      "filename": "OVAHANG1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "OVAHANG2",
+      "description": "Overhang bit 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 46885,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100027db",
+      "filename": "OVAHANG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "GOODSIN",
+      "description": "Goods entrance",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 103355,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100058af",
+      "filename": "GOODSIN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "STEPEDG1",
+      "description": "Edge1 left of entrn",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 8611,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006c3",
+      "filename": "STEPEDG1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "STEPEDG2",
+      "description": "Edge2 left of entrn",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 8326,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000684",
+      "filename": "STEPEDG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "STEPEDG3",
+      "description": "Edge3 left of entrn",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 15198,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c75",
+      "filename": "STEPEDG3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "SKIPSID1",
+      "description": "Side of skip 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 40560,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002263",
+      "filename": "SKIPSID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "SKIPSID2",
+      "description": "Side of skip 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 40560,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002263",
+      "filename": "SKIPSID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "FNTLEFT1",
+      "description": "Fact front left 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 3741,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000028d",
+      "filename": "FNTLEFT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "FNTLEFT2",
+      "description": "Fact front left 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 59715,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100032f3",
+      "filename": "FNTLEFT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "FNTLEFT3",
+      "description": "Fact front left 3",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 5796,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000454",
+      "filename": "FNTLEFT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "FNTLEFT4",
+      "description": "Fact front left 4",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 6090,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000495",
+      "filename": "FNTLEFT4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "FNTLEFT5",
+      "description": "Fact front left 5",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 6813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000535",
+      "filename": "FNTLEFT5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "CARPARK1",
+      "description": "Small Parking wall 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 3967,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002bf",
+      "filename": "CARPARK1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "CARPARK2",
+      "description": "Small Parking wall 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 37397,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001fa7",
+      "filename": "CARPARK2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "CARPARK3",
+      "description": "Small Parking wall 3",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 3741,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000028d",
+      "filename": "CARPARK3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "CARPARK4",
+      "description": "Small Parking wall 4",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 36268,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ead",
+      "filename": "CARPARK4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "CARPARK5",
+      "description": "Small Parking wall 5",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 3741,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000028d",
+      "filename": "CARPARK5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "CARPARK6",
+      "description": "Small Parking wall 6",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 36268,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ead",
+      "filename": "CARPARK6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "CARPARK7",
+      "description": "Tall Parking wall sign",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 102000,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005783",
+      "filename": "CARPARK7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "CARPARK8",
+      "description": "Tall Parking wall",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 78508,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004333",
+      "filename": "CARPARK8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "CARPARK9",
+      "description": "Tall Parking wall",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 111035,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005f53",
+      "filename": "CARPARK9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "CARPARKA",
+      "description": "Tall Parking wall clamp",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 71732,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003d57",
+      "filename": "CARPARKA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "CARPARKB",
+      "description": "Tall Parking wall clamp",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000517",
+      "filename": "CARPARKB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "CARPARKC",
+      "description": "Tall Parking \"",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 71732,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003d57",
+      "filename": "CARPARKC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "CARPARKD",
+      "description": "Tall Parking \"",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000517",
+      "filename": "CARPARKD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "CARPARKE",
+      "description": "Tall Parking \"",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 73990,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003f4b",
+      "filename": "CARPARKE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "CARPARKF",
+      "description": "Tall Parking \"",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 7129,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000057b",
+      "filename": "CARPARKF.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "CARPARKG",
+      "description": "Tall Parking \"",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 73990,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003f4b",
+      "filename": "CARPARKG.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "CARPARKH",
+      "description": "Tall Parking \"",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 8033,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000643",
+      "filename": "CARPARKH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "CARPARKI",
+      "description": "Tall Parking edge of gate",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 100193,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100055f3",
+      "filename": "CARPARKI.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "CONTAIN1",
+      "description": "Container side1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 98527,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005483",
+      "filename": "CONTAIN1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "CONTAIN2",
+      "description": "Container side2 ",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 98914,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100054d8",
+      "filename": "CONTAIN2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 86,
+      "name": "CONTAIN3",
+      "description": "Container front ",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 97326,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005379",
+      "filename": "CONTAIN3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "CONTAIN4",
+      "description": "Container back ",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 96210,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005282",
+      "filename": "CONTAIN4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "WALLEDG",
+      "description": "Edge of Carpark wall",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "WALLEDG.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "WALLEDG2",
+      "description": "Edge of Carpark wall high",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "WALLEDG2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "DORWALL1",
+      "description": "Wall at side of steps",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 51402,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002bc3",
+      "filename": "DORWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "DORWALL2",
+      "description": "Wall at front of steps",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 68163,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003a41",
+      "filename": "DORWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "DORWALL3",
+      "description": "Wall at front of steps 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 68163,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003a41",
+      "filename": "DORWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "DORWALL4",
+      "description": "Wall at front of step",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 7129,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000057b",
+      "filename": "DORWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "DORWALL5",
+      "description": "Wall at front of step",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 8123,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000657",
+      "filename": "DORWALL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "DORWALL6",
+      "description": "Wall at front of step",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000517",
+      "filename": "DORWALL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "DORWALL7",
+      "description": "Wall at front of step",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 5684,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000043b",
+      "filename": "DORWALL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "DORWALL8",
+      "description": "Wall at front of step",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 44987,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002637",
+      "filename": "DORWALL8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "DORWALL9",
+      "description": "Wall at front of step",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 19779,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000106b",
+      "filename": "DORWALL9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "FNTRGHT1",
+      "description": "Fact front right 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 73990,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003f4b",
+      "filename": "FNTRGHT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "FNTRGHT2",
+      "description": "Fact front right 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 73990,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003f4b",
+      "filename": "FNTRGHT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "FACREND1",
+      "description": "Fact right end 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 75797,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100040db",
+      "filename": "FACREND1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "FACREND2",
+      "description": "Fact right end 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 8326,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000684",
+      "filename": "FACREND2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "FACREND3",
+      "description": "Fact right end 3",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 51854,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c27",
+      "filename": "FACREND3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "FACREND4",
+      "description": "Fact right end 4",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 8326,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000684",
+      "filename": "FACREND4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "FACREND5",
+      "description": "Fact right end 5",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 51854,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c27",
+      "filename": "FACREND5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "FACREND6",
+      "description": "Fact right end 6",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 8326,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000684",
+      "filename": "FACREND6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "FACREND7",
+      "description": "Fact right end 7",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 51854,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c27",
+      "filename": "FACREND7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "FACBACK1",
+      "description": "Back of factory 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 136564,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007566",
+      "filename": "FACBACK1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "FACBACK2",
+      "description": "Back of factory 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 135710,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100074a9",
+      "filename": "FACBACK2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "GDSOUT1",
+      "description": "Goods out 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 73087,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003e83",
+      "filename": "GDSOUT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "GDSOUT2",
+      "description": "Goods out 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 74894,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004013",
+      "filename": "GDSOUT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "BAKRGHT1",
+      "description": "Fac back right 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 40560,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002263",
+      "filename": "BAKRGHT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "BAKRGHT2",
+      "description": "Fac back right 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 26103,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100015e3",
+      "filename": "BAKRGHT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "BAKRGHT3",
+      "description": "Fac back right 3",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 109228,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005dc3",
+      "filename": "BAKRGHT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 115,
+      "name": "FACBACK3",
+      "description": "Back of factory 3 ",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 15713,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ce7",
+      "filename": "FACBACK3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 116,
+      "name": "FACBACK4",
+      "description": "Back of factory 4 ",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 19779,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000106b",
+      "filename": "FACBACK4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 117,
+      "name": "STEPSIDE",
+      "description": "Side of steps ",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "STEPSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "FURNFRNT",
+      "description": "Front of furnace",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 102000,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005783",
+      "filename": "FURNFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 119,
+      "name": "FURNSIDE",
+      "description": "Side of furnace",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 76701,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100041a3",
+      "filename": "FURNSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 120,
+      "name": "SPOUT1",
+      "description": "spout 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 9614,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007a1",
+      "filename": "SPOUT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 121,
+      "name": "SPOUT2",
+      "description": "spout 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 1956,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000102",
+      "filename": "SPOUT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 122,
+      "name": "SPOUT3",
+      "description": "spout 3",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 5684,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000043b",
+      "filename": "SPOUT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 123,
+      "name": "BIGSIDE1",
+      "description": "Factory bid side 1",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 123685,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006a43",
+      "filename": "BIGSIDE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 124,
+      "name": "BIGSIDE2",
+      "description": "Factory bid side 2",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 123685,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006a43",
+      "filename": "BIGSIDE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 125,
+      "name": "CONTOP",
+      "description": "Container top",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "CONTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 126,
+      "name": "CONTRUST",
+      "description": "Container rusty water",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "CONTRUST.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 127,
+      "name": "CONTRST2",
+      "description": "Container rusty hole ",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "CONTRST2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 128,
+      "name": "CONTAINA",
+      "description": "Container very top side",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 6519,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004f4",
+      "filename": "CONTAINA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 129,
+      "name": "CONTAINB",
+      "description": "Container very top side",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 6542,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004f9",
+      "filename": "CONTAINB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 130,
+      "name": "CONTAINC",
+      "description": "Container very top",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 6383,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100004d6",
+      "filename": "CONTAINC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 131,
+      "name": "CONTROOF",
+      "description": "Container roof inside",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "CONTROOF.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 133,
+      "name": "CONTIN1",
+      "description": "Inside of the container",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 96597,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100052d7",
+      "filename": "CONTIN1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 134,
+      "name": "CONTIN2",
+      "description": "Inside of the container",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 91575,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004e80",
+      "filename": "CONTIN2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 135,
+      "name": "CONTIN11",
+      "description": "Inside of the container",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 96597,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100052d7",
+      "filename": "CONTIN11.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 137,
+      "name": "ENJNA",
+      "description": "engine wee side bit",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 11389,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000092a",
+      "filename": "ENJNA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 138,
+      "name": "ENJNB",
+      "description": "engine slab side",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 24531,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001487",
+      "filename": "ENJNB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 139,
+      "name": "ENJNBTOP",
+      "description": "engine spine bit",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 3154,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000020b",
+      "filename": "ENJNBTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 140,
+      "name": "ENJNFRNT",
+      "description": "enji frontside",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 15559,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000cc5",
+      "filename": "ENJNFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 141,
+      "name": "ENJINTOP",
+      "description": "top tex",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "ENJINTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 142,
+      "name": "SPINE",
+      "description": "engine spine",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 8503,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006ab",
+      "filename": "SPINE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 143,
+      "name": "SPINELFT",
+      "description": "engine spine left",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 10942,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008c7",
+      "filename": "SPINELFT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 144,
+      "name": "SPINERGT",
+      "description": "engine spine right",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 11240,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000909",
+      "filename": "SPINERGT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 145,
+      "name": "LADDER",
+      "description": "Telescopic ladder",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 26013,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100015cf",
+      "filename": "LADDER.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 146,
+      "name": "CONTAINX",
+      "description": "container ladder shad",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 98527,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005483",
+      "filename": "CONTAINX.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 147,
+      "name": "CONCRET2",
+      "description": "Yellow concrete",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCRET2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 148,
+      "name": "SKIPSID3",
+      "description": "Skip side",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 40560,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002263",
+      "filename": "SKIPSID3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 149,
+      "name": "SKIPSID4",
+      "description": "Skip side",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 40560,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002263",
+      "filename": "SKIPSID4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 150,
+      "name": "SKYBLUE",
+      "description": "Blue Skyline",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKYBLUE.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "EXITCHUT",
+      "description": "Trash funnel to skip",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 8557,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x800006db",
+      "filename": "EXITCHUT.gif",
+      "flags": [
+        "0x8000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "TREE",
+      "description": "Tree",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 14640,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000bfa",
+      "filename": "TREE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "LAMPOST",
+      "description": "Ye Olde Lamp post",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 30892,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801a07",
+      "filename": "LAMPOST.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "CORILITE",
+      "description": "Entrance light",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 3199,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800215",
+      "filename": "CORILITE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "2CHIMNEY",
+      "description": "Smokin' chimney ",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 116561,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110004ab",
+      "filename": "2CHIMNEY.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "SMOKE",
+      "description": "Some smoke",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 38142,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110001b0",
+      "filename": "SMOKE.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "BIGCHIM",
+      "description": "Big chimney",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 29627,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100018ef",
+      "filename": "BIGCHIM.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "CHIMNEY",
+      "description": "Smokin' chimney2",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 116561,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110004ab",
+      "filename": "CHIMNEY.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "FIRE",
+      "description": "Furnace fire",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 2568928,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11005471",
+      "filename": "FIRE.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "OILDRUM",
+      "description": "Oil drum generic",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 9424,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000777",
+      "filename": "OILDRUM.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "GASBOTT1",
+      "description": "Gas bottle",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 5138,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100003c3",
+      "filename": "GASBOTT1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4109,
+      "name": "COG",
+      "description": "Gog!",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 4446,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800329",
+      "filename": "COG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4110,
+      "name": "FUELCAN",
+      "description": "Fuel can",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 5527,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000419",
+      "filename": "FUELCAN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "OILDRUM1",
+      "description": "Oil drum raft",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 9424,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000777",
+      "filename": "OILDRUM1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4112,
+      "name": "OILDRUM2",
+      "description": "Oil drum raft",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 9424,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000777",
+      "filename": "OILDRUM2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "OILDRUM3",
+      "description": "Oil drum raft",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 9424,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000777",
+      "filename": "OILDRUM3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "FIRE2",
+      "description": "Chimney fire",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 425261,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180135e",
+      "filename": "FIRE2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "SHITSLOP",
+      "description": "Falling dust",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 108497,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11000615",
+      "filename": "SHITSLOP.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "OBJFALL1",
+      "description": "Falling goodies",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 468488,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1100073e",
+      "filename": "OBJFALL1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4118,
+      "name": "OBJFALL2",
+      "description": "Falling goodies ",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 2180853,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110013d0",
+      "filename": "OBJFALL2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "BUSTOP",
+      "description": "Bus Stop",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 38768,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108020d7",
+      "filename": "BUSTOP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "CCTV",
+      "description": "Closed circuit tv",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 2259,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10100145",
+      "filename": "CCTV.gif",
+      "flags": [
+        "0x10",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "RUSTCOG",
+      "description": "Rusty cog",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 4446,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800329",
+      "filename": "RUSTCOG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4122,
+      "name": "FUMES",
+      "description": "Fumes from container",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 31131,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11000135",
+      "filename": "FUMES.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "OXYTORCH",
+      "description": "Oxyacetelene blowtorch",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 28995,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801863",
+      "filename": "OXYTORCH.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "PISTON",
+      "description": "Engine pistons",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 1999,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080010c",
+      "filename": "PISTON.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "OILDRUM4",
+      "description": "Oil drum raft",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 9424,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000777",
+      "filename": "OILDRUM4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4127,
+      "name": "RAFTSIGN",
+      "description": "Raft sign in water",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 185025,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110002dd",
+      "filename": "RAFTSIGN.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "BLODOR1",
+      "description": "Blown off door",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 5988,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000047f",
+      "filename": "BLODOR1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "BLODOR2",
+      "description": "Blown off door",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 7113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000578",
+      "filename": "BLODOR2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "OILDRUM5",
+      "description": "Oil drum that sinks",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 9424,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000777",
+      "filename": "OILDRUM5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4131,
+      "name": "SPLOT1",
+      "description": "Splash of yeller",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 2243,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800142",
+      "filename": "SPLOT1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "SPLOT2",
+      "description": "Splash of yeller",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 1231,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800062",
+      "filename": "SPLOT2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4133,
+      "name": "SPLOT3",
+      "description": "Splash of yeller",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 1018,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800033",
+      "filename": "SPLOT3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4134,
+      "name": "RAFT",
+      "description": "Completed raft on land",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 24589,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10001494",
+      "filename": "RAFT.gif",
+      "flags": [
+        "0x2",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4136,
+      "name": "RAFT1",
+      "description": "Raft in water",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 329041,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11001111",
+      "filename": "RAFT1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4137,
+      "name": "RAFT2",
+      "description": "Raft in water with bottles",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 393425,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1100143d",
+      "filename": "RAFT2.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4138,
+      "name": "SMOLDER",
+      "description": "Smoldering metal",
+      "animated": true,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 190465,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11000ae7",
+      "filename": "SMOLDER.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4139,
+      "name": "OXY2",
+      "description": "Oxyacetelene blowtorch",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 27937,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801779",
+      "filename": "OXY2.gif",
+      "flags": [
+        "0x1",
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4140,
+      "name": "GASBOTT2",
+      "description": "Gas bottle",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 5138,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100003c3",
+      "filename": "GASBOTT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4141,
+      "name": "GASBOTT3",
+      "description": "Gas bottle",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 5138,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100003c3",
+      "filename": "GASBOTT3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4142,
+      "name": "GASBOTT4",
+      "description": "Gas bottle",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 5138,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x100003c3",
+      "filename": "GASBOTT4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4148,
+      "name": "MOORING",
+      "description": "Mooring post",
+      "animated": false,
+      "origin": "FACTOUT.DAS",
+      "offset": 4194304,
+      "size": 4945,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800398",
+      "filename": "MOORING.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    }
+  ]
+}

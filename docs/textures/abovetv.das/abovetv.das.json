@@ -1,0 +1,1114 @@
+{
+  "files": [
+    {
+      "index": 1,
+      "name": "CRATE1-1",
+      "description": "Crate front",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 7581,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005df",
+      "filename": "CRATE1-1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "CRATE1-2",
+      "description": "Crate side ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 9049,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000724",
+      "filename": "CRATE1-2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "WOODARK",
+      "description": "Dark wood",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "WOODARK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4,
+      "name": "WOODLITE",
+      "description": "Light wood",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "WOODLITE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "WOODLIT2",
+      "description": "Light wood Z-flip",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "WOODLIT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "FLORBDS2",
+      "description": "Floor & ceil (main) ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "FLORBDS2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "WOODARK2",
+      "description": "Dark wood Z-flip",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "WOODARK2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "LOFTHACH",
+      "description": "Loft hatch",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "LOFTHACH.gif",
+      "flags": []
+    },
+    {
+      "index": 9,
+      "name": "BOX1FRNT",
+      "description": "Front of box 1",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 36223,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ea3",
+      "filename": "BOX1FRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "BOX1SID1",
+      "description": "Side1 box1 sect1",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 13002,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000a8f",
+      "filename": "BOX1SID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "BOX1SID2",
+      "description": "Side1 box1 sect2",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 10201,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000823",
+      "filename": "BOX1SID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "BOX2FRNT",
+      "description": "Front of box 2",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 21134,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001197",
+      "filename": "BOX2FRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "BOX2SID1",
+      "description": "Side 1 box 1",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 19101,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000fd5",
+      "filename": "BOX2SID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "BOXTOP",
+      "description": "Top of vid box",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "BOXTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "BOX3FRNT",
+      "description": "front of box 3",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 7807,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000611",
+      "filename": "BOX3FRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "BOX3SID1",
+      "description": "Box 3 side 1",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 7355,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005ad",
+      "filename": "BOX3SID1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "BOX3SID2",
+      "description": "Box 3 side 2 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 7355,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005ad",
+      "filename": "BOX3SID2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "INSULATN",
+      "description": "Loft insulation",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "INSULATN.gif",
+      "flags": []
+    },
+    {
+      "index": 19,
+      "name": "CEIL",
+      "description": "Ceiling texture ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "CEIL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "LOFTWL1",
+      "description": "Loft wall 1",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 17746,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ea9",
+      "filename": "LOFTWL1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "LOFTWL2",
+      "description": "Loft wall 2 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 40560,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002263",
+      "filename": "LOFTWL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "LOFTWL3",
+      "description": "Loft wall 3 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 41463,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000232b",
+      "filename": "LOFTWL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "LOFTWL4",
+      "description": "Loft wall 4 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 3109,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000201",
+      "filename": "LOFTWL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "LOFTWL5",
+      "description": "Loft wall 5 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 8033,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000643",
+      "filename": "LOFTWL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "LOFTWL6",
+      "description": "Loft wall 6 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 9478,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000783",
+      "filename": "LOFTWL6.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "LOFTWL7",
+      "description": "Loft wall 7 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 3081,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001fb",
+      "filename": "LOFTWL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "LOFTWL8",
+      "description": "Loft wall 8 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 39882,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100021cd",
+      "filename": "LOFTWL8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "LOFTWL9",
+      "description": "Loft wall 9 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 3109,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000201",
+      "filename": "LOFTWL9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "LOFTWL10",
+      "description": "Loft wall 10 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 44626,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100025e7",
+      "filename": "LOFTWL10.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "LOFTWL6A",
+      "description": "Broken slats back",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 9478,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000783",
+      "filename": "LOFTWL6A.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "LOFTWL6B",
+      "description": "Broken slats frnt ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 9478,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000783",
+      "filename": "LOFTWL6B.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "SLATS1",
+      "description": "Slats 2nd wall",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 9478,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000783",
+      "filename": "SLATS1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "SLATS2",
+      "description": "Slats 2nd wall broken",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 9478,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000783",
+      "filename": "SLATS2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "SLATS3",
+      "description": "Slats 2nd wall back",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 9478,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000783",
+      "filename": "SLATS3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "LOFTWL11",
+      "description": "Loft wall 11 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 68569,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003a9b",
+      "filename": "LOFTWL11.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "LOFTWL12",
+      "description": "Loft wall 12 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 44626,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100025e7",
+      "filename": "LOFTWL12.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "LOFTWL13",
+      "description": "Loft wall 13 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 3109,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000201",
+      "filename": "LOFTWL13.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "LOFTWL14",
+      "description": "Loft wall 14 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 5096,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003b9",
+      "filename": "LOFTWL14.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "LOFTWL15",
+      "description": "Loft wall 15 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 3515,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000025b",
+      "filename": "LOFTWL15.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "LOFTWL16",
+      "description": "Loft wall 16 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 7129,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000057b",
+      "filename": "LOFTWL16.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "LOFTWL17",
+      "description": "Loft wall 17 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 4645,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000355",
+      "filename": "LOFTWL17.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "LOFTWL18",
+      "description": "Loft wall 18 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 1256,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000067",
+      "filename": "LOFTWL18.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "LOFTWL19",
+      "description": "Loft wall 19 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 3967,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002bf",
+      "filename": "LOFTWL19.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "LOFTWL20",
+      "description": "Loft wall 20 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 27007,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100016ab",
+      "filename": "LOFTWL20.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "LOFTWL21",
+      "description": "Loft wall 21 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 3109,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000201",
+      "filename": "LOFTWL21.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "LOFTWL22",
+      "description": "Loft wall 22 ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 15713,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ce7",
+      "filename": "LOFTWL22.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "OLDTELI1",
+      "description": "Old teli front",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 44174,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002583",
+      "filename": "OLDTELI1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "OLDTELI2",
+      "description": "Side of old teli",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 27549,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001723",
+      "filename": "OLDTELI2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "VIEW1",
+      "description": "View No.1",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "VIEW1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "GRILLE",
+      "description": "Dark grille",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "GRILLE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "VIEW3A",
+      "description": "View No. 3a",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "VIEW3A.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "VIEW3B",
+      "description": "View No. 3b",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "VIEW3B.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "VIEW3C",
+      "description": "View No. 3c",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "VIEW3C.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "VIEW3D",
+      "description": "View No. 3d",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "VIEW3D.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "VIEW2A",
+      "description": "view No. 2a",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "VIEW2A.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "VIEW2B",
+      "description": "view No. 2b ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "VIEW2B.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "VIEW2C",
+      "description": "view No. 2c ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "VIEW2C.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 59,
+      "name": "VIEW2D",
+      "description": "view No. 2d ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "VIEW2D.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 60,
+      "name": "ODDTHING",
+      "description": "Flashy light dark room",
+      "animated": true,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 146261,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000183",
+      "filename": "ODDTHING.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 61,
+      "name": "WEAKROOF",
+      "description": "Weak bit of floor",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "WEAKROOF.gif",
+      "flags": []
+    },
+    {
+      "index": 62,
+      "name": "OLDEPICY",
+      "description": "Olde picture ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "OLDEPICY.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "TANKSIDE",
+      "description": "Side of tank",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 11105,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008eb",
+      "filename": "TANKSIDE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "TANKPROP",
+      "description": "Water tank leg",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 4386,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080031c",
+      "filename": "TANKPROP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "LAGPIPE",
+      "description": "Lagged pipe",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 18875,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800fa3",
+      "filename": "LAGPIPE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "LAGPIPE2",
+      "description": "Lagged pipe ",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 18875,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800fa3",
+      "filename": "LAGPIPE2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "ORNAMENT",
+      "description": "Oriental ornament",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 26013,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108015cf",
+      "filename": "ORNAMENT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "MALIT",
+      "description": "Mallet",
+      "animated": false,
+      "origin": "ABOVETV.DAS",
+      "offset": 786432,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800203",
+      "filename": "MALIT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    }
+  ]
+}

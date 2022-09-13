@@ -1,0 +1,4446 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "SKY",
+      "description": "Skyline",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "DISTFLAT",
+      "description": "distant lights in flats",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 14018,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000b70",
+      "filename": "DISTFLAT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "CONCRETE",
+      "description": "Road texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCRETE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 3,
+      "name": "GRASS",
+      "description": "Grass",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "GRASS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "BRICK",
+      "description": "Brick texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "BRICK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "PAVING",
+      "description": "Pavement texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "PAVING.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "KERBEDGE",
+      "description": "Edge of kerb texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "KERBEDGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "KERBFRNT",
+      "description": "front of kerb texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 12460,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000a17",
+      "filename": "KERBFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "GATE1",
+      "description": "Gate No. 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 100645,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005657",
+      "filename": "GATE1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "ROADSIGN",
+      "description": "Big road sign (Yank version)",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 84715,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004891",
+      "filename": "ROADSIGN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "STEPFRNT",
+      "description": "Front of stairs",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 13815,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000b43",
+      "filename": "STEPFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "UNDASTR1",
+      "description": "Underneath of stairs",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 13815,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000b43",
+      "filename": "UNDASTR1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "CONCFLOR",
+      "description": "Smooth concrete texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCFLOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "CONCCIEL",
+      "description": "Smooth concrete (dark)",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCCIEL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "BUILDIN1",
+      "description": "Fluffy's & Liquor store",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BUILDIN1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "BRICK2",
+      "description": "Brick texture 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BRICK2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "BRICK3",
+      "description": "Brick texture 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002003",
+      "filename": "BRICK3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "PILAFRNT",
+      "description": "Front of pillar",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 29875,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001926",
+      "filename": "PILAFRNT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "PILARGHT",
+      "description": "Right h/s of pillar sect 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 15339,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c95",
+      "filename": "PILARGHT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "PILRGHT2",
+      "description": "Right h/s of pillar sect 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 15339,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c95",
+      "filename": "PILRGHT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "PILALEFT",
+      "description": "Left h/s of pillar sect 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10494,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000864",
+      "filename": "PILALEFT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "PILLEFT2",
+      "description": "Left h/s of pillar sect 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 5684,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000043b",
+      "filename": "PILLEFT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "PILLEFT3",
+      "description": "Left h/s of pillar sect 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10494,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000864",
+      "filename": "PILLEFT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "WALL",
+      "description": "Perimeter wall texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004003",
+      "filename": "WALL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 26,
+      "name": "GASTOWER",
+      "description": "Gas tower texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 131251,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100070ce",
+      "filename": "GASTOWER.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "NEWSTAND",
+      "description": "Newspaper stand/poster thing",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 35093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001da9",
+      "filename": "NEWSTAND.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "CLBDOREJ",
+      "description": "Night club inner wall",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 7807,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000611",
+      "filename": "CLBDOREJ.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "CLBDORJ2",
+      "description": "Night club inner wall sect2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 7355,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005ad",
+      "filename": "CLBDORJ2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "CLUBLITE",
+      "description": "Night club entrance ceil",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "CLUBLITE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 31,
+      "name": "CLUBFRNT",
+      "description": "Doors to club",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 83014,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004719",
+      "filename": "CLUBFRNT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 32,
+      "name": "CLBFRNT1",
+      "description": "Night club facade sect 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 32586,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001b7e",
+      "filename": "CLBFRNT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 33,
+      "name": "CLBFRNT2",
+      "description": "Night club facade sect 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 100023,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100055ce",
+      "filename": "CLBFRNT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "CLBFRNT3",
+      "description": "Night club facade sect 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 33343,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c26",
+      "filename": "CLBFRNT3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "CLBSIDE1",
+      "description": "Club left side sect 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 31073,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001a2f",
+      "filename": "CLBSIDE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "CLBSIDE2",
+      "description": "Club left side sect 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 57049,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100030a5",
+      "filename": "CLBSIDE2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "CLBSIDE3",
+      "description": "Club left side sect 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 83026,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000471b",
+      "filename": "CLBSIDE3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 38,
+      "name": "CLBSIDE4",
+      "description": "Club left side sect 4",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 98295,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000544f",
+      "filename": "CLBSIDE4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "CLBSIDE5",
+      "description": "Club left side sect 5",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 98295,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000544f",
+      "filename": "CLBSIDE5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "BOLLARD3",
+      "description": "Front of bollard",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 5864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000463",
+      "filename": "BOLLARD3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "BOLLARD4",
+      "description": "Side of bollard",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 5864,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000463",
+      "filename": "BOLLARD4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "CLBSIDE6",
+      "description": "Club right side sect 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 98295,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000544f",
+      "filename": "CLBSIDE6.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "CLBSIDE7",
+      "description": "Club right side sect 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 98295,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000544f",
+      "filename": "CLBSIDE7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "CLBSIDE8",
+      "description": "Club right side sect 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 83026,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000471b",
+      "filename": "CLBSIDE8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "CLBSIDE9",
+      "description": "Club right side sect 4",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 31073,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001a2f",
+      "filename": "CLBSIDE9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "CLBSID10",
+      "description": "Club right side sect 5",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 57049,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100030a5",
+      "filename": "CLBSID10.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "CLUBACK1",
+      "description": "Club back sect 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 83026,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000471b",
+      "filename": "CLUBACK1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "CLUBACK2",
+      "description": "Club back sect 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 126417,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006ca0",
+      "filename": "CLUBACK2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "CLUBACK3",
+      "description": "Club back sect 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 126417,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006ca0",
+      "filename": "CLUBACK3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "NEWS1",
+      "description": "Newsagent sect 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 128835,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006eb7",
+      "filename": "NEWS1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "NEWS2",
+      "description": "Newsagent sect 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 128835,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006eb7",
+      "filename": "NEWS2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "TELLYS",
+      "description": "Tellies in TV shop window",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2550843,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110025f1",
+      "filename": "TELLYS.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "SHOPWIN",
+      "description": "Telly shop window",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 62205,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000351b",
+      "filename": "SHOPWIN.gif",
+      "flags": [
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 62,
+      "name": "CINTOP1",
+      "description": "Above cinema sect 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 107060,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005be3",
+      "filename": "CINTOP1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 63,
+      "name": "CINTOP2",
+      "description": "Above cinema sect 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 107060,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005be3",
+      "filename": "CINTOP2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 64,
+      "name": "CINTOP3",
+      "description": "Above cinema sect 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 107060,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005be3",
+      "filename": "CINTOP3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 65,
+      "name": "CINTOP4",
+      "description": "Above cinema sect 4",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 107060,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005be3",
+      "filename": "CINTOP4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 66,
+      "name": "CINDOORS",
+      "description": "Cinema Doors",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 63419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003627",
+      "filename": "CINDOORS.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 67,
+      "name": "CBIGSTEP",
+      "description": "Cinema big step",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10924,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008c3",
+      "filename": "CBIGSTEP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 68,
+      "name": "CWEESTEP",
+      "description": "Other step",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 7762,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000607",
+      "filename": "CWEESTEP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 69,
+      "name": "LFTWALL1",
+      "description": "Foyer section 1 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 45902,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002702",
+      "filename": "LFTWALL1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 70,
+      "name": "LFTWALL2",
+      "description": "Foyer section 2 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 48634,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000295f",
+      "filename": "LFTWALL2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 71,
+      "name": "RGTWALL1",
+      "description": "Foyer section 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 47020,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100027f9",
+      "filename": "RGTWALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 72,
+      "name": "RGTWALL2",
+      "description": "Foyer section 4",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 49821,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002a65",
+      "filename": "RGTWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 73,
+      "name": "CINETILE",
+      "description": "Cinema Floor texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "CINETILE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 74,
+      "name": "CINROOF2",
+      "description": "Cinema Ceiling",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "CINROOF2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 75,
+      "name": "FLAT1",
+      "description": "Appartment back sect 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 30621,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100019cb",
+      "filename": "FLAT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 76,
+      "name": "FLAT2",
+      "description": "Appartment back sect 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 53837,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002dde",
+      "filename": "FLAT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 77,
+      "name": "FLAT3",
+      "description": "Appartment back sect 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 125492,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006bd3",
+      "filename": "FLAT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 78,
+      "name": "FLAT4",
+      "description": "Appartment back sect 4",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 124588,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006b0b",
+      "filename": "FLAT4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 79,
+      "name": "FLAT5",
+      "description": "Appartment back sect 5",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 122781,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000697b",
+      "filename": "FLAT5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 80,
+      "name": "FLAT6",
+      "description": "Appartment back sect 6",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 122781,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000697b",
+      "filename": "FLAT6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 81,
+      "name": "FLAT7",
+      "description": "Appartment back sect 7",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 122781,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000697b",
+      "filename": "FLAT7.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 82,
+      "name": "FLATDOOR",
+      "description": "Apt entrance door",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "FLATDOOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 83,
+      "name": "FLATOP1",
+      "description": "Appartment back upper 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 119122,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006651",
+      "filename": "FLATOP1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 84,
+      "name": "FLATOP2",
+      "description": "Appartment back upper 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 119122,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006651",
+      "filename": "FLATOP2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 85,
+      "name": "FLATOP3",
+      "description": "Appartment back upper 3 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 76177,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000412f",
+      "filename": "FLATOP3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 86,
+      "name": "FLATOP4",
+      "description": "Appartment back upper 4 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 29726,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001905",
+      "filename": "FLATOP4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 87,
+      "name": "TVWALL1",
+      "description": "tv shop wallpaper bit 1 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 72160,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003db6",
+      "filename": "TVWALL1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 88,
+      "name": "TVWALL2",
+      "description": "tv shop wallpaper bit 2 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 13225,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ac1",
+      "filename": "TVWALL2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 89,
+      "name": "TVWALL3",
+      "description": "tv shop wallpaper bit 3 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 48511,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002943",
+      "filename": "TVWALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 90,
+      "name": "TVWALL4",
+      "description": "tv shop wallpaper bit 4 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 20890,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001161",
+      "filename": "TVWALL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 91,
+      "name": "TVWALL5",
+      "description": "tv shop wallpaper bit 5 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 32857,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001bba",
+      "filename": "TVWALL5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 92,
+      "name": "TVWALL6",
+      "description": "tv shop wallpaper bit 6 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 107770,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005c81",
+      "filename": "TVWALL6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 93,
+      "name": "TVWALL7",
+      "description": "tv shop wallpaper bit 7 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 60064,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003341",
+      "filename": "TVWALL7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 94,
+      "name": "TVWALL8",
+      "description": "tv shop wallpaper bit 8 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 18321,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000f29",
+      "filename": "TVWALL8.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 95,
+      "name": "TVWALL9",
+      "description": "tv shop wallpaper bit 9 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 13225,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ac1",
+      "filename": "TVWALL9.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 96,
+      "name": "TVDREDGE",
+      "description": "thin wall bit by door",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 7885,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000623",
+      "filename": "TVDREDGE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 97,
+      "name": "TVDORTOP",
+      "description": "wall bit above door",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 25945,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100015c0",
+      "filename": "TVDORTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 98,
+      "name": "TVDRTOP2",
+      "description": "wall bit above outer door",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 8100,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000652",
+      "filename": "TVDRTOP2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 99,
+      "name": "TVDEDGE2",
+      "description": "wall side of outer door",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 19812,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001073",
+      "filename": "TVDEDGE2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 100,
+      "name": "TVWINTOP",
+      "description": "wall above window",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 9291,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000075a",
+      "filename": "TVWINTOP.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 101,
+      "name": "TVWINBOT",
+      "description": "wall below window",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 13284,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ace",
+      "filename": "TVWINBOT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 102,
+      "name": "TVDRFRNT",
+      "description": "tv door 'front' ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 38068,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000203c",
+      "filename": "TVDRFRNT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 103,
+      "name": "TVDRBACK",
+      "description": "tv door 'back' ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 25188,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001519",
+      "filename": "TVDRBACK.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 104,
+      "name": "TVDRSHUT",
+      "description": "tv door 'front'but shut ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 25381,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001543",
+      "filename": "TVDRSHUT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 105,
+      "name": "ARTEX",
+      "description": "luvly ceiling texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "ARTEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 106,
+      "name": "TVCUBRD1",
+      "description": "larger cupboard section",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 8611,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006c3",
+      "filename": "TVCUBRD1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 107,
+      "name": "TVCUBRD2",
+      "description": "smaller cupboard sect 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 4708,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000363",
+      "filename": "TVCUBRD2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 108,
+      "name": "TVCUBD2B",
+      "description": "smaller cupboard sect 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 4599,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000034b",
+      "filename": "TVCUBD2B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 109,
+      "name": "TVWAL1B",
+      "description": "wall in cubby corner",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 17719,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ea3",
+      "filename": "TVWAL1B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 110,
+      "name": "TVWAL2B",
+      "description": "mid section,tv wall",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 38068,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000203c",
+      "filename": "TVWAL2B.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 111,
+      "name": "TVWAL2C",
+      "description": "end section,tv wall",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 42297,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100023e4",
+      "filename": "TVWAL2C.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 112,
+      "name": "GREENTEX",
+      "description": "green felt texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "GREENTEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 113,
+      "name": "TVCARPET",
+      "description": "purple carpet tex",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "TVCARPET.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 114,
+      "name": "TVBNKBAK",
+      "description": "tv bank back panel",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 78056,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100042cf",
+      "filename": "TVBNKBAK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 115,
+      "name": "TVBNKLFT",
+      "description": "tv bank left panel ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 18084,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ef4",
+      "filename": "TVBNKLFT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 116,
+      "name": "TVBNKRGT",
+      "description": "tv bank right panel ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 18084,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ef4",
+      "filename": "TVBNKRGT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 117,
+      "name": "CASHBACK",
+      "description": "back of cash register",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 956721,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110008df",
+      "filename": "CASHBACK.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 118,
+      "name": "CASHFNT1",
+      "description": "top front-cash reg",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 6768,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000052b",
+      "filename": "CASHFNT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 119,
+      "name": "CASHFNT2",
+      "description": "mid front-cash reg",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2792,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001bb",
+      "filename": "CASHFNT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 120,
+      "name": "CASHFNT3",
+      "description": "bot front-cash reg",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 4780,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000373",
+      "filename": "CASHFNT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 126,
+      "name": "COUNTER1",
+      "description": "Front of the counter in tvshac",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 24007,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001413",
+      "filename": "COUNTER1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 127,
+      "name": "COUNTER2",
+      "description": "Side of the counter in tvshack",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 8828,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100006f3",
+      "filename": "COUNTER2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 128,
+      "name": "TVFRNT1",
+      "description": "Front of the tv shop1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 29776,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001910",
+      "filename": "TVFRNT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 129,
+      "name": "TVFRNT2",
+      "description": "Front of the tv shop2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 18093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ef6",
+      "filename": "TVFRNT2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 130,
+      "name": "TVFRNT3",
+      "description": "Front of the tv shop3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 14470,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bd4",
+      "filename": "TVFRNT3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 131,
+      "name": "TVFRNT4",
+      "description": "Front of the tv shop4",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 42548,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000241b",
+      "filename": "TVFRNT4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 132,
+      "name": "TVFRNT5",
+      "description": "Front of the tv shop5",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 4034,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002ce",
+      "filename": "TVFRNT5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 133,
+      "name": "TVFRNT6",
+      "description": "Front of the tv shop6",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 47268,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002830",
+      "filename": "TVFRNT6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 134,
+      "name": "POWER1",
+      "description": "The front bit of substation",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 25403,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001548",
+      "filename": "POWER1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 135,
+      "name": "POWER2",
+      "description": "The front bit of substation",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 11647,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000963",
+      "filename": "POWER2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 136,
+      "name": "POWER3",
+      "description": "The front bit of substation",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2268,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000147",
+      "filename": "POWER3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 137,
+      "name": "POWER4",
+      "description": "The front bit of substation",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 37429,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001fae",
+      "filename": "POWER4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 138,
+      "name": "GRILLE",
+      "description": "Grille in the window",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 4166,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002eb",
+      "filename": "GRILLE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 139,
+      "name": "HATCH",
+      "description": "Hatch for TV shop",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "HATCH.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 141,
+      "name": "STORWAL1",
+      "description": "Storwall 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 62097,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003503",
+      "filename": "STORWAL1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 142,
+      "name": "STORWAL2",
+      "description": "Storwall 2 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 51729,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c0c",
+      "filename": "STORWAL2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 143,
+      "name": "TVCARPDK",
+      "description": "TV shop carpet DARK",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "TVCARPDK.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 148,
+      "name": "SHUTTER1",
+      "description": "TV SHOP door closed",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 25188,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001519",
+      "filename": "SHUTTER1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 149,
+      "name": "SHUTTER2",
+      "description": "TV SHOP window closed",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 62205,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000351b",
+      "filename": "SHUTTER2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 150,
+      "name": "COUNTER3",
+      "description": "Behind counter with key",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 24007,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001413",
+      "filename": "COUNTER3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 151,
+      "name": "COUNTR3B",
+      "description": "Behind counter without Key",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 24007,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001413",
+      "filename": "COUNTR3B.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 152,
+      "name": "STEPTOP",
+      "description": "Step top",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "STEPTOP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 153,
+      "name": "STORDOOR",
+      "description": "Door to the TV shop store room",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 14332,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bb6",
+      "filename": "STORDOOR.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 164,
+      "name": "RDCLOSD1",
+      "description": "Road closed barrier 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 69870,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003bbb",
+      "filename": "RDCLOSD1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 165,
+      "name": "TRUKTELY",
+      "description": "Truck Telly on TV",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 337046,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110012d1",
+      "filename": "TRUKTELY.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 166,
+      "name": "TELLYSID",
+      "description": "Side of the telly",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 5141,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003c3",
+      "filename": "TELLYSID.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 167,
+      "name": "MRNEWSID",
+      "description": "The side of Mr news",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 34009,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001cb9",
+      "filename": "MRNEWSID.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 168,
+      "name": "VIDEO",
+      "description": "Video front",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 4419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000323",
+      "filename": "VIDEO.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 169,
+      "name": "TILLYTOP",
+      "description": "Till top",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x803",
+      "filename": "TILLYTOP.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 185,
+      "name": "SUBSHOT",
+      "description": "Snapshot of substation",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 145369,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10007d03",
+      "filename": "SUBSHOT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 186,
+      "name": "BILLBORD",
+      "description": "Billbord",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 118571,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100065d7",
+      "filename": "BILLBORD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 187,
+      "name": "BUILDIN2",
+      "description": "Building across the way..",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BUILDIN2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 188,
+      "name": "BUILDIN3",
+      "description": "Building across the way..",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BUILDIN3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 189,
+      "name": "BACKWAL1",
+      "description": "Backwall to the flat 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 64124,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100036c3",
+      "filename": "BACKWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 190,
+      "name": "BACKWAL2",
+      "description": "Backwall to the flat 2 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 64413,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003703",
+      "filename": "BACKWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 191,
+      "name": "BACKWAL3",
+      "description": "Backwall to the flat 3 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 89278,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004c83",
+      "filename": "BACKWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 192,
+      "name": "WASH1",
+      "description": "Side of the wash tub",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 11918,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000099f",
+      "filename": "WASH1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 193,
+      "name": "WASH2",
+      "description": "Side of the wash tub",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 9067,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000728",
+      "filename": "WASH2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 194,
+      "name": "BOXSIDE1",
+      "description": "Wall of the cradle 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 14357,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000bbb",
+      "filename": "BOXSIDE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 195,
+      "name": "BOXSIDE2",
+      "description": "Wall of the cradle 2 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 22941,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001327",
+      "filename": "BOXSIDE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 196,
+      "name": "BOXSIDE3",
+      "description": "Wall of the cradle 3 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 8259,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000675",
+      "filename": "BOXSIDE3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 197,
+      "name": "BOXSIDE4",
+      "description": "Wall of the cradle 4 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2657,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000019d",
+      "filename": "BOXSIDE4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 198,
+      "name": "BOXSIDE5",
+      "description": "Wall of the cradle 5 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10856,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100008b4",
+      "filename": "BOXSIDE5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 199,
+      "name": "BOXFLOOR",
+      "description": "Floor of the cradle",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "BOXFLOOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 200,
+      "name": "RUSTMETL",
+      "description": "Rusty metal effect on cradle",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "RUSTMETL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 201,
+      "name": "POSTL",
+      "description": "The post edging on the cradle",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2250,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000143",
+      "filename": "POSTL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 202,
+      "name": "POSTD",
+      "description": "The post edging on the cradle",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2250,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000143",
+      "filename": "POSTD.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 203,
+      "name": "WALL1",
+      "description": "Wall in the cradle",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 28055,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001793",
+      "filename": "WALL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 204,
+      "name": "WALL2",
+      "description": "Wall in the cradle ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 32753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001ba3",
+      "filename": "WALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 205,
+      "name": "WALL3",
+      "description": "Wall in the cradle ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 28290,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100017c7",
+      "filename": "WALL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 206,
+      "name": "TENTFRNT",
+      "description": "Tent front gap",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 30404,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000199b",
+      "filename": "TENTFRNT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 207,
+      "name": "WATER",
+      "description": "Water in Dai`s bowel",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 3118,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000203",
+      "filename": "WATER.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 208,
+      "name": "BAR1",
+      "description": "The transparent bar on the cra",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 3334,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000233",
+      "filename": "BAR1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 209,
+      "name": "BAR2",
+      "description": "The transparent bar on the cra",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 12279,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100009ef",
+      "filename": "BAR2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 210,
+      "name": "TELLY",
+      "description": "Mr News in cradle",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 468081,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1100103b",
+      "filename": "TELLY.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 211,
+      "name": "TENTTEX",
+      "description": "Tent texture",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "TENTTEX.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 212,
+      "name": "TENTED1",
+      "description": "Tent edge1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2901,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001d3",
+      "filename": "TENTED1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 213,
+      "name": "TENTED2",
+      "description": "Tent edge2 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2901,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001d3",
+      "filename": "TENTED2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 214,
+      "name": "BAR12",
+      "description": "2nd half of bar",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 3696,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000283",
+      "filename": "BAR12.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 215,
+      "name": "CRAD1",
+      "description": "Cradle outer 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 16015,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000d2a",
+      "filename": "CRAD1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 216,
+      "name": "CRAD2",
+      "description": "Cradle outer 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 53014,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002d28",
+      "filename": "CRAD2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 217,
+      "name": "CRAD3",
+      "description": "Cradle outer 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2810,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001bf",
+      "filename": "CRAD3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 218,
+      "name": "CRAD4",
+      "description": "Cradle outer 4",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2810,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001bf",
+      "filename": "CRAD4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 219,
+      "name": "CRAD5",
+      "description": "Cradle outer 5",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 13960,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000b63",
+      "filename": "CRAD5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 220,
+      "name": "CRAD6",
+      "description": "Cradle outer 6",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 10418,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000853",
+      "filename": "CRAD6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 221,
+      "name": "CRAD7",
+      "description": "Cradle outer 7",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2539,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000183",
+      "filename": "CRAD7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 222,
+      "name": "BAR3",
+      "description": "Other side of bar ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 3696,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000283",
+      "filename": "BAR3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 223,
+      "name": "BAR4",
+      "description": "Other side of bar ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 3334,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000233",
+      "filename": "BAR4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 224,
+      "name": "BAR5",
+      "description": "Other side of bar ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 12279,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100009ef",
+      "filename": "BAR5.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 225,
+      "name": "CRAD8",
+      "description": "Cradle outer 8 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 11791,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000983",
+      "filename": "CRAD8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 226,
+      "name": "CRAD9",
+      "description": "Cradle outer 9 ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 15604,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000ccf",
+      "filename": "CRAD9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 227,
+      "name": "BAR6",
+      "description": "Outer start of bar ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 4148,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100002e7",
+      "filename": "BAR6.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 228,
+      "name": "TENTBAK1",
+      "description": "The back of tent",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 20538,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001113",
+      "filename": "TENTBAK1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 229,
+      "name": "TENTBAK2",
+      "description": "The back of tent ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2106,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000123",
+      "filename": "TENTBAK2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 230,
+      "name": "TENTBAK3",
+      "description": "The back of tent ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 16996,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e03",
+      "filename": "TENTBAK3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 231,
+      "name": "AIRGRILL",
+      "description": "Smelly air vent",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 21586,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100011fb",
+      "filename": "AIRGRILL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 232,
+      "name": "GRATE",
+      "description": "Grate over sewer shaft",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 37813,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x2003",
+      "filename": "GRATE.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 233,
+      "name": "WANTCLUB",
+      "description": "Wanted club side",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 98295,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000544f",
+      "filename": "WANTCLUB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 234,
+      "name": "WANTSHUT",
+      "description": "Wanted shutters",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 62205,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000351b",
+      "filename": "WANTSHUT.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 235,
+      "name": "WANTBOLL",
+      "description": "Wanted bollard",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 21044,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001183",
+      "filename": "WANTBOLL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 236,
+      "name": "WANTCINE",
+      "description": "Wanted cinema doors",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 63419,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10003627",
+      "filename": "WANTCINE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 237,
+      "name": "WANTCLBD",
+      "description": "Wanted club doors",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 83014,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004719",
+      "filename": "WANTCLBD.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 238,
+      "name": "WANTSIGN",
+      "description": "wanted road sign",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 84715,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004891",
+      "filename": "WANTSIGN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 239,
+      "name": "WANTNEWS",
+      "description": "Wanted newsagent",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 128835,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006eb7",
+      "filename": "WANTNEWS.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 240,
+      "name": "KIDDY",
+      "description": "Kiddy Play wall",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 29875,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001926",
+      "filename": "KIDDY.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 241,
+      "name": "GATE2",
+      "description": "Gate FUN IS PROHIB",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 100645,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10005657",
+      "filename": "GATE2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 242,
+      "name": "SWINGS",
+      "description": "Swings in park",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 65113,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000379e",
+      "filename": "SWINGS.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 243,
+      "name": "NEWSMALL",
+      "description": "Newsagent posters",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 128835,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006eb7",
+      "filename": "NEWSMALL.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 244,
+      "name": "NWSDLUGE",
+      "description": "Newsagent posters",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 128835,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006eb7",
+      "filename": "NWSDLUGE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 245,
+      "name": "NWSTVSHP",
+      "description": "Newsagent posters",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 128835,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006eb7",
+      "filename": "NWSTVSHP.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 246,
+      "name": "NWSBLSKY",
+      "description": "Newsagent posters",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 128835,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006eb7",
+      "filename": "NWSBLSKY.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4097,
+      "name": "FAT_BOY",
+      "description": "Temporary fat bastard",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 51899,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10802c31",
+      "filename": "FAT_BOY.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4098,
+      "name": "LAMPOST",
+      "description": "Lamp post",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 48522,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10002946",
+      "filename": "LAMPOST.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4099,
+      "name": "PEBBLE1",
+      "description": "Pebble",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2894,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108001d2",
+      "filename": "PEBBLE1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4100,
+      "name": "PEBBLE2",
+      "description": "Pebble",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2559,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800188",
+      "filename": "PEBBLE2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4101,
+      "name": "PEBBLE3",
+      "description": "Pebble",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 1157,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800051",
+      "filename": "PEBBLE3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "PEBBLE4",
+      "description": "Pebble",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 1672,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000c3",
+      "filename": "PEBBLE4.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "HYDRANT",
+      "description": "Fire hydrant",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 7491,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108005cb",
+      "filename": "HYDRANT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "TRASHCAN",
+      "description": "Dust bin",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 23248,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080136b",
+      "filename": "TRASHCAN.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "CHIMNEY1",
+      "description": "Chimney affair 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 12094,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108009c6",
+      "filename": "CHIMNEY1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "CHIMNEY2",
+      "description": "Chimney affair 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 7269,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080059a",
+      "filename": "CHIMNEY2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "SPIRE1",
+      "description": "Church spire",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 26293,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1000160d",
+      "filename": "SPIRE1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "FLAG",
+      "description": "Flag",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 458705,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1100075d",
+      "filename": "FLAG.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4109,
+      "name": "TRAFLITE",
+      "description": "Traffic light",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 42285,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1100020d",
+      "filename": "TRAFLITE.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4110,
+      "name": "BINBAG1",
+      "description": "Bin bag full of crap",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 12008,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108009b3",
+      "filename": "BINBAG1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "BINBAG2",
+      "description": "Bin bag full of crap",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 9548,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800793",
+      "filename": "BINBAG2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4112,
+      "name": "LAMPOST2",
+      "description": "Lamp post No. 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 30892,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10001a07",
+      "filename": "LAMPOST2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "LAMPOST3",
+      "description": "Lamp post facing away ",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 48522,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10002946",
+      "filename": "LAMPOST3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "WINLITE1",
+      "description": "Distant light in windows",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 946,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000023",
+      "filename": "WINLITE1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "WINLITE2",
+      "description": "Distant light in windows",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 946,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000023",
+      "filename": "WINLITE2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "WINLITE3",
+      "description": "Distant light in windows",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 946,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000023",
+      "filename": "WINLITE3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "POSTSIGN",
+      "description": "Post holding big sign",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 7174,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000585",
+      "filename": "POSTSIGN.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4118,
+      "name": "LOG",
+      "description": "Dog's doings",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 1479,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800099",
+      "filename": "LOG.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "FLIES",
+      "description": "Swarming flies",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 163581,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000e0",
+      "filename": "FLIES.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "BUS_STOP",
+      "description": "Bus stop",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 38768,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108020d7",
+      "filename": "BUS_STOP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "BOLLARD1",
+      "description": "Bollard",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 6903,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800549",
+      "filename": "BOLLARD1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4122,
+      "name": "BOLLARD2",
+      "description": "Bollard with grass at bot",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 8123,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800657",
+      "filename": "BOLLARD2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "CHIMNEY",
+      "description": "Metal chimney thing",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000517",
+      "filename": "CHIMNEY.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "WEELYBIN",
+      "description": "Wheelie bin 1",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 37078,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801f61",
+      "filename": "WEELYBIN.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4125,
+      "name": "WEELYBN2",
+      "description": "Wheelie bin 2",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 37078,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801f61",
+      "filename": "WEELYBN2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "WEELYBN3",
+      "description": "Wheelie bin 3",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 44261,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10802597",
+      "filename": "WEELYBN3.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4127,
+      "name": "TRFLITE2",
+      "description": "Traffic lights yellow",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 14610,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000bf3",
+      "filename": "TRFLITE2.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "PILABALL",
+      "description": "Stone ball on pillars",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 13774,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10000b3a",
+      "filename": "PILABALL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "TREE3",
+      "description": "Big tree with face",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 144714,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10007c72",
+      "filename": "TREE3.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "TREE4",
+      "description": "Big tree with face",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 144714,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10007c72",
+      "filename": "TREE4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "GHOST",
+      "description": "Ghost haunting park",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 765901,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180296c",
+      "filename": "GHOST.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4134,
+      "name": "CINELITE",
+      "description": "Light bulb",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 1726,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000cf",
+      "filename": "CINELITE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4135,
+      "name": "TVLIGHT",
+      "description": "Light in the tv shack",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 12596,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10900a35",
+      "filename": "TVLIGHT.gif",
+      "flags": [
+        "0x10",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4138,
+      "name": "BEACON",
+      "description": "Road closed cone 1",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 163938,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1100022a",
+      "filename": "BEACON.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4139,
+      "name": "EMPTYBOX",
+      "description": "Empty box in TV shop",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 19898,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801086",
+      "filename": "EMPTYBOX.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4140,
+      "name": "EMPTYBX1",
+      "description": "Empty box in middle of floor",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 19898,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801086",
+      "filename": "EMPTYBX1.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4141,
+      "name": "MANTV1",
+      "description": "Salesman!",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 622773,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118007e4",
+      "filename": "MANTV1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4143,
+      "name": "ROOF",
+      "description": "Roof of the cradle",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 31416,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x800000f1",
+      "filename": "ROOF.gif",
+      "flags": [
+        "0x8000"
+      ]
+    },
+    {
+      "index": 4144,
+      "name": "MOP",
+      "description": "Mop in cradle",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 17603,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800e8a",
+      "filename": "MOP.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4145,
+      "name": "AERIAL",
+      "description": "Aerial on the roof of telly",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 3293,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080022a",
+      "filename": "AERIAL.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4146,
+      "name": "BOILER",
+      "description": "Boiler in cradle",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 47025,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x110000ef",
+      "filename": "BOILER.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4147,
+      "name": "CHIM",
+      "description": "Chimney on roof",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 109257,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800337",
+      "filename": "CHIM.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4148,
+      "name": "PULLEY",
+      "description": "Pulley on cradle",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 4694,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800360",
+      "filename": "PULLEY.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4149,
+      "name": "CHAINHK",
+      "description": "Bar that cradle slides down",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 11240,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800909",
+      "filename": "CHAINHK.gif",
+      "flags": [
+        "0x2",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4150,
+      "name": "CHAINHK2",
+      "description": "Bar that cradle slides down up",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 23923,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801401",
+      "filename": "CHAINHK2.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4151,
+      "name": "USA",
+      "description": "US flag",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 4979,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080039f",
+      "filename": "USA.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4153,
+      "name": "WANTBIN",
+      "description": "Wheely wanted",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 37078,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10801f61",
+      "filename": "WANTBIN.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4154,
+      "name": "ROUND9",
+      "description": "Roundabout",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 1053081,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11803246",
+      "filename": "ROUND9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4155,
+      "name": "MANTV2",
+      "description": "Salesman!",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 570942,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118007da",
+      "filename": "MANTV2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4156,
+      "name": "MANTV3",
+      "description": "Salesman!",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 622773,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800a1b",
+      "filename": "MANTV3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4157,
+      "name": "MANTV4",
+      "description": "Salesman!",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 570942,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118008d7",
+      "filename": "MANTV4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4158,
+      "name": "MANTV5",
+      "description": "Salesman!",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 415449,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118005c7",
+      "filename": "MANTV5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4159,
+      "name": "MANTV6",
+      "description": "Salesman!",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 415449,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118005c7",
+      "filename": "MANTV6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4160,
+      "name": "MANTV7",
+      "description": "Salesman!",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 570942,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1180097d",
+      "filename": "MANTV7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4161,
+      "name": "MANTV8",
+      "description": "Salesman!",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 570942,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800b59",
+      "filename": "MANTV8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4162,
+      "name": "MANTV9",
+      "description": "Salesman!",
+      "animated": true,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 570942,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800785",
+      "filename": "MANTV9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4165,
+      "name": "STOOL",
+      "description": "Stoll to climb out of cradle",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 8021,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800641",
+      "filename": "STOOL.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4169,
+      "name": "SPONGE",
+      "description": "Sponge in cradle",
+      "animated": false,
+      "origin": "TRUCKTV.DAS",
+      "offset": 5242880,
+      "size": 2431,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x1080016b",
+      "filename": "SPONGE.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,957 @@
+{
+  "files": [
+    {
+      "index": 0,
+      "name": "SKY_TEMP",
+      "description": "temporary skyline",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY_TEMP.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 1,
+      "name": "MUSHWALL",
+      "description": "Mushwall",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 126467,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10006cab",
+      "filename": "MUSHWALL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 2,
+      "name": "FANWALL",
+      "description": "Fan wall and door to flat",
+      "animated": true,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 344256,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000858",
+      "filename": "FANWALL.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "WAL_BIT1",
+      "description": "Wall bit 1",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 52306,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002c8b",
+      "filename": "WAL_BIT1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 6,
+      "name": "WAL_BIT2",
+      "description": "Wall bit 2",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 24495,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000147f",
+      "filename": "WAL_BIT2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 7,
+      "name": "WAL_BIT3",
+      "description": "Wall bit 3",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 9153,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000073b",
+      "filename": "WAL_BIT3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 8,
+      "name": "WAL_BIT4",
+      "description": "Wall bit 4",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 15568,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000cc7",
+      "filename": "WAL_BIT4.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 9,
+      "name": "CORI1",
+      "description": "Coridor wall 1",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 44174,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002583",
+      "filename": "CORI1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 10,
+      "name": "CORI2",
+      "description": "Coridor wall 2 ",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 10635,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000883",
+      "filename": "CORI2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 11,
+      "name": "CORI3",
+      "description": "Coridor wall 3 ",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 4852,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000383",
+      "filename": "CORI3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 12,
+      "name": "CORI4",
+      "description": "Coridor wall 4",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 4852,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000383",
+      "filename": "CORI4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 13,
+      "name": "CORI5",
+      "description": "Coridor wall 5",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 10635,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000883",
+      "filename": "CORI5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 14,
+      "name": "CORI6",
+      "description": "Coridor wall 6",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 43835,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10002538",
+      "filename": "CORI6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 15,
+      "name": "FLATDOR2",
+      "description": "Door to other flat",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001583",
+      "filename": "FLATDOR2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 16,
+      "name": "FLOOR2",
+      "description": "floor texture 1",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "FLOOR2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 17,
+      "name": "OVER_FD",
+      "description": "Bit above fire door",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 5413,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003ff",
+      "filename": "OVER_FD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 18,
+      "name": "FD_SIDE1",
+      "description": "wall bit at fire dr side",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 5107,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100003bc",
+      "filename": "FD_SIDE1.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 19,
+      "name": "WAL_BIT6",
+      "description": "wall sect right of fire door ",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 9731,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100007bb",
+      "filename": "WAL_BIT6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 20,
+      "name": "LIFTWAL1",
+      "description": "wall left of lift ",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 45439,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000269b",
+      "filename": "LIFTWAL1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 21,
+      "name": "LIFTWAL2",
+      "description": "panel above lift",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 6985,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000055b",
+      "filename": "LIFTWAL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 22,
+      "name": "LIFTWAL3",
+      "description": "inner wall bit",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 3407,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000243",
+      "filename": "LIFTWAL3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 23,
+      "name": "LIFTWAL4",
+      "description": "wall right of lift",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 37199,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001f7b",
+      "filename": "LIFTWAL4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 24,
+      "name": "GATE",
+      "description": "lift gate",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 33507,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c4a",
+      "filename": "GATE.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "FIREDOOR",
+      "description": "fire door ",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 25670,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10801583",
+      "filename": "FIREDOOR.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 28,
+      "name": "SHAFTWAL",
+      "description": "lift shaft wall ",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "SHAFTWAL.gif",
+      "flags": [
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "UNDAGIRD",
+      "description": "girder underside",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 10057,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000803",
+      "filename": "UNDAGIRD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 30,
+      "name": "CEILING",
+      "description": "ciling texture",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CEILING.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 34,
+      "name": "UNDASTR1",
+      "description": "underneath face of stairs",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 13815,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10800b43",
+      "filename": "UNDASTR1.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 35,
+      "name": "UNDASTR2",
+      "description": "underneath face of stairs 2",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 13815,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10800b43",
+      "filename": "UNDASTR2.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 36,
+      "name": "STEPFRNT",
+      "description": "front face of steps",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 13815,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10800b43",
+      "filename": "STEPFRNT.gif",
+      "flags": [
+        "0x80",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 37,
+      "name": "CONCRETE",
+      "description": "concrete floor",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCRETE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 39,
+      "name": "PROBE1",
+      "description": "Normbot backside1",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 13002,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000a8f",
+      "filename": "PROBE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 40,
+      "name": "PROBE2",
+      "description": "Normbot backside2",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 17520,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e77",
+      "filename": "PROBE2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 41,
+      "name": "PROBE3",
+      "description": "Normbot leg1",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000517",
+      "filename": "PROBE3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 42,
+      "name": "PROBE4",
+      "description": "Normbot leg2",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 7581,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005df",
+      "filename": "PROBE4.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "PROBE5",
+      "description": "Normbot leg3",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 7581,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100005df",
+      "filename": "PROBE5.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "DOREDGE1",
+      "description": "Edge of flat door",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 3244,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000021f",
+      "filename": "DOREDGE1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "PROBE6",
+      "description": "Normbot leg4",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 6677,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000517",
+      "filename": "PROBE6.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 46,
+      "name": "PROBE7",
+      "description": "Normbot above leg body1",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 1798,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000df",
+      "filename": "PROBE7.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 47,
+      "name": "PROBE8",
+      "description": "Normbot above leg body2",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 2883,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100001cf",
+      "filename": "PROBE8.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "PROBE9",
+      "description": "Normbot above leg body3",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 1889,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000f3",
+      "filename": "PROBE9.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "PROBEA",
+      "description": "Normbot speaker edge",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 4961,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000039b",
+      "filename": "PROBEA.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "PROBEB",
+      "description": "Normbot speaker front sliver",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 2069,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000011b",
+      "filename": "PROBEB.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "PROBEC",
+      "description": "Normbot speaker front",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 13093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000aa3",
+      "filename": "PROBEC.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "PROBED",
+      "description": "Normbot probe knob side",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 2612,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000193",
+      "filename": "PROBED.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "PROBEE",
+      "description": "Normbot front panel",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 14809,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000c1f",
+      "filename": "PROBEE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "PROBEF",
+      "description": "Normbot front above probe",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 3515,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000025b",
+      "filename": "PROBEF.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 55,
+      "name": "PROBEG",
+      "description": "Normbot speaker back sliver",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 2069,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x1000011b",
+      "filename": "PROBEG.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 56,
+      "name": "PROBEH",
+      "description": "Normbot speaker back middle",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 13093,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000aa3",
+      "filename": "PROBEH.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 57,
+      "name": "PROBEIN",
+      "description": "Normbot inner leg",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 3560,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000265",
+      "filename": "PROBEIN.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "PROBEND",
+      "description": "Normbot probe end",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 1753,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x100000d5",
+      "filename": "PROBEND.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "FIREXT",
+      "description": "Fire extinguisher",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 11963,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108009a9",
+      "filename": "FIREXT.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4127,
+      "name": "LIGHT",
+      "description": "light fitting",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 5010,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x109003a6",
+      "filename": "LIGHT.gif",
+      "flags": [
+        "0x10",
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "LIFTCABL",
+      "description": "lift cable",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 11513,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x10800946",
+      "filename": "LIFTCABL.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "BATTY4",
+      "description": "daft bat",
+      "animated": true,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 1683495,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800db0",
+      "filename": "BATTY4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4135,
+      "name": "TROLWEEL",
+      "description": "Normbot wheel",
+      "animated": false,
+      "origin": "LANDING.DAS",
+      "offset": 524288,
+      "size": 1719,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x108000ce",
+      "filename": "TROLWEEL.gif",
+      "flags": [
+        "0x80",
+        "0x1000"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1176 @@
+{
+  "files": [
+    {
+      "index": 1,
+      "name": "SKY",
+      "description": "Skyline ",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 74822,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x24003",
+      "filename": "SKY.gif",
+      "flags": [
+        "0x200"
+      ]
+    },
+    {
+      "index": 5,
+      "name": "CONCFLOR",
+      "description": "Floor",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10008003",
+      "filename": "CONCFLOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 25,
+      "name": "DOORED",
+      "description": "Edge of door",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 8900,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000703",
+      "filename": "DOORED.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 27,
+      "name": "PROCIEL",
+      "description": "Plain ceilng",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 148839,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x8003",
+      "filename": "PROCIEL.gif",
+      "flags": []
+    },
+    {
+      "index": 28,
+      "name": "BIGDOOR",
+      "description": "Big door",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 76362,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10004158",
+      "filename": "BIGDOOR.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 29,
+      "name": "INPIPE",
+      "description": "Inside tubes textr",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 17068,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e13",
+      "filename": "INPIPE.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 43,
+      "name": "ZTOOBF",
+      "description": "Tube front ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 208649,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000c36",
+      "filename": "ZTOOBF.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 44,
+      "name": "MOODED",
+      "description": "mood edge ",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 33603,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c5f",
+      "filename": "MOODED.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 45,
+      "name": "ZWALL2",
+      "description": "mood wall ",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 32293,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001b3d",
+      "filename": "ZWALL2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 48,
+      "name": "MOODED1",
+      "description": "Display1",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 33603,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c5f",
+      "filename": "MOODED1.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 49,
+      "name": "MOODED2",
+      "description": "Display2 ",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 33603,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c5f",
+      "filename": "MOODED2.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 50,
+      "name": "MOODED3",
+      "description": "Display3 ",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 33603,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10001c5f",
+      "filename": "MOODED3.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 51,
+      "name": "INPIPBOT",
+      "description": "zoomtoob lower ",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 6903,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000549",
+      "filename": "INPIPBOT.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 52,
+      "name": "ZWALL1",
+      "description": "Message-Processing..",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 255953,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x110008ce",
+      "filename": "ZWALL1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 53,
+      "name": "INPIPERD",
+      "description": "Inner pipe red glow",
+      "animated": false,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 17068,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x10000e13",
+      "filename": "INPIPERD.gif",
+      "flags": [
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 54,
+      "name": "ZTOOBR",
+      "description": "Ztoob front red",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 209881,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000c3f",
+      "filename": "ZTOOBR.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 58,
+      "name": "LITENIN1",
+      "description": "Lightning flash",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 431065,
+      "type": "image/gif",
+      "kind": "texture",
+      "unknown": "0x11000bf6",
+      "filename": "LITENIN1.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4102,
+      "name": "SPARK1",
+      "description": "Spark hover1",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARK1.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4103,
+      "name": "SPARK2",
+      "description": "Spark hover1 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARK2.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4104,
+      "name": "SPARK3",
+      "description": "Spark hover1 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARK3.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4105,
+      "name": "SPARK4",
+      "description": "Spark hover1 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARK4.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4106,
+      "name": "SPARK5",
+      "description": "Spark hover1 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARK5.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4107,
+      "name": "SPARK6",
+      "description": "Spark hover1 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARK6.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4108,
+      "name": "SPARK7",
+      "description": "Spark hover1 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARK7.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4109,
+      "name": "SPARK8",
+      "description": "Spark hover1 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARK8.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4110,
+      "name": "SPARK9",
+      "description": "Spark hover1 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARK9.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4111,
+      "name": "SPARKA",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKA.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4112,
+      "name": "SPARKB",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKB.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4113,
+      "name": "SPARKC",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKC.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4114,
+      "name": "SPARKD",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKD.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4115,
+      "name": "SPARKE",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKE.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4116,
+      "name": "SPARKF",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKF.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4117,
+      "name": "SPARKG",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKG.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4118,
+      "name": "SPARKH",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKH.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4119,
+      "name": "SPARKI",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKI.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4120,
+      "name": "SPARKJ",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKJ.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4121,
+      "name": "SPARKK",
+      "description": "Spark hover2 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKK.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4122,
+      "name": "SPARKL",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKL.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4123,
+      "name": "SPARKM",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKM.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4124,
+      "name": "SPARKN",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKN.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4125,
+      "name": "SPARKO",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKO.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4126,
+      "name": "SPARKP",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKP.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4127,
+      "name": "SPARKQ",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKQ.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4128,
+      "name": "SPARKR",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKR.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4129,
+      "name": "SPARKS",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKS.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4130,
+      "name": "SPARKT",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKT.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4131,
+      "name": "SPARKU",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKU.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4132,
+      "name": "SPARKV",
+      "description": "Spark hover3 ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 16593,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118000ad",
+      "filename": "SPARKV.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4134,
+      "name": "NUTTY-A",
+      "description": "",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 1569906,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11003b56",
+      "filename": "NUTTY-A.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4135,
+      "name": "NUTTY-B",
+      "description": "",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 585891,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11001e66",
+      "filename": "NUTTY-B.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4136,
+      "name": "NUTTY-C",
+      "description": "",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 2022021,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11006262",
+      "filename": "NUTTY-C.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4137,
+      "name": "NUTTY-D",
+      "description": "",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 2048616,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11005814",
+      "filename": "NUTTY-D.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4139,
+      "name": "DAIWOBLE",
+      "description": "ghostly dai",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 710213,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801159",
+      "filename": "DAIWOBLE.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4140,
+      "name": "NORMSKI",
+      "description": "spooky norm ghost",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 7681841,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11809bd9",
+      "filename": "NORMSKI.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4141,
+      "name": "PRU",
+      "description": "pru delusions",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 1364961,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11801e7b",
+      "filename": "PRU.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4142,
+      "name": "TIDLEWIG",
+      "description": "tiddlers wig",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 783051,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800cb0",
+      "filename": "TIDLEWIG.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4143,
+      "name": "ELVIS",
+      "description": "wobbly elvis ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 507097,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800d0b",
+      "filename": "ELVIS.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4144,
+      "name": "CRABBY",
+      "description": "normcrab",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 4770776,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11807689",
+      "filename": "CRABBY.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4145,
+      "name": "FISHIES",
+      "description": "mad fish",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 2714113,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11803d9d",
+      "filename": "FISHIES.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4146,
+      "name": "ECHODOG",
+      "description": "pistolpackin",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 701435,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118023e1",
+      "filename": "ECHODOG.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4147,
+      "name": "BOB",
+      "description": "spittin' thing ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 650281,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11800a6c",
+      "filename": "BOB.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4148,
+      "name": "FATHEAD",
+      "description": "pink pear boy ",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 91601,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x118003a8",
+      "filename": "FATHEAD.gif",
+      "flags": [
+        "0x80",
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    },
+    {
+      "index": 4149,
+      "name": "SAUL",
+      "description": "Saul wih note",
+      "animated": true,
+      "origin": "FILTER.DAS",
+      "offset": 3407872,
+      "size": 390516,
+      "type": "image/gif",
+      "kind": "sprite",
+      "unknown": "0x11001445",
+      "filename": "SAUL.gif",
+      "flags": [
+        "0x100",
+        "0x200",
+        "0x400",
+        "0x1000"
+      ]
+    }
+  ]
+}
